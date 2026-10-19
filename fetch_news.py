@@ -68,7 +68,6 @@ def main():
   except Exception as ex:print('WARNING',cat,src,str(ex)[:250])
   time.sleep(.3)
  articles=sorted(existing.values(),key=lambda a:a.get('publishedAt',''),reverse=True)
- articles=[a for a in articles if a.get('publishedAt','') >= (NOW-timedelta(days=90)).isoformat()][:400]
  OUT.parent.mkdir(parents=True,exist_ok=True)
  obj={'updatedAt':NOW.isoformat(),'articles':articles,'status':'ok' if articles else 'empty','newCount':count,'sourcesChecked':len(FEEDS)}
  OUT.write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n')
