@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T08:06:59.975706+00:00",
+  "updatedAt": "2026-10-19T08:15:10.321247+00:00",
   "articles": [
     {
       "id": "rss_b4e8e36e896955cccce3",
@@ -601,6 +601,6 @@
     }
   ],
   "status": "ok",
-  "newCount": 46,
+  "newCount": 0,
   "sourcesChecked": 7
 }
