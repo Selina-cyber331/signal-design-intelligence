@@ -1,6 +1,349 @@
 {
-  "updatedAt": "2026-10-19T08:18:05.226458+00:00",
+  "updatedAt": "2026-10-20T00:55:15.950787+00:00",
   "articles": [
+    {
+      "id": "rss_d2e3947c3b3d2b8fdfdb",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "category": "tech",
+      "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T23:39:38+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a54d05f91e198d101096",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "category": "tech",
+      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T22:49:27+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9031969200ec7dc82b2f",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "category": "tech",
+      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T22:04:28+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a330ae2c47f852fdba3a",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "category": "tech",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T20:09:24+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ac52870fd0931e52f36e",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "category": "tech",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T19:28:34+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_200fb3510b9a7b1f123e",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "category": "tech",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T19:00:12+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Tolan snags $30M for its AI companion that helps users navigate life",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e1152f328ad638b527b6",
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "category": "tech",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T18:49:04+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c0b02b00f91714bddfad",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "category": "tech",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T18:37:27+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2a849442cde5061e2936",
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "category": "tech",
+      "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T18:00:39+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_dea5427d4dcb8d81da16",
+      "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+      "category": "tech",
+      "summary": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
+      "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T17:39:51+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_264e8a712a7e63f5a8b1",
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "category": "tech",
+      "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T16:55:56+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8fd94178d050ba3b94be",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "category": "tech",
+      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T16:13:22+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "交互体验",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：People are using AI to make their smart TVs dumb again",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_302a8e22e8a765d4b44f",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "category": "tech",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T15:37:09+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6a0d9392ca22fd321ac6",
+      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+      "category": "tech",
+      "summary": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+      "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T12:56:14+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d043b7f240f0477aa287",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+      "category": "tech",
+      "summary": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
+      "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T12:42:55+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d64a6d850c8620b33f36",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "category": "tech",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T12:30:00+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ecfafb7b24977ba40f1a",
+      "title": "Apple Leaked Everything.. AGAIN! - Geeky Gadgets",
+      "category": "tech",
+      "summary": "Apple Leaked Everything.. AGAIN! Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tbmFoYnk5X0hoQ3l6M2hVRm5FcTQ2VGhjRklkVzZURnlSUzJqOTVLNnVGM1F5Q1dfcEZfM2s4SHFiS2c4ajhOaXJNVkRqR0NlVkJwRFZpVQ?oc=5",
+      "source": "Geeky Gadgets",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T08:34:49+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Leaked Everything.. AGAIN! - Geeky Gadgets",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_b4e8e36e896955cccce3",
       "title": "Apple’s October 28 Event: Every Rumored Product Set to Drop - Geeky Gadgets",
@@ -12,7 +355,14 @@
       "publishedAt": "2026-10-19T07:34:49+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple’s October 28 Event: Every Rumored Product Set to Drop - Geeky Gadgets",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_aef61b7cc83e490e8ee6",
@@ -25,7 +375,14 @@
       "publishedAt": "2026-10-19T07:30:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_69087d64efebe1257b10",
@@ -38,7 +395,14 @@
       "publishedAt": "2026-10-19T06:06:29+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品发布"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：What's new from Config India 2026 - Figma Learn",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_6d1c35a0a8f076128889",
@@ -51,7 +415,14 @@
       "publishedAt": "2026-10-18T21:00:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_18f0848c12be92f7604a",
@@ -64,7 +435,14 @@
       "publishedAt": "2026-10-18T20:37:40+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_5ea03248417543c54769",
@@ -77,7 +455,14 @@
       "publishedAt": "2026-10-18T19:03:38+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_96b3ea232a53b488a0ab",
@@ -90,7 +475,14 @@
       "publishedAt": "2026-10-18T16:30:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Disney agrees to hire the majority of Character.AI’s workforce",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_8293b3fe449502fc9eb5",
@@ -103,7 +495,54 @@
       "publishedAt": "2026-10-18T16:05:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TechCrunch Mobility: Rivian’s next act",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f13dbe42760ffab81634",
+      "title": "Creating and using ChatGPT Sites - OpenAI Help Center",
+      "category": "ai",
+      "summary": "Creating and using ChatGPT Sites OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVURFNzZ4MWdZZVNNYU9DeG1fMkZyVlVGMDdtWW80WlRzMUhnRDlMaWJXZU1FTjJCSEIzd1VpOXdwSlRzbzFxZWZfUTdqM01yNmJQcFI0dEZ4TEpxR0tkaWlkWmFHdjRfNXBTdkVnVUNEaGR0Y3U0emlzbTZYU0FNWG12aw?oc=5",
+      "source": "OpenAI Help Center",
+      "date": "2026-10-17",
+      "publishedAt": "2026-10-17T23:41:25+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Creating and using ChatGPT Sites - OpenAI Help Center",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_16994b53dd6ab29cb20d",
+      "title": "iOS and iPadOS 27 - Figma",
+      "category": "figma",
+      "summary": "iOS and iPadOS 27 Figma",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WdE9mMm1mZ0l6T204VGlYdmFwNlRRZW9pREZVOXNMUjNFVmFGX1RWS05NTjRrSGJlNnhsV2NRT1VuM3kwdjNEcHZmekJZbkdsc2k3NzFNRzRZQVpQTFNuNi1YV2FJQWRpTW1iQ0hhenNWUEhLeHB2X1AtZ3R4cFE?oc=5",
+      "source": "Figma",
+      "date": "2026-10-17",
+      "publishedAt": "2026-10-17T22:05:56+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：iOS and iPadOS 27 - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_e1e19ef4c4f9d1e39867",
@@ -116,7 +555,14 @@
       "publishedAt": "2026-10-17T21:31:32+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta removes language that raised scraping and AI training concerns",
+      "priority": 2,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_8a320dbfb310383c4bb1",
@@ -129,7 +575,14 @@
       "publishedAt": "2026-10-17T20:55:52+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "平台生态"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TikTok says it’s restored ‘Musk’ documentary advertising account",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_f429b982acd1b35a133c",
@@ -142,7 +595,14 @@
       "publishedAt": "2026-10-17T20:21:19+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_cd7eaa0ec19684854ad8",
@@ -155,7 +615,15 @@
       "publishedAt": "2026-10-17T18:48:08+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Replit makes OpenAI its default over Anthropic, CEO says",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_ef878fe162bbc3062a2a",
@@ -168,7 +636,14 @@
       "publishedAt": "2026-10-17T15:30:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_2f41d7bc0b48b25da360",
@@ -181,7 +656,14 @@
       "publishedAt": "2026-10-17T10:00:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple’s CEO John Ternus Criticizes Early Samsung Foldables as “Low-Quality” During iPhone Duo Launch",
+      "priority": 2,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_f6573fa60611909ddc67",
@@ -194,7 +676,14 @@
       "publishedAt": "2026-10-17T03:46:46+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Troubleshooting plugins and apps in ChatGPT - OpenAI Help Center",
+      "priority": 2,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_951e60231c0222a7656b",
@@ -207,7 +696,14 @@
       "publishedAt": "2026-10-17T02:36:18+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_0228299bdc6c276511dd",
@@ -220,7 +716,14 @@
       "publishedAt": "2026-10-16T23:24:03+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：How Itaú is building generative AI for its entire customer base - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_ee08b2c1373069c0c36a",
@@ -233,7 +736,14 @@
       "publishedAt": "2026-10-16T19:40:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_02b9f0d170fda1fbda25",
@@ -246,7 +756,14 @@
       "publishedAt": "2026-10-16T17:52:24+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：India becomes the latest country to report rogue AI agent activity",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_403dd33694a57c610fc9",
@@ -259,7 +776,14 @@
       "publishedAt": "2026-10-16T16:45:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：The AI expectations gap - Anthropic",
+      "priority": 2,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_331658d36eaa096a07b6",
@@ -272,7 +796,15 @@
       "publishedAt": "2026-10-16T16:30:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_e12408aceeb9b69b59e3",
@@ -285,7 +817,14 @@
       "publishedAt": "2026-10-16T16:06:38+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Waymo’s robotaxis are headed to Canada",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_351fc99894fbda4565b8",
@@ -298,7 +837,14 @@
       "publishedAt": "2026-10-16T16:01:37+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Elorian’s first AI model wants to reason with images, not just about them",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_818c9dae9d7d47a52966",
@@ -311,7 +857,15 @@
       "publishedAt": "2026-10-16T16:00:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_689def1a565a549a64fd",
@@ -324,7 +878,14 @@
       "publishedAt": "2026-10-16T16:00:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_9f5d35a8be3c4a6a69f5",
@@ -337,7 +898,14 @@
       "publishedAt": "2026-10-16T15:33:49+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jev is Vercel’s fastest-adopted AI model ever",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_a6e6b3ee29d54b9c9fd6",
@@ -350,7 +918,14 @@
       "publishedAt": "2026-10-16T10:00:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "UX方法"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：Is Your Organization Messing Up AI Adoption?",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_631d0c629339f3dba718",
@@ -363,7 +938,34 @@
       "publishedAt": "2026-10-16T05:42:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Getting started with your dot - OpenAI Help Center",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_151692fd671e4bef1016",
+      "title": "Use AI tools in Figma Design - Figma Learn",
+      "category": "figma",
+      "summary": "Use AI tools in Figma Design Figma Learn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUwwTlVYZ1diZnFYYzFjRF9TYjRpMnhBb3R1VUowcTVwY2dYNzJEQWFLMGJJd0tkbWsxRWhZeW5VRzRmNUZYUzZ2WVFBSi1Jdm9JUXJDVnFlVldHbGpCempqLVlycklIdjQxZUZfSVR4c1c5bS1qakZwWHdYQ092ZWJKTFBWdlhtVHIwNw?oc=5",
+      "source": "Figma Learn",
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T23:55:47+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Use AI tools in Figma Design - Figma Learn",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_2df13a2ac8244ba6d706",
@@ -376,7 +978,14 @@
       "publishedAt": "2026-10-15T21:04:31+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Bringing GPT-Rosalind to academic research labs - OpenAI",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_6ca42610173a63d8228b",
@@ -389,7 +998,14 @@
       "publishedAt": "2026-10-15T16:41:41+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple to Unveil Groundbreaking Touchscreen MacBook Pro with OLED Display on October 28 - freeyork",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_1f9d584244d9e8055742",
@@ -402,7 +1018,14 @@
       "publishedAt": "2026-10-15T13:05:19+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：An intelligent new shopping cart - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_3786ac5ea48931bed544",
@@ -415,7 +1038,14 @@
       "publishedAt": "2026-10-15T11:26:46+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Guide to Specs in Figma - Figma Learn",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_db2fe648822e8d2f2d04",
@@ -428,7 +1058,14 @@
       "publishedAt": "2026-10-15T07:00:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Release Notes - Figma",
+      "priority": 4,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_91fec3ffb6fc21f79945",
@@ -441,7 +1078,14 @@
       "publishedAt": "2026-10-15T07:00:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：More product updates - Figma",
+      "priority": 4,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_05c0c8f78405ef39ff98",
@@ -454,7 +1098,14 @@
       "publishedAt": "2026-10-15T05:09:55+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Figma Specs: A container for your context - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_bfc0ba164b75d5e69c52",
@@ -467,7 +1118,14 @@
       "publishedAt": "2026-10-15T05:09:55+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Build by Design: New Workflows for New Ways of Building - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_64f86bb68ae160e857fc",
@@ -480,7 +1138,14 @@
       "publishedAt": "2026-10-15T05:09:54+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Create, Ship, and Manage Data-Backed Websites With Payload in Figma - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_780cd343f0c5873917e9",
@@ -493,7 +1158,14 @@
       "publishedAt": "2026-10-15T05:09:54+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing Specs: Markdown As a Medium - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_df15b63107cfef467f0b",
@@ -506,7 +1178,14 @@
       "publishedAt": "2026-10-15T05:09:54+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Design Together With Code Layers on the Canvas - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_86819385047cdc2ab88a",
@@ -519,7 +1198,14 @@
       "publishedAt": "2026-10-14T23:58:14+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Code layers in Figma Design - Figma Learn",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_33c05b603ef66276effb",
@@ -532,7 +1218,14 @@
       "publishedAt": "2026-10-14T18:33:00+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Preparing for the 2026 US midterms - Anthropic",
+      "priority": 2,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_6e5cc03985949d71f9a4",
@@ -545,7 +1238,14 @@
       "publishedAt": "2026-10-14T15:19:43+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI Agent"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：How Third Moment Research runs 10,000 agents for 36+ hours - OpenAI",
+      "priority": 3,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_5eeb5df2f00b859375a3",
@@ -558,7 +1258,15 @@
       "publishedAt": "2026-10-13T20:50:10+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI Agent",
+        "模型能力"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Amp puts AI agents to work beyond code with OpenAI models - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_6e2d7b194e2009c0dddf",
@@ -571,7 +1279,14 @@
       "publishedAt": "2026-10-13T18:14:01+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Developing Gemini 4 Argon responsibly and safely - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_595cb54fa3f735133289",
@@ -584,7 +1299,34 @@
       "publishedAt": "2026-10-13T16:16:01+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Gemini 4 Argon: Built to solve your hardest problems - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0c21eacaec8b59a050f4",
+      "title": "The Vogue Business AI Tracker - Vogue",
+      "category": "tech",
+      "summary": "The Vogue Business AI Tracker Vogue",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZjdHNXA5d2R6TzFwTW9Ib3dIX0IyUWprZ1QzSWtnSmdZVms3aENwcTJkaHJxOEVDWUNkX3NZX2pDbkNUa1F1Ui1sZHlJUDgzR185TmhLVElfX3hzUFlBMnp2eHpPQkgzcU9rVkhaUExBY0doaHNn?oc=5",
+      "source": "Vogue",
+      "date": "2026-10-13",
+      "publishedAt": "2026-10-13T09:00:00+00:00",
+      "added": "2026-10-20",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The Vogue Business AI Tracker - Vogue",
+      "priority": 1,
+      "analysisType": "规则初筛"
     },
     {
       "id": "rss_78c4079e7b09a7f37eb0",
@@ -597,10 +1339,18 @@
       "publishedAt": "2026-10-12T13:09:28+00:00",
       "added": "2026-10-19",
       "saved": false,
-      "automatic": true
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google Fitbit Edge: Our all-new smartest fitness tracker ever - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
     }
   ],
   "status": "ok",
-  "newCount": 0,
-  "sourcesChecked": 7
+  "newCount": 21,
+  "sourcesChecked": 7,
+  "archivedDays": 2
 }
