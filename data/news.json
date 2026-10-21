@@ -1,6 +1,487 @@
 {
-  "updatedAt": "2026-10-20T00:55:15.950787+00:00",
+  "updatedAt": "2026-10-21T02:23:19.025139+00:00",
   "articles": [
+    {
+      "id": "rss_30de479b104f8170cf62",
+      "title": "Apple CEO Tim Cook Emphasizes Design and User-Centric Innovation Ahead of iPhone Duo Launch - KuCoin",
+      "category": "tech",
+      "summary": "Apple CEO Tim Cook Emphasizes Design and User-Centric Innovation Ahead of iPhone Duo Launch KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaVAwd3dQd29NNE9wOU9zeThPbHNraTJLZnE5MmRaQ2F1VXNHSHBZUnFqNXF2NHpLUnVFTlotd1lTTDBHd1E5OG5oNmU5b2EtbGpTelB3dnRZajE5T2NKSGxwc0VyU2dEWG14dzBKSmVlMGN5U2p3QWZNYXplSHRtNjBYZzNjSGNKQVZ3bXV4WVotS0YtcGp3anNRSWhVR0tpMWgxNDZNemVHMHh6OHo3TWw0TjZRLTVrdVc1aTBSYno?oc=5",
+      "source": "KuCoin",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T01:13:38+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple CEO Tim Cook Emphasizes Design and User-Centric Innovation Ahead of iPhone Duo Launch - KuCoin",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7a3986b82bd2242f101d",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "category": "tech",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T23:01:23+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_fb2daf775c27462b206e",
+      "title": "SpaceX and Tesla boards form special committees to review merger",
+      "category": "tech",
+      "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T22:57:57+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：SpaceX and Tesla boards form special committees to review merger",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_92b16c87f4189a765df7",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "category": "tech",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T22:24:02+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2ac0d95fccd41e44d17f",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "category": "tech",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T21:25:22+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic’s cloud partnerships are getting messy",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9fa8e395b1178d2d30ad",
+      "title": "SpaceX’s AI business is beating expectations",
+      "category": "tech",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T20:40:41+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：SpaceX’s AI business is beating expectations",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_866fef3ca1cc125ab5c5",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "category": "tech",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T20:35:10+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_135545892bd05532f6ae",
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "category": "tech",
+      "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T20:00:00+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_eb54febec433424f02c8",
+      "title": "What's new from Config India 2026 - Figma",
+      "category": "figma",
+      "summary": "What's new from Config India 2026 Figma",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPemF0a3BubzRMQW9HNVBvRTl5VnJjd0Zic01yczVGRDQ0bkRWVlAtd0pmbDdTUVFJZXFYSUxha0VpY05QZHYtdklJVmlVWU41T0RnYWFZRm9NOEVVOE1YUm9tZ01NZmF3cmV1clhHc252aVdQWWJFU1FHRUhvVVZTd3lURWVNeGZDWGlyQmxJOGRyM3c?oc=5",
+      "source": "Figma",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T19:45:02+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品发布"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：What's new from Config India 2026 - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_343c8a622398b4e53825",
+      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "category": "tech",
+      "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
+      "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T19:32:43+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_84ecf15878f22d1809fa",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "category": "tech",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T18:38:24+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4773d2f2fd3756a5124e",
+      "title": "ChatGPT now lets you lock your chats",
+      "category": "tech",
+      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T18:36:53+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：ChatGPT now lets you lock your chats",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8fbb6ecc59830a8496ab",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "category": "tech",
+      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T17:55:12+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_63b57a5b118245e27ce3",
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "category": "tech",
+      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T17:12:48+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7c589bf95d8f15675774",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "category": "tech",
+      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T16:20:06+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_91d4a7a8518afce127bb",
+      "title": "Streaming guide JustWatch becomes a streamer itself",
+      "category": "tech",
+      "summary": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
+      "url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T16:01:24+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Streaming guide JustWatch becomes a streamer itself",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3b1c98fdb13b069333ae",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "category": "tech",
+      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T16:00:00+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d9684befd19142956259",
+      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+      "category": "tech",
+      "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+      "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T15:03:41+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TikTok staff raised child safety concerns, but executives reportedly failed to act",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9a2f3c2cd53de1a198f7",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "category": "tech",
+      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T14:13:32+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3a49373510178a37e31d",
+      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "category": "tech",
+      "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
+      "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T13:17:36+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c8493924592beb8b6d56",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "category": "tech",
+      "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T13:07:24+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_627909a980aa905a14c7",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "category": "tech",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "source": "TechCrunch",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T13:00:00+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b0b89c3fe1ae11f8301d",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "category": "ux",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "source": "Smashing Magazine",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T10:00:00+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "设计系统"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：Embracing Playful Imperfection With The CSS `random()` Function",
+      "priority": 4,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_223ea4a3595dab48a18a",
+      "title": "Apple Announces October 28 Event, New MacBook Pro And iPad Mini Launch Expected - Mashable India",
+      "category": "tech",
+      "summary": "Apple Announces October 28 Event, New MacBook Pro And iPad Mini Launch Expected Mashable India",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWstTHptY1lSUlBubXhkYlp1blZWVlY5bTU0V3ZVZWNpOE1uSHA4eWxtakJCRjl3OTdDeDJVblhTM2J6eklFbWlMMjdXQ1ZaT2FmWmxDRTQyUWlsTElyeUZUbnVyZVZ0MWk3OWxjV3VST1YteVZ1QnBKT29UVVFnN3dXcHpWWlFfemc4WWxKdGVocXN2QURRdkNjVDM2emFPdGJfbjd6X3ZaUkl2eXRDenNkMFk?oc=5",
+      "source": "Mashable India",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T07:22:18+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Announces October 28 Event, New MacBook Pro And iPad Mini Launch Expected - Mashable India",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_d2e3947c3b3d2b8fdfdb",
       "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
@@ -988,6 +1469,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_dd39db162b64dff18aef",
+      "title": "Apple consolidates smart-home capabilities in HomeView dashboard - Dezeen",
+      "category": "tech",
+      "summary": "Apple consolidates smart-home capabilities in HomeView dashboard Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzNmNzLVdsekFmdHZBdThKaTlYRDBrUDZtTFRSTmhZYWt2Yjk1RDA2WXh4aWpaclZzR3F6RU1lRDBIWDZ5em9VNDBTSW1WRUh1dzFaX0pnXzZHZUNKOGFoaHdacTJKNGNPTmVSeTRVRTNNalZMUGNseGpB?oc=5",
+      "source": "Dezeen",
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T17:02:49+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple consolidates smart-home capabilities in HomeView dashboard - Dezeen",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_6ca42610173a63d8228b",
       "title": "Apple to Unveil Groundbreaking Touchscreen MacBook Pro with OLED Display on October 28 - freeyork",
       "category": "tech",
@@ -1085,6 +1586,26 @@
       "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
       "takeaway": "先阅读原文核对事实；重点关注：More product updates - Figma",
       "priority": 4,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_266c2e1755ec373214a5",
+      "title": "Config - Figma",
+      "category": "figma",
+      "summary": "Config Figma",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Zci1tWjVSbDNfZTc2bkpwaUNxdWF3WlRIUm1JMGFNSEJ5TTFDLVo4cmp4ODZnNGpBUl84OUVoOE5fMkR6cUJiM21n?oc=5",
+      "source": "Figma",
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T07:00:00+00:00",
+      "added": "2026-10-21",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品发布"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Config - Figma",
+      "priority": 3,
       "analysisType": "规则初筛"
     },
     {
@@ -1350,7 +1871,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 21,
+  "newCount": 26,
   "sourcesChecked": 7,
-  "archivedDays": 2
+  "archivedDays": 3
 }
