@@ -1,6 +1,492 @@
 {
-  "updatedAt": "2026-10-21T02:23:19.025139+00:00",
+  "updatedAt": "2026-10-22T02:18:29.190943+00:00",
   "articles": [
+    {
+      "id": "rss_8877d473f6523fb4457c",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "category": "tech",
+      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "source": "TechCrunch",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T00:17:54+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Tesla says it will start selling Cybercabs by end of year",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_584b9a3d707916a597ea",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "category": "tech",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T22:51:22+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4ed62e0ea6b555f7903c",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "category": "tech",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T22:45:34+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d4b87a2de501386457e6",
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "category": "tech",
+      "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T22:16:05+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Airbnb limits chores for guests, sparking backlash from hosts",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7203ff9d40ee6c03836a",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "category": "tech",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T21:16:20+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TechCrunch Founder Summit 2026: Everything you need to know",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b2974c97895d29674f07",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "category": "tech",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T21:14:19+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta says Muse has over 10M users, with shopping a top activity",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e28f5e14812a1249411f",
+      "title": "The iPhone Duo Will Run iOS 27.1 at Launch on Friday - CNET",
+      "category": "tech",
+      "summary": "The iPhone Duo Will Run iOS 27.1 at Launch on Friday CNET",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85amRvQm8zS3MzNHMxYlFEQnB2Yl84V0hmVkk1bGE2dTJuR0w1dmY0X0JGQXdDWU5VTUNHa0UtWmFab1N2ekN5aWtIcElRWHNkNXZTd05Xa1l6NlhRMlVVRFA5TFhzeGxvRXQ0?oc=5",
+      "source": "CNET",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T21:09:00+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The iPhone Duo Will Run iOS 27.1 at Launch on Friday - CNET",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b8729732b8cf2dbb191d",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "category": "tech",
+      "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T20:57:40+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bf241dbf6e98a79ce3ff",
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "category": "tech",
+      "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T20:33:09+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Tesla starts Optimus robot production in California as profit falls 43%",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d129b22ab912c788a875",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "category": "tech",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T20:27:41+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d2e9e8ef7991098deac3",
+      "title": "Automattic begins layoffs following board upheaval and executive departures",
+      "category": "tech",
+      "summary": "Sources say more cuts could follow as the company looks to improve its finances.",
+      "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T20:15:00+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Automattic begins layoffs following board upheaval and executive departures",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_682b1bfd6b5f91af6930",
+      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+      "category": "tech",
+      "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T19:52:20+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：GM is betting compute and AI will help it compete with Chinese automakers",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d9fb99b7bf38a8a653f0",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
+      "category": "tech",
+      "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+      "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T19:42:32+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "隐私安全"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_fce6a549b394c1a34e39",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "category": "tech",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T19:30:00+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2d6e52a8083d1a3b6eb4",
+      "title": "The internet is having a very bad cybersecurity day",
+      "category": "tech",
+      "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+      "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T19:03:28+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The internet is having a very bad cybersecurity day",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_217dabaf5fc1a63a21c8",
+      "title": "Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter - Anthropic",
+      "category": "ai",
+      "summary": "Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxTV92LUpSMkM3VmtLNU5VN3VPNUFfRVFOUDY2b19URFhNUGtiX3pNdWZoT1ExT3dNSVpXQk5menJPQU9iYTVjWnlvZVU2eUk3XzBEWVROanFhNmp2Y0FYSTBFU0trTDhQeUVlOFpzTTJCNVBBRUg2RC04cGkzU1U?oc=5",
+      "source": "Anthropic",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T18:54:02+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter - Anthropic",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9c9b1c94281796d4cd3c",
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "category": "tech",
+      "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T18:51:56+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_61ffd44a9f9d9f2abd19",
+      "title": "GM is giving OnStar an AI makeover",
+      "category": "tech",
+      "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T18:00:00+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：GM is giving OnStar an AI makeover",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8fef6e233b96c5ef8cdc",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "category": "tech",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T17:59:12+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_13e4947618602b6c115c",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "category": "tech",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T17:18:27+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ff5e0e9e21156f97226f",
+      "title": "Waymo starts offering rides at the Las Vegas airport",
+      "category": "tech",
+      "summary": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city.",
+      "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T16:59:44+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Waymo starts offering rides at the Las Vegas airport",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_016e6bd0eefd3054dc68",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance - OpenAI",
+      "category": "ai",
+      "summary": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM29PNTRvNFBMbEFhQldaQ2lqX0VXWHdtRE1HUVp3SVRabmtXQlRqSFlJNXhMNEhMeXk4Q3YtOVlRTVA4bjZQNENfb0EwSnJaZ1R4VVZDRWx2ZTR3SDBSWA?oc=5",
+      "source": "OpenAI",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T14:28:04+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：How we built ChatGPT’s novel ad stack for user trust and relevance - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e46128f2a14b236ee995",
+      "title": "Apple’s HomeView Smart Display Now Available for Preorder Ahead of November Launch - Udaipur Kiran",
+      "category": "tech",
+      "summary": "Apple’s HomeView Smart Display Now Available for Preorder Ahead of November Launch Udaipur Kiran",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY09NbnlHNE1Td3ZOcGV3OVZXaFd0SnBQTHlmT2dJYTliMmFKMWVGSENjSUN4b25NSUszcUtlRlF2MVNScFpyVWIyYnNvTzFnMm1KeVRiS2VSS3JRc1Z6Z1V6U0kwVVY5QWR0M2c2SDFTTWtTb2E0eHRPZ0VtSHNrYVZuSGtnWDBNbTJhakM0WjkydVFGRWJibHVPS2pMeGNmbk5IZnl3NmZoSzA?oc=5",
+      "source": "Udaipur Kiran",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T14:07:26+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple’s HomeView Smart Display Now Available for Preorder Ahead of November Launch - Udaipur Kiran",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d7cda941b5ce9bb549e5",
+      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+      "category": "tech",
+      "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "source": "TechCrunch",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T14:03:11+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_30de479b104f8170cf62",
       "title": "Apple CEO Tim Cook Emphasizes Design and User-Centric Innovation Ahead of iPhone Duo Launch - KuCoin",
@@ -282,6 +768,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_c09d6bdf2acacc4ca266",
+      "title": "New Gemini tools for small business owners - blog.google",
+      "category": "ai",
+      "summary": "New Gemini tools for small business owners blog.google",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaWRnZ29tZVlBODFuMVVnZHJ3elhJS1dETWZwVWZwa0FQeVZ2d3dyRGkzOHFMUUlQalZoVk56azFiQ3dPYVVoX1VqeGR3SFZPQlZGeU85Njl2LVZfazFQR2VwV2xjZ1BuUE03WnF5SG5jc3ZIV0FCSmdUWjBqMjRHU2ZLTGdRY2tTQnVoN0VFaGN3QXVw?oc=5",
+      "source": "blog.google",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T16:47:03+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：New Gemini tools for small business owners - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_7c589bf95d8f15675774",
       "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
       "category": "tech",
@@ -479,6 +985,26 @@
       ],
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Apple Announces October 28 Event, New MacBook Pro And iPad Mini Launch Expected - Mashable India",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7d92196d2f8826f69868",
+      "title": "Apple Holds October 28 Event for OLED MacBook Pro Launch - VOI.ID",
+      "category": "tech",
+      "summary": "Apple Holds October 28 Event for OLED MacBook Pro Launch VOI.ID",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DTnU1bnVIVHBJb2hrRDBHX3g4dGhCTDR1TEFlR1ZvaldFMHBISWlCQjVIS29ZSDdVYjFkRnpFaTVjaVpyU1dHMUZlWdIBQkFVX3lxTE5Qc2kteHBfS016c00xalF4NzI0Q1FsQmdCdDRvcGcxZHROOUQxUk12VXFWUEt5Y2lkb3NTS2ZEdmVYUQ?oc=5",
+      "source": "VOI.ID",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Holds October 28 Event for OLED MacBook Pro Launch - VOI.ID",
       "priority": 2,
       "analysisType": "规则初筛"
     },
@@ -1469,6 +1995,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_56769e0f28bc7603d297",
+      "title": "Get started with Figma AI - Figma",
+      "category": "figma",
+      "summary": "Get started with Figma AI Figma",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0p2bHQ2VlNGZEktT2tqcG55dEpvLXpnb0xJQi1uX3pYNGJrbmpiZmZoQjRhcVJyeUNoYzhLazBMM2JXdnJqRUtURDJac3N2dG1qdEVSR25DU3lWQ1dBSmRMWk5XSXJnYnJ5bzUwY2pUVlZLQ0ZValBsR2ozM3d6ZzF0VDlaMDFp?oc=5",
+      "source": "Figma",
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T17:44:37+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Get started with Figma AI - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_dd39db162b64dff18aef",
       "title": "Apple consolidates smart-home capabilities in HomeView dashboard - Dezeen",
       "category": "tech",
@@ -1545,6 +2091,26 @@
       ],
       "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
       "takeaway": "先阅读原文核对事实；重点关注：Guide to Specs in Figma - Figma Learn",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f6461a8e4c601dc93e2b",
+      "title": "Guide to Specs in Figma - Figma",
+      "category": "figma",
+      "summary": "Guide to Specs in Figma Figma",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVEZlcFdZaDlmOFdHVlB0eDlrZURJT3A1clIxRng0YWh3OVg5VHZKM3U0bmtYcXROcGY3ZWNEUmhHazVmWnROOVZ6ZFRMTXNYRzFLdl9TalZiaGZlWC0zY05ILUtvUXFuSUtyOE1GQ2J1YXppMjR1NnVSZFVJd3d4TDFtVzU5dw?oc=5",
+      "source": "Figma",
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T11:26:46+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Guide to Specs in Figma - Figma",
       "priority": 3,
       "analysisType": "规则初筛"
     },
@@ -1729,6 +2295,46 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_36b1e38e6eb3db85b50f",
+      "title": "Code layers in Figma Design - Figma",
+      "category": "figma",
+      "summary": "Code layers in Figma Design Figma",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcGY2aHRHeG5JRHhrdmJSeThBdlAtbXpsR2pTUUNXMjNXdjZCb3R2ekl4dC0tbVNqRHh6MFhBR2hHVXVNRFItLXF6Smk3VkpLSTI3dnJ2bDFuaS1rOVFVSjctNzhUY3ZJczRwUEp3eEJ4T0E3eks3dUQxb3M3US1UWTBXdDVnV1Jybkh3?oc=5",
+      "source": "Figma",
+      "date": "2026-10-14",
+      "publishedAt": "2026-10-14T23:58:14+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Code layers in Figma Design - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f4f0718f0d28e17f6568",
+      "title": "Connecting custom MCP servers in ChatGPT - OpenAI Help Center",
+      "category": "ai",
+      "summary": "Connecting custom MCP servers in ChatGPT OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1NkT0o0Q3RreXlkdnR2d3BOLVVqU2N2RUpyM25BM1JfeUJPSEZGU0M0cndyT01yQ0YtQnJFQ2tnMVdLMllfcWxtWHk0cmRQX2pYcTBCUWdlYjFkQVlId2UzYjZjakhYRnI4d2ZYLVBZbU9fOXJoanU1SmtvQWFteTFBSklISm5vV2hwZXZ3?oc=5",
+      "source": "OpenAI Help Center",
+      "date": "2026-10-14",
+      "publishedAt": "2026-10-14T21:29:30+00:00",
+      "added": "2026-10-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Connecting custom MCP servers in ChatGPT - OpenAI Help Center",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_33c05b603ef66276effb",
       "title": "Preparing for the 2026 US midterms - Anthropic",
       "category": "ai",
@@ -1871,7 +2477,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 26,
+  "newCount": 30,
   "sourcesChecked": 7,
-  "archivedDays": 3
+  "archivedDays": 4
 }
