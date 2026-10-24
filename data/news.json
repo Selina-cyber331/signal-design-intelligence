@@ -1,6 +1,367 @@
 {
-  "updatedAt": "2026-10-23T02:24:09.881581+00:00",
+  "updatedAt": "2026-10-24T02:21:38.425325+00:00",
   "articles": [
+    {
+      "id": "rss_5bf8c5f8c81ad4223ef1",
+      "title": "ChatGPT Back to School offer for students - OpenAI Help Center",
+      "category": "ai",
+      "summary": "ChatGPT Back to School offer for students OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYUlvYlhqSGxqLUJtNU1pbEp2M3FPQmlsaHRPQTNpX3p0V3NlMTRfTkE1bExFWmVCWWcyemJEMU1vWDF4am9fOFdQdXFlRWJ1dEh0Mnh0aHhUSnhNMVJ4TjdBMTduZXU4WF92NWxvU0ZRdGRsRWdoQ251U29nQ1ZzdXBhaUFtSHBfM1FZQzJCQQ?oc=5",
+      "source": "OpenAI Help Center",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T01:23:16+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：ChatGPT Back to School offer for students - OpenAI Help Center",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f21fa39ea52bf46c8987",
+      "title": "How resets work in Codex - OpenAI Help Center",
+      "category": "ai",
+      "summary": "How resets work in Codex OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXSW94TktPLUpjR1lYRF9sX3lmM0pyUDVWVlN5ckphdmRoMHhoeGd3UHRYMlhfUmdwU1lORjF2UWljN0gwaXhaNlJRYnVkbGFzcWRwWkh0cTU4LWM5RVlrb1dDNE5DLWtfSzlFemoyckNYcFNLMXF4MQ?oc=5",
+      "source": "OpenAI Help Center",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T00:15:54+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：How resets work in Codex - OpenAI Help Center",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_270b99d6dd5907bdf371",
+      "title": "Startups don’t need to go viral to win customers",
+      "category": "tech",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T23:07:45+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Startups don’t need to go viral to win customers",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c7dbc71c52c464c3ae48",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "category": "tech",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T23:05:49+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4338038ec21a7e1f2c34",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "category": "tech",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T21:59:19+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_911003fa009189842b7e",
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "category": "tech",
+      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T20:57:13+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：VCs, Superhuman Mail founder share red flags about product-market fit",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c78d75cad4b91abc77f3",
+      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+      "category": "tech",
+      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T20:03:14+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right n",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8c38ae399579680aca69",
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "category": "tech",
+      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T19:25:13+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_1ade2c45bef759c1cdb4",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "category": "tech",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T19:06:23+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_612ec0f5ec89386490b7",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "category": "tech",
+      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T16:26:29+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6e8fbbb95710a31bf020",
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "category": "tech",
+      "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
+      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T16:20:28+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2e35b4a384647dc9c7e9",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) - OpenAI",
+      "category": "ai",
+      "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IT2N0TVdZaVRsYnVIbjBIcDhkSXEyMXk1TVBkZHYxWGdObThELUNnbm9qOWdJOS1yTHhLNzVtdFNtUUhfN3RPeVIzTFZKVi1za3ptVjFnTUFNSFJSUUhhLWFoZnhsSjBDcjd5UHV4RHN0V0huSXhj?oc=5",
+      "source": "OpenAI",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T16:08:37+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "API集成"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a9c9e1dda5059b3b90b3",
+      "title": "What some of Anthropic’s backers are worth before its IPO",
+      "category": "tech",
+      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T16:02:43+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：What some of Anthropic’s backers are worth before its IPO",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a18f26133946202c5d74",
+      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+      "category": "tech",
+      "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
+      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T15:00:09+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised duri",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4e8a96e7159e305497f9",
+      "title": "iPhone Duo South Africa launch: Apple's R48,000 foldable reviewed - IOL",
+      "category": "tech",
+      "summary": "iPhone Duo South Africa launch: Apple's R48,000 foldable reviewed IOL",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVEJmNEpxT2NPWXRtSkFyWnp5SU5sOFFWRzh4Q0pCZ053V0hXNkdXUWp6cFM5bTBRYWd5WTFLbXBDanJvYU1qYzVXd3pGWHRUODRhaU5EVTcwU254Q2NTYVg0d2ZHcG5qRU1DUG51T2NWeGcwcFh5Wl9tT3VPdUFiLVppVkhwM0ZORUxZS2dsLVFwdlUyMlhiZjhOTXJiOTVoam9VdVpn?oc=5",
+      "source": "IOL",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T14:04:39+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：iPhone Duo South Africa launch: Apple's R48,000 foldable reviewed - IOL",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_505b6c0736a5638f33ae",
+      "title": "Accordion Icons: Which Work Best?",
+      "category": "ux",
+      "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+      "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+      "source": "Smashing Magazine",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T13:00:00+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "UX方法"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：Accordion Icons: Which Work Best?",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b0529e925a89d236a380",
+      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
+      "category": "tech",
+      "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T04:22:57+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_627aedf605ebf233653d",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "category": "tech",
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_60f1925f43d35b19ada9",
       "title": "Apple prepares giant iPhone Duo displays at Fifth Avenue ahead of launch - Business Upturn",
@@ -479,6 +840,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Apple’s First Foldable iPhone Duo Unboxing Videos Reveal Design - RS Web Solutions",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_299d2f3475b15124d537",
+      "title": "Build more responsive apps with the Decisions API - OpenAI",
+      "category": "ai",
+      "summary": "Build more responsive apps with the Decisions API OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+      "source": "OpenAI",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T02:01:47+00:00",
+      "added": "2026-10-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "API集成"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Build more responsive apps with the Decisions API - OpenAI",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -3017,7 +3398,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 27,
+  "newCount": 19,
   "sourcesChecked": 7,
-  "archivedDays": 5
+  "archivedDays": 6
 }
