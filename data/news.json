@@ -1,6 +1,226 @@
 {
-  "updatedAt": "2026-10-24T02:21:38.425325+00:00",
+  "updatedAt": "2026-10-25T02:08:38.293312+00:00",
   "articles": [
+    {
+      "id": "rss_7d96070dffd3d4c7b404",
+      "title": "Using cloud browser in ChatGPT - OpenAI Help Center",
+      "category": "ai",
+      "summary": "Using cloud browser in ChatGPT OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVzRLZXFxaVRRMVFGQ3BtWkFlNVRmNGJ1ZzQtZXM4SzNNQjdYWmF6bHUyWDdNbm5udHgyOVFKMmVreVFGdzlUN2kwWXFFam5MWHJGLW1kcmVKMUhKX1pub3VQWWQ4ckxSWmpiTWVSNmc0TF84N1RSVm5MZVlqRjB3eQ?oc=5",
+      "source": "OpenAI Help Center",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T23:07:43+00:00",
+      "added": "2026-10-25",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Using cloud browser in ChatGPT - OpenAI Help Center",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f13869829c5bd96cda06",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "category": "tech",
+      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "source": "TechCrunch",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T20:46:34+00:00",
+      "added": "2026-10-25",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Starlink seems to be working normally again in Ukraine",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_53ed5ded826135f1e93d",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "category": "tech",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "source": "TechCrunch",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T20:15:33+00:00",
+      "added": "2026-10-25",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Will AI expose the rickety infrastructure of the internet?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ec0e872e4c9afa982456",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "category": "tech",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T19:00:00+00:00",
+      "added": "2026-10-25",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The AI graveyard: a running list of projects and startups that didn’t make it",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_31f4afb0bbdc4ce4630d",
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "category": "tech",
+      "summary": "Instacart might sell itself to a larger competitor.",
+      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "source": "TechCrunch",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T16:30:00+00:00",
+      "added": "2026-10-25",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_489c7405a5585660310a",
+      "title": "Block’s new voice model sounds eerily human",
+      "category": "tech",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T16:00:00+00:00",
+      "added": "2026-10-25",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Block’s new voice model sounds eerily human",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a634df51b645924c5649",
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "category": "tech",
+      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "source": "TechCrunch",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T15:30:00+00:00",
+      "added": "2026-10-25",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6caebd474530cf272f98",
+      "title": "These clever apps show off the iPhone Duo’s potential",
+      "category": "tech",
+      "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "source": "TechCrunch",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T15:00:00+00:00",
+      "added": "2026-10-25",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：These clever apps show off the iPhone Duo’s potential",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6f87d1cc303d86c3ad3f",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "category": "tech",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T15:00:00+00:00",
+      "added": "2026-10-25",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5eb91e8006101c7fc30f",
+      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+      "category": "tech",
+      "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+      "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+      "source": "TechCrunch",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T14:15:00+00:00",
+      "added": "2026-10-25",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The Boox Palma 2 Pro finally got me to stop reading on my phone",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3fcb8a7d433f40e26b84",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "category": "tech",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T14:00:00+00:00",
+      "added": "2026-10-25",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Here are the top AI agents that can live in your text messages",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_5bf8c5f8c81ad4223ef1",
       "title": "ChatGPT Back to School offer for students - OpenAI Help Center",
@@ -3398,7 +3618,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 19,
+  "newCount": 11,
   "sourcesChecked": 7,
-  "archivedDays": 6
+  "archivedDays": 7
 }
