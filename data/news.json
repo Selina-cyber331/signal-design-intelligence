@@ -1,6 +1,146 @@
 {
-  "updatedAt": "2026-10-25T02:08:38.293312+00:00",
+  "updatedAt": "2026-10-26T02:09:40.096281+00:00",
   "articles": [
+    {
+      "id": "rss_8021fd92a3bdcc640d65",
+      "title": "The best apps for tracking your reading and discovering new books",
+      "category": "tech",
+      "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T01:10:00+00:00",
+      "added": "2026-10-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The best apps for tracking your reading and discovering new books",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_08d730bd6337386a86cf",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "category": "tech",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T21:31:16+00:00",
+      "added": "2026-10-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_da16616ca3eb2eab7479",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "category": "tech",
+      "summary": "\"That's a 12-year-old view of the world.\"",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "source": "TechCrunch",
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T20:20:08+00:00",
+      "added": "2026-10-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cde08686934db96a8282",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "category": "tech",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T16:57:32+00:00",
+      "added": "2026-10-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_128fb6f19f795875a9cd",
+      "title": "iPhone 20 rumors could spark a new Android trend, but at what cost? - Báo VietNamNet",
+      "category": "tech",
+      "summary": "iPhone 20 rumors could spark a new Android trend, but at what cost? Báo VietNamNet",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGRrNkt2UkROa0tRVlpGZ0JLS0s5RnpVczhrd2N4QXJseld1Vzc1X1VlSmtBUTNISndqSk8zZWt5U184WmZQSzVQejFpVjhPT010b1owc3pBTWg3Um05aFVvLXR5N000bXpHRGhZX1NHbG9uNVhQMEVCUVc0bFlpdkl1RTRBM1RLdWtoT0pvWXZRUjdIc1pra3Q0N3c4bTVBc2huZkd3?oc=5",
+      "source": "Báo VietNamNet",
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T16:41:00+00:00",
+      "added": "2026-10-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：iPhone 20 rumors could spark a new Android trend, but at what cost? - Báo VietNamNet",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0ea6a89362f0a791379b",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "category": "tech",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "source": "TechCrunch",
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T16:05:00+00:00",
+      "added": "2026-10-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TechCrunch Mobility: Blue-green is the color of autonomy",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_31f07867eaad81e6447f",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "category": "tech",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch",
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T14:10:00+00:00",
+      "added": "2026-10-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The hottest AI wearables and gadgets you should know about",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_7d96070dffd3d4c7b404",
       "title": "Using cloud browser in ChatGPT - OpenAI Help Center",
@@ -219,6 +359,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Here are the top AI agents that can live in your text messages",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f7a761b6525876bf264c",
+      "title": "iPhone Duo Launches Worldwide as Apple Enters Foldables - INDToday",
+      "category": "tech",
+      "summary": "iPhone Duo Launches Worldwide as Apple Enters Foldables INDToday",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TODc5RWFiZnRDZm4yR3dibzZtMVJSNHFPempMSGxOdG45eHNuTGhaVTVEQkhaSV9tSElDdUVTQlNGMVp1ZjZHb0pkSnIyTDFENlduX3ppZDlxQ0NCLXg2aWV1NzJwenpGT2ZjZWVQNnYyZw?oc=5",
+      "source": "INDToday",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T03:07:01+00:00",
+      "added": "2026-10-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：iPhone Duo Launches Worldwide as Apple Enters Foldables - INDToday",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -483,6 +643,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_9a242977a679787b04cf",
+      "title": "Apple’s iPhone Duo Foldable Smartphone Set to Launch Worldwide on October 23 - RS Web Solutions",
+      "category": "tech",
+      "summary": "Apple’s iPhone Duo Foldable Smartphone Set to Launch Worldwide on October 23 RS Web Solutions",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUVPSUFMeEo0eDM3ckRna2ZqOVFMd0plamoyU0hkcU5HNWVmM0FTN2JCd2pHMjItS0dyV0pMeGhTT0syRVpKSXpzdWlYcWx5TklPUGVFZEhGWUxFQkRSa3RrSDlfYmhZVTV4MUczMUFqQkRaSWFYRFU1NVNQT2JHcUQ4MUFySk9oeUNfOUlnNGNrdkhCc254ek02T3hnaURPc3hoUDVHdkRibW8?oc=5",
+      "source": "RS Web Solutions",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T16:00:00+00:00",
+      "added": "2026-10-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple’s iPhone Duo Foldable Smartphone Set to Launch Worldwide on October 23 - RS Web Solutions",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_a18f26133946202c5d74",
       "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
       "category": "tech",
@@ -723,6 +903,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_eca261aa975dc785b787",
+      "title": "Apple’s Striking iPhone Duo Displays Unveiled in Iconic Cities Worldwide - freeyork",
+      "category": "tech",
+      "summary": "Apple’s Striking iPhone Duo Displays Unveiled in Iconic Cities Worldwide freeyork",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmZCc3RNZmhyVEc0MzR4aktCVXRsSmhZT1R4REJJeFQtWWdWNVNuU3FmVUxud3RGNkZGbWtLVjRmaDhDcHp1dHFXeDYzdHVMSE5RMWNWUVZ1U0FHOVpZSl80RTk1U0kxNGdyT2E2VFBUSHVtTXpZMlBlRXhpTUxhZFNCckhEWjY2R1FmMHhTay1EQQ?oc=5",
+      "source": "freeyork",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T20:42:52+00:00",
+      "added": "2026-10-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple’s Striking iPhone Duo Displays Unveiled in Iconic Cities Worldwide - freeyork",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_94f625d5875d114ebc4b",
       "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
       "category": "tech",
@@ -820,6 +1020,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_1bf3b1ebbf5f0b61bb0c",
+      "title": "Canva reveals new AI image tool as it races to beat Google, OpenAI - AFR",
+      "category": "tech",
+      "summary": "Canva reveals new AI image tool as it races to beat Google, OpenAI AFR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFhKMUZPNGptVFVmR2VMSzYyZ3lnMGJoX1BPUmFMRGpwMEVhWjlXVEJ6RTJkcXNBV2V6ZFFPakJtbHE3YlFmSC1kWVBqbmxCQ2RpQVZiQS1qSC1ESTVDZzZNX1c2cW9SYzl6VjE4c0JiS1hDaks2TUNRUExVVWRFUjJOcHFBZzRLVW1JanpfVlJNb1dGRlVpcWJ1bkNQRktBaU5VQWRIZzRHZEhfRUZDVXdn?oc=5",
+      "source": "AFR",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T19:00:00+00:00",
+      "added": "2026-10-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Canva reveals new AI image tool as it races to beat Google, OpenAI - AFR",
+      "priority": 1,
       "analysisType": "规则初筛"
     },
     {
@@ -3620,5 +3840,5 @@
   "status": "ok",
   "newCount": 11,
   "sourcesChecked": 7,
-  "archivedDays": 7
+  "archivedDays": 8
 }
