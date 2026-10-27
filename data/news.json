@@ -1,6 +1,407 @@
 {
-  "updatedAt": "2026-10-26T02:09:40.096281+00:00",
+  "updatedAt": "2026-10-27T02:46:19.779418+00:00",
   "articles": [
+    {
+      "id": "rss_8f16eb6c92c050ab4e6d",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "category": "tech",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T02:00:00+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_67bd61f5ed35d3a17e8a",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "category": "tech",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T01:12:21+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3fb69504dd5989ed4cc9",
+      "title": "Following the precedent of skipping the number 9, Apple is preparing to launch the iPhone 20 immediately. Why? - Vietnam.vn",
+      "category": "tech",
+      "summary": "Following the precedent of skipping the number 9, Apple is preparing to launch the iPhone 20 immediately. Why? Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWVrWXUtRzd6WGVjYkV5cEZqUndUektjMFNsNDh2SmRld01EWEpLU1VrQllWZEh4YTZBWWVoR1N4TC1JVEtzMzJyZlVwZjhrcUdKbEJZSWtkaDFtTk1kb3FJRHNDZ093aU1RV1dGa3RrdXU1eXd0LXZGdHdZQ1hRYzVsd0NSd3BreUU3aDhFcGdHNjdpRGQ1UzAybw?oc=5",
+      "source": "Vietnam.vn",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T00:33:42+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Following the precedent of skipping the number 9, Apple is preparing to launch the iPhone 20 immedia",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_589d8dfaa81c464762c2",
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "category": "tech",
+      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T22:00:00+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Databricks co-founder shares his secrets for winning big enterprise customers",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e6060a0dcdc6a6c2dc88",
+      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "category": "tech",
+      "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T21:05:11+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4cc9c0bf9f14964b4c47",
+      "title": "Apple gives iPad mini its biggest update ever - Apple",
+      "category": "tech",
+      "summary": "Apple gives iPad mini its biggest update ever Apple",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnlUN1lveTNEdlFpZWotZWFEbXlPcU1QOXJxLVVzSEN5WjRZVEExaFBXSmtYQnBIc3ByaHFVVFZnOVVWTWZ0Njd3eVVWQVpkazJBSmRaeU1RblBlbmdrUEQxSFZFUXlyWmVhWnZyZEI4WU53dnlJYTRTWkR3RVhFR2lVOF96aGZYN2VfTEl3?oc=5",
+      "source": "Apple",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T20:31:30+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple gives iPad mini its biggest update ever - Apple",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8a14ae83023e60b6925a",
+      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "category": "tech",
+      "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T19:22:40+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9ed11212a4245a9156ba",
+      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "category": "tech",
+      "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T18:59:52+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_678b1544175de1c870fd",
+      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "category": "tech",
+      "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T17:45:00+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：This startup’s self-driving excavators help dig up $600M in new funding",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7bd37964fb9bc0494c12",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "category": "tech",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T16:49:42+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bcdcfc6a7a39bac48c7b",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "category": "tech",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T16:46:36+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：SpaceX locks in $40B GPU financing deal with Apollo",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bb8d44b640868955fca9",
+      "title": "Apple’s next MacBook Air could launch in early 2027 without an OLED display - Tech Edition",
+      "category": "tech",
+      "summary": "Apple’s next MacBook Air could launch in early 2027 without an OLED display Tech Edition",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkVCSmhYU3RvLTROeTJPbGNpR3lFcjl5eHNoS1hOVHJUaWdtMkE2YkZ1THppSm1pUHJUZzBoT0xsdHpHbnQ5OWJIYVdHYU9kQnVJUGtGMS0xVGJsU21OZFVOWDNVUUVERThjNkFnRTFsYW9UQXlPRThHVG5YNlhwYW1DMEROWlZWYlFwQ3ExOHFocGEyc3VVYlY0aTExLVE?oc=5",
+      "source": "Tech Edition",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T16:13:07+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple’s next MacBook Air could launch in early 2027 without an OLED display - Tech Edition",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_712da77adc9f115e9156",
+      "title": "Microsoft offers buyouts to around 60,000 employees",
+      "category": "tech",
+      "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
+      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T15:58:25+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Microsoft offers buyouts to around 60,000 employees",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_235925a048a8edf67625",
+      "title": "iPad Duo: Apple To Release A Foldable Tablet Inspired By Huawei’s Design - Ubergizmo",
+      "category": "tech",
+      "summary": "iPad Duo: Apple To Release A Foldable Tablet Inspired By Huawei’s Design Ubergizmo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd09oUkYxNVdEM1FDSzBKbnFfV0R3UkZ6Ml9YTlg1WnpZemFIZEFoelZ2cWZBV3QwUjVUT1pZbF9KWUFkTGJyVjZZMUFQNW82NWRXeVZjam5OX3I0Y0JJWkZqU1dudGJYX0MxbUQ1b3JDRUF2TW1GNldjalBSOTByVFBGX2dYc0F4VThXSnF0VW04M29tVk85bEdSdzlEVDhYTXprQlpWVTU?oc=5",
+      "source": "Ubergizmo",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T15:00:11+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：iPad Duo: Apple To Release A Foldable Tablet Inspired By Huawei’s Design - Ubergizmo",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b9ae8a761d42beb6707f",
+      "title": "Apple debuts US$699 water-resistant iPad mini with OLED screen - The Edge Singapore",
+      "category": "tech",
+      "summary": "Apple debuts US$699 water-resistant iPad mini with OLED screen The Edge Singapore",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXAwS1FTamp3ZmJkMlZLajlOVmdfSFBPMDNGNDBJamNZdW0zQm9UcUZnakJkck1vM0lvbFMxRHM1NmtpdXN0NTRnZW02am15YnlWM29QNkRpLUxpSXpiQzNHdmVFMURvSjBXTU1kRl9mMi1jWTJJNl8yem5qLVhuUmR4MklLbWtQVUNYOXF0c045Y2NzbWlIaVhkYUVqMU9U?oc=5",
+      "source": "The Edge Singapore",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T14:41:08+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple debuts US$699 water-resistant iPad mini with OLED screen - The Edge Singapore",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_11b3b5b2f9e9f30c76b6",
+      "title": "Anthropic officially files for its public debut",
+      "category": "tech",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T14:35:22+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic officially files for its public debut",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b703634a23965f05fba4",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "category": "tech",
+      "summary": "The new iPad mini features a thinner and lighter design than its predecessor.",
+      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T14:25:43+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bb3d8c8d9bfc8b941c24",
+      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+      "category": "tech",
+      "summary": "Matiks has introduced a new platform for users to create games using AI.",
+      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T14:08:04+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Matiks raises $10M to expand its math and puzzle gaming platform",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_aef3510c4ee149e7a215",
+      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+      "category": "tech",
+      "summary": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
+      "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+      "source": "TechCrunch",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T12:58:40+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e3acc6bd12da38ef849b",
+      "title": "Apple Music unveils logo that was physically \"made by sound\" - Dezeen",
+      "category": "tech",
+      "summary": "Apple Music unveils logo that was physically \"made by sound\" Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS1BBdmFkR0lJTi1BaC16dUM1TDhuYnV2N0lvQWRITHcxMDNpMkptWHFjTEN0WFd3MGFJNkp3ZWQweWlJYUJOcEpsS0FkcjhuWWtsRmNRVHppWHRMdVdpclE3blBDaXJEWGU2eFJTcjZzVllBWEJGWXRIdFhRcnJwNXpB?oc=5",
+      "source": "Dezeen",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T09:00:00+00:00",
+      "added": "2026-10-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Music unveils logo that was physically \"made by sound\" - Dezeen",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_8021fd92a3bdcc640d65",
       "title": "The best apps for tracking your reading and discovering new books",
@@ -3838,7 +4239,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 11,
+  "newCount": 20,
   "sourcesChecked": 7,
-  "archivedDays": 8
+  "archivedDays": 9
 }
