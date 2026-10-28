@@ -1,6 +1,406 @@
 {
-  "updatedAt": "2026-10-27T02:46:19.779418+00:00",
+  "updatedAt": "2026-10-28T02:54:47.039141+00:00",
   "articles": [
+    {
+      "id": "rss_40b835bb4dcee28f2854",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "category": "tech",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T01:15:28+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_feb26ddb5b16f8045344",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "category": "tech",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T23:34:27+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c78718e132c48c4b10ff",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "category": "tech",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T22:55:41+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The data center boom has an upside: innovation for the US grid",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_1dfcaed95a50776a871f",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "category": "tech",
+      "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T22:26:03+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Guidewire buys Hyperexponential for $1.7B in cash",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cda4d18b3e09ad2a5fc5",
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "category": "tech",
+      "summary": "A whole crop of venture capital firms are raising significant new funds.",
+      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T22:17:18+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2fcb8edb9889cffeacdf",
+      "title": "GM is embracing hybrids now",
+      "category": "tech",
+      "summary": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
+      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T21:47:02+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：GM is embracing hybrids now",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_13e69354d9897329b1e5",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "category": "tech",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T21:44:34+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c1f1014c05afa28b4748",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "category": "tech",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T21:38:28+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Who’s really in charge at Anthropic after the IPO?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_60679b2eaee3175a0c2a",
+      "title": "Discord is making its public communities more searchable, and people have concerns",
+      "category": "tech",
+      "summary": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+      "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T21:22:35+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Discord is making its public communities more searchable, and people have concerns",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f2882a37351b6588d9e3",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "category": "tech",
+      "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T20:31:17+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Re:Build, which spun out Slate Auto, raises $2.1B",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6355dc0f531d4e28cab5",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "category": "tech",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T18:55:35+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_83bf7e92baff9f8bb464",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "category": "tech",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T17:08:08+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_59a6a1671b72cc8f5ea6",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "category": "tech",
+      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T16:30:57+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_31d38af1b7115ebe373d",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "category": "tech",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T14:59:09+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6e15b1d6109b21412be2",
+      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+      "category": "tech",
+      "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+      "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T14:51:33+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ford Fathom will be the cheapest American EV capable of powering a house",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8740ddee29f6381ba9f4",
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
+      "category": "tech",
+      "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T14:40:39+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：US government says hackers are now exploiting critical PHP web bugs",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_45cbc1639996e4a7c61a",
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "category": "tech",
+      "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T14:25:11+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_50247a2e758b2aca7f97",
+      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+      "category": "tech",
+      "summary": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T13:54:51+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4e7b77e1f19f943b5626",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "category": "tech",
+      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T13:32:57+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Japan internet giant GMO says hackers posted stolen customer data",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9f969c143ca346ca6ac0",
+      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+      "category": "tech",
+      "summary": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
+      "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T13:01:00+00:00",
+      "added": "2026-10-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_8f16eb6c92c050ab4e6d",
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -4241,5 +4641,5 @@
   "status": "ok",
   "newCount": 20,
   "sourcesChecked": 7,
-  "archivedDays": 9
+  "archivedDays": 10
 }
