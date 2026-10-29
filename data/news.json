@@ -1,6 +1,608 @@
 {
-  "updatedAt": "2026-10-28T02:54:47.039141+00:00",
+  "updatedAt": "2026-10-29T03:19:20.657528+00:00",
   "articles": [
+    {
+      "id": "rss_c0629de297fc616e22b8",
+      "title": "Apple’s New Foldable iPhone Faces Screen-Cracking Complaints Days After Launch - NBC Palm Springs",
+      "category": "tech",
+      "summary": "Apple’s New Foldable iPhone Faces Screen-Cracking Complaints Days After Launch NBC Palm Springs",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdjRuWThvTHdOcVpXZmRsa2Fmakc0M1ZFakhMS3JselZLeFFGbHZKOVk1VEVCYWdFbGpHR29BRlJibTNhQUdaM1VPTERFbWRwOTJmX1pTdDNFZmdtVDJvRDJtZDFIX05JbVVGMUY1VGdnaWUtbG9CYzdtTFZuc19uWUZDOWktVjdXeGpJaGhyN0JTd25lZ0tvZ2FPQ19uU21FeXBiUUk2ZFlDcl9Va1BfZTFjbjUwM0Nxc0V5ejZNUUNtUnhldVB5b0lLQjNISkRJSklBRktYQ2lhV1dO?oc=5",
+      "source": "NBC Palm Springs",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T00:06:33+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple’s New Foldable iPhone Faces Screen-Cracking Complaints Days After Launch - NBC Palm Springs",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4686ce2da6e64b39217e",
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "category": "tech",
+      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T23:15:00+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Upwind raises $400M after walking away from Datadog acquisition offer",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b53bc06a2212dec68504",
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "category": "tech",
+      "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T22:47:50+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9bdadba3d0d25b310910",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "category": "tech",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:58:32+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_27f4dc2f035d879dfd08",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "category": "tech",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:48:37+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google expands AI Search ads globally as core ad growth slows",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9989b41db7d41130fbf7",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "category": "tech",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:34:30+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Microsoft recorded $10 billion in revenue from OpenAI",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9f27dc3f5881acac8969",
+      "title": "Apple Launches Updated 70W and 140W Power Adapters with New AC Connector 2 - SSBCrack",
+      "category": "tech",
+      "summary": "Apple Launches Updated 70W and 140W Power Adapters with New AC Connector 2 SSBCrack",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSDFkN0lwUEx4cmtfbFNmOFEtQWFlVHJXZHJiUHdmVXRJaFViTG0tdkhKbnJFRndQb2l6WnhseFhTdDRxMnl1dFU0RDhGTHlkcnk0M1NTb2tKYzJzNWxLeWpTenZ0elByemQ4bll4dHQyRWRxM3ZGNnJzVl9LXzdzdkYyVkR6WFFwRDNGaGU1VU01X1daZ3hrYUFvbEUydTloMllB?oc=5",
+      "source": "SSBCrack",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:27:02+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Launches Updated 70W and 140W Power Adapters with New AC Connector 2 - SSBCrack",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_97ba49829658d20e625c",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "category": "tech",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:25:30+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4a35e905e515c31c0384",
+      "title": "Q3 2026 earnings call: Remarks from our CEO - blog.google",
+      "category": "ai",
+      "summary": "Q3 2026 earnings call: Remarks from our CEO blog.google",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHM3bGd3cDMxcnppSXR3OVRtVEVJcm9BWXBjN0xFZXB1Mkd6bTBhZER2ZzBYaDZocHJlOEpwbDJKblVJTFYyc3dLcUljendNcHBLRHBwMUFkdTlfc1REVXBiM19KRHhMelZ0MHZXOWVtWk5nd3UySlZNbjdwdHFWZmJ3UEYwekRNa1VEM3Jn?oc=5",
+      "source": "blog.google",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:12:01+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Q3 2026 earnings call: Remarks from our CEO - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_25442851147b27f3e726",
+      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "category": "tech",
+      "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T20:01:00+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE ag",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8d9e4f0920e971c49ced",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "category": "tech",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T19:19:58+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic just launched tools to show companies what their AI spending is buying",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_1fce4fa17f4edd465df8",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "category": "tech",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T19:05:46+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_30e4a2cacc82c3662d30",
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display and Touch for the first time on Mac - Apple",
+      "category": "tech",
+      "summary": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display and Touch for the first time on Mac Apple",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeENOMm1CemVGWk1qeHc5LU9hMmVRc0lMVEh4Vmlkc01zZUlERy13U1lyNlZObkV3d1BZRUFRazU4VFQ3WXZJdnJUbTlGLWxyTzEybjU2Nmw5Z3UxM25WN2RzS2RwbkhqQXY0LXltZkVCLThvNDBJUUZLbXNYUFFOV2JKaU1hdDhsTGRCOXpISXBPRVBJTnRlV3k4ODhyaURvQ3RPaFlGVk9NaE0?oc=5",
+      "source": "Apple",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:44:02+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple unveils groundbreaking MacBook Pro with PROLED XDR Display and Touch for the first time on Mac",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cd389fbfe2985c46d617",
+      "title": "Apple launches its new touchscreen MacBook Pro",
+      "category": "tech",
+      "summary": "Apple's new touchscreen MacBook Pro starts at $2,899.",
+      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:26:10+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple launches its new touchscreen MacBook Pro",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9fb930843acf39492e7b",
+      "title": "The future of the firm - OpenAI",
+      "category": "ai",
+      "summary": "The future of the firm OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
+      "source": "OpenAI",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:12:41+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：The future of the firm - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_65ea3216ad21f590c8c0",
+      "title": "XREAL AURA: Wired XR glasses to watch, work, and play - blog.google",
+      "category": "ai",
+      "summary": "XREAL AURA: Wired XR glasses to watch, work, and play blog.google",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PRk9sMFRLTERIdThkUHkwQnNrbXowbkhfLWVQb0U1cTNJVThOTWpDNTlLSVZiNDB2NTAyNU0zV3BQUWFrMk0xU2IyY3ZjSGRFdk9XZlVhVjFya2pMYjRweGNsVWs0ZVVZdE04WWs0U0RMRDdnc3VLUlBCV2k?oc=5",
+      "source": "blog.google",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:04:56+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：XREAL AURA: Wired XR glasses to watch, work, and play - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b4d5172ce9c935e2250e",
+      "title": "Build and manage Connected Apps in one place - blog.google",
+      "category": "ai",
+      "summary": "Build and manage Connected Apps in one place blog.google",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRTFJUG54Q0R4ZGU1a0k2LU9UMmRTeW14OWVBWFJUb0FIVlJEVXZJbzFJbzhZVkVtZE9yS01ZVFNLNXNWUFM0bG9GOHNSQTRDVHNEZk0tUFdyeUwwRXhLNjY3OHNYNDB5ZDQtNWRfSUpfZzF4ZVVEb1VxYjFyZXJ2VVRNTUlNcXQtOFB5REpVMVRaYm1GMWc?oc=5",
+      "source": "blog.google",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:04:56+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Build and manage Connected Apps in one place - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5b8d7ced07fae16b1f89",
+      "title": "Xreal Aura is a new wired headset powered by Android XR",
+      "category": "tech",
+      "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
+      "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Xreal Aura is a new wired headset powered by Android XR",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c595193266dc4a2d3b81",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "category": "tech",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_92de2a3e26c33e59c22e",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "category": "tech",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_618cfbf6cb156b4e5641",
+      "title": "Google Cloud Plans Institutional Crypto Custody Service for Next Year’s Launch - TradingView",
+      "category": "tech",
+      "summary": "Google Cloud Plans Institutional Crypto Custody Service for Next Year’s Launch TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdXZ2bHdBWl9pT0V6d2dSSFdGZU9hNEFhckpSaE5MMHpPUkJSbXUtRkZOdjN6ODJkQ0J5TlZQWTJXckh1Q0lOQ25ta1NvLUpqWVBjemNvMVRnRV9YVWs2bWxwdW5HNVBWajh3anZRckJQb1hPeFp2czNKaVlCb0pHUVRIejY3Yy1XUVdKT0xJZm5iU3QwZnVCbWkwQnJVRm14aHNOdGhCSXY3MUNPd3hIaXZkam1BSF9fVW9JbUhDVjNJZE5WODFLeWxWd3lPaDlDcE1FVU1vVmhnRFdH?oc=5",
+      "source": "TradingView",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T16:21:00+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google Cloud Plans Institutional Crypto Custody Service for Next Year’s Launch - TradingView",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_48735f194e0c5f3b7b3b",
+      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+      "category": "tech",
+      "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T16:00:00+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Reddit is the latest platform to embrace the ‘For You’ feed",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_89a827d9ed985b21dde5",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "category": "tech",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T15:53:52+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI execs may be too out of touch to build for the general public",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f6f5728b8d3a307bdd4b",
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+      "category": "tech",
+      "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+      "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T15:53:21+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Trump DOE loans $5B to nuclear plants that will power data centers",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cf34b24e6b3d6c3c0a04",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "category": "tech",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T15:41:18+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_693da66ff68e9bc458fe",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "category": "tech",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T15:00:00+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Voice AI in vogue: Nvidia releases new open transcription model",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c2493e340542b2490357",
+      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+      "category": "tech",
+      "summary": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
+      "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T14:34:25+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bbeae9813b45c23d8c06",
+      "title": "Apple Teases Touchscreen OLED MacBook Pro Announcement Ahead of Launch Event - SSBCrack",
+      "category": "tech",
+      "summary": "Apple Teases Touchscreen OLED MacBook Pro Announcement Ahead of Launch Event SSBCrack",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSm9MaEF0aU00U2ZkeHNiWmRjRExWWnVQLV96Z3Y2MDVIbUc5ejZxMFNtVFRVREs0UXFSRnlQQW44eXJyUjNkbjE4ZEs2Mmt0R1ltbFg4QWFycTZNSV9PSm9MbWNwaE1pR0g2ZmNKWmx3czBhbHJNUWxpMlJRMzhVNjZLMVVjSUVraFZKcGNjdDFybFl0dGF2NlhXZkxPZDBYQURCa1ln?oc=5",
+      "source": "SSBCrack",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T14:33:56+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Teases Touchscreen OLED MacBook Pro Announcement Ahead of Launch Event - SSBCrack",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9308e009634231996bc4",
+      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+      "category": "tech",
+      "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
+      "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T14:26:36+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TikTok expands into restaurant guides with ‘Must Eat’ feature",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b40540b671dd31f8495b",
+      "title": "Apple iPad mini 8 (2026) Launches Globally; Philippine Price Starts at ₱49,990 October 2026 - Wazzuptechph",
+      "category": "tech",
+      "summary": "Apple iPad mini 8 (2026) Launches Globally; Philippine Price Starts at ₱49,990 October 2026 Wazzuptechph",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0VtN1BNY2h2amREVWJNWHhpRi12REgwQlk0SW02WDh0N21lbGk4c2dRZk9vS2lha2x6SklfWWZ3VnZRYjJpcW5OVFowWkVlT3JmNUVxRUE3bnRKcXFhcnVFODQwd09lcTJpWWdKMzFVUzg1eFBFLVRmN1B0eldDTlRBeDB5SW9Va1V3MjhwQXNNeXl6S3VjNzV5RG1ZSHJLSE9JWW53?oc=5",
+      "source": "Wazzuptechph",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T13:07:53+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple iPad mini 8 (2026) Launches Globally; Philippine Price Starts at ₱49,990 October 2026 - Wazzup",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_40b835bb4dcee28f2854",
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
@@ -298,6 +900,26 @@
       ],
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Ford Fathom will be the cheapest American EV capable of powering a house",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_177ea533660253ad4c1e",
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6 - Apple",
+      "category": "tech",
+      "summary": "Apple introduces the new 14-inch MacBook Pro with M6 Apple",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3owdUxrVmY0TThrSWh6dzlKbDVWWUpGZE1MSGFVVzhiSXFFeGdkQmpBTzlRbXdzNFZpUzk4UjFvaW5VMkcwN1FUYTBlV1NaT1g4QVRJQ2tfMDBXZFl3SWhLcFlfSmlVQ2JZekN0V0ExOGZuRmVMWjhsQV9zNWZ6dlV5al95NjhRVF9scEFtUDY5YVZxaDQw?oc=5",
+      "source": "Apple",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T14:43:12+00:00",
+      "added": "2026-10-29",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple introduces the new 14-inch MacBook Pro with M6 - Apple",
       "priority": 1,
       "analysisType": "规则初筛"
     },
@@ -4639,7 +5261,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 20,
+  "newCount": 31,
   "sourcesChecked": 7,
-  "archivedDays": 10
+  "archivedDays": 11
 }
