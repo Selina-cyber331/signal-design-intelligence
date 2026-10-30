@@ -1,6 +1,448 @@
 {
-  "updatedAt": "2026-10-29T03:19:20.657528+00:00",
+  "updatedAt": "2026-10-30T03:21:50.768769+00:00",
   "articles": [
+    {
+      "id": "rss_d1b4c016eeeeae425d37",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "category": "tech",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T01:20:48+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bc9b583a6e9915f16e00",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "category": "tech",
+      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T23:44:56+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e8204842d8df9ed0906f",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "category": "tech",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T23:42:22+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_91c1a3ece8c596583365",
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "category": "tech",
+      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T22:27:23+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6eef319b71d323feef6e",
+      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "category": "tech",
+      "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T21:51:29+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_50e78519fb04beb8175e",
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "category": "tech",
+      "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T21:20:47+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Amazon reported booming cloud revenue but otherwise missed expectations",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_671d797ba890928e84d2",
+      "title": "GM reaches $220M settlement over selling drivers’ private data",
+      "category": "tech",
+      "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T21:01:04+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：GM reaches $220M settlement over selling drivers’ private data",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_fa9b2b32f8daa91990ca",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+      "category": "tech",
+      "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
+      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T20:43:56+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a07313bae3eabd31b167",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "category": "tech",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T20:08:31+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_97ad5b1c4974e0bc4b99",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "category": "tech",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T20:05:47+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Rivian expands joint venture with VW to include AI assistant",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5613af51132c2ede270d",
+      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+      "category": "tech",
+      "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
+      "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T20:02:03+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The R2 SUV is already Rivian’s best-selling vehicle",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_edabcca472818e339f21",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "category": "tech",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T19:56:19+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI-backed Thrive Holdings acquires ADT",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_eaadf12d13c7fdd3be90",
+      "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
+      "category": "tech",
+      "summary": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
+      "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T19:17:49+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Where was my invite to the — wait, what? Airbnb had a gala?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_497d0eaebe5532f0311f",
+      "title": "How We're Training a Figma-Fluent Editing Model - Figma",
+      "category": "figma",
+      "summary": "How We're Training a Figma-Fluent Editing Model Figma",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14T01uVE1xTG5PX1ZDZU9ibW5zVGQ5UXNFc2NQM0h3OUJjSkdicW5wQ2FiNW11dk5YUlJMaFRtdEZGampkbGxLeU9aVzVwcDZ4V1d4M3BRTWFHRGUyWEpETExuc3R4cU9aeDZqc2RnODdNZXc?oc=5",
+      "source": "Figma",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T19:16:58+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：How We're Training a Figma-Fluent Editing Model - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8bdb951820248c38dd11",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "category": "tech",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T19:14:36+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta quietly launches an AI fashion app called Style Sketch",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_43504edb46368e4c599c",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "category": "tech",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T17:54:38+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Granola crunches up a dictation feature to compete with Wispr",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_113af2ce7105e4b55f2f",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "category": "tech",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T17:00:00+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_72d05428eee812d0fba0",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "category": "tech",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:42:32+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：US investigated Chinese spy plot aimed at Nvidia CEO",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cf091686400a9afe965d",
+      "title": "Apple CEO John Ternus unveiled the company's first touchscreen MacBooks on Wednesday, abandoning a long-held aversion to the technology as it caps a burst of product launches ahead of the holiday shopping season. Read mo",
+      "category": "tech",
+      "summary": "Apple CEO John Ternus unveiled the company's first touchscreen MacBooks on Wednesday, abandoning a long-held aversion to the technology as it caps a burst of product launches ahead of the holiday shopping season. Read more: https://www.gmanetwor Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORFpNLWEwWTAtOUJXMXRCb1I2cWxhZjk1YUlEeUVDM1VBeGJ3U3Q2QV9ZRFU3YU1FdUZ3NjVRTVY3MVNkWmtFTXduNVZ2eXhtOVp5Q08zbjVZQnBZcGplZXlPU0s4cUtSUFRKWkdDd1VkM3lmSFpwQnFOTEVoZ2NpLXRhNWJWYmkyX1hVa3VVa0JiLVd3bmNacmtxcTJCZFBib2NHSlZkQ1dZb0lzSmNwc1F1cHlPRGdmTjdqX1BtX1QyV3ZfZExBWDhKUEdnY2xQcmhZ?oc=5",
+      "source": "Facebook",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:23:34+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple CEO John Ternus unveiled the company's first touchscreen MacBooks on Wednesday, abandoning a l",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_98a3288b6884f45b12b0",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "category": "tech",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:21:00+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_17d4c14decf8f1d538d0",
+      "title": "SuperMe raises $20M for its network of AI expert profiles",
+      "category": "tech",
+      "summary": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
+      "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:19:43+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：SuperMe raises $20M for its network of AI expert profiles",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c6736d87e40880400029",
+      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+      "category": "tech",
+      "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
+      "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "source": "TechCrunch",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T15:00:00+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_c0629de297fc616e22b8",
       "title": "Apple’s New Foldable iPhone Faces Screen-Cracking Complaints Days After Launch - NBC Palm Springs",
@@ -298,6 +740,26 @@
       ],
       "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
       "takeaway": "先阅读原文核对事实；重点关注：The future of the firm - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_455fb7b6fe3052245e45",
+      "title": "Google Wallet and Google Pay are now available in Nigeria. - blog.google",
+      "category": "ai",
+      "summary": "Google Wallet and Google Pay are now available in Nigeria. blog.google",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMDJLa0syaHkzMTZma0RYVnJEQTZBWHJ2QnhSWUhQNXVSSmNmNlc2VHQ3WWZfZUU4eS1FNlJMUzg4dXhPNHYwUHY0NDZoeUtTUk5DSmVQTi05UGhveVM2bGw1YTVGRlQzRzZWeWcydWlVSmd6NkMtODhNNWtmSXltMEx2eUdob2xGTWJBSWVmUGFSS3hUbkxubEFRQkxldm4xcmJlNWdyRkRPVjVCNGhjcnNXb0N6Y2Q1bjR2TWxBVQ?oc=5",
+      "source": "blog.google",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:07:22+00:00",
+      "added": "2026-10-30",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google Wallet and Google Pay are now available in Nigeria. - blog.google",
       "priority": 2,
       "analysisType": "规则初筛"
     },
@@ -5261,7 +5723,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 31,
+  "newCount": 23,
   "sourcesChecked": 7,
-  "archivedDays": 11
+  "archivedDays": 12
 }
