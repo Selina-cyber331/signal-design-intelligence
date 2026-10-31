@@ -1,6 +1,448 @@
 {
-  "updatedAt": "2026-10-30T03:21:50.768769+00:00",
+  "updatedAt": "2026-10-31T03:05:56.179707+00:00",
   "articles": [
+    {
+      "id": "rss_697e69c1399335bd96fd",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "category": "tech",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T01:20:05+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_caea0f69478396196891",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "category": "tech",
+      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T23:21:23+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0bda54f76f46604d0908",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "category": "tech",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T22:56:13+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "隐私安全",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ollie, a privacy-focused AI assistant, is shutting down",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_106f073c0994ddc86842",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "category": "tech",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T21:54:34+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Intel’s stock crashes, knocking $12B from government’s stake",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5c2b84bfc3edecde6756",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "category": "tech",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T21:52:03+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_396961a3debdc38b7df0",
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "category": "tech",
+      "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T21:48:53+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Applebee’s exposed customers’ personal data after leaving database password in app",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_80950b77b441ed684491",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "category": "tech",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T21:26:59+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Last-minute Halloween costumes for tech nerds",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2d5d2e462fb47239de1e",
+      "title": "Cracks are emerging in the AI spending boom",
+      "category": "tech",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T21:17:40+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Cracks are emerging in the AI spending boom",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_020c0eebbf66f8fb3304",
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "category": "tech",
+      "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
+      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T19:55:13+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_fbd920fe2259e3563bd5",
+      "title": "Satlyt takes another step toward turning satellites into space data centers",
+      "category": "tech",
+      "summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+      "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T18:01:24+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Satlyt takes another step toward turning satellites into space data centers",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_fa7d1916834e050554be",
+      "title": "Clio Shows Off Clean, Intuitive Design Reminiscent Of An Apple Product Launch - Above the Law",
+      "category": "tech",
+      "summary": "Clio Shows Off Clean, Intuitive Design Reminiscent Of An Apple Product Launch Above the Law",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS1dVV2RxalUxU3o5LTYydlNSaW9Lb1dabEJ6dktfcGZQNDl4RXMtUGF3b3Nib2FGcElBV1BBU2VSUHU5SVN2QVVUVFp5MGJyN3ZYWFM4dUoyWUUteDcwYW1WTjlsN3VvbUF6Z2xLQnlvbFQybjdtcU5xN0lsX3E1aXNkS3JkVDRTRWE5R1Y2bU1lMEZwU1lhNUl5cHJRSU5MTVNPaEpsbm5xNVg3SkE?oc=5",
+      "source": "Above the Law",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T17:48:00+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Clio Shows Off Clean, Intuitive Design Reminiscent Of An Apple Product Launch - Above the Law",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_997d854848700a4b10e7",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "category": "tech",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T17:47:12+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Zest’s new AI agent finds restaurants and books reservations over text",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9c778aab11a9266408ba",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "category": "tech",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T17:00:00+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google’s first data center satellite is online and writing poetry",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f3930eb5b31caf41af4e",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "category": "tech",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T16:03:45+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive peo",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ff737252d5ed2a5d3cdb",
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "category": "tech",
+      "summary": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T14:00:25+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6ddd1a53e87a9e4b92d8",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "category": "tech",
+      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T14:00:00+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_aeb760d236d350c10caf",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "category": "tech",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T13:54:25+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9ebb828beb8e0c595a17",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "category": "tech",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T13:00:00+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0c1235c39c3adb99d7d1",
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "category": "tech",
+      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T13:00:00+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_05e45aefca8f8da2423e",
+      "title": "Apple reverses decades of design philosophy with launch of first touchscreen MacBook Pro - https://streamlinefeed.co.ke/",
+      "category": "tech",
+      "summary": "Apple reverses decades of design philosophy with launch of first touchscreen MacBook Pro https://streamlinefeed.co.ke/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdlhWRFhDdUs0bHRadzBTN0RtUE9ZTmZ2RTl4TVRLbWJaZ3FtR255YjlKTzEzdjkzejZfOG5tajZ5d1I0TVN5MGRPZHRrNEVjNjFBX2hVM2ZpS1dTUUtsN1pMME9meWxrek1YZ2QtS25BQXdFWWVMOEZrbkE1Vk1faEs0SjdMNmFUT3FCTTZEVmsyNnlZaXh0U1EyRnNZSlc5emRwQW1HTlYwbmZhOGxqc1dYZkl4MkpNYkQ1Ykl6QQ?oc=5",
+      "source": "https://streamlinefeed.co.ke/",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T11:00:51+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple reverses decades of design philosophy with launch of first touchscreen MacBook Pro - https://s",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bef77a8a806313dea1c1",
+      "title": "Apple takes “monumental step forward” with first touchscreen MacBook - Dezeen",
+      "category": "tech",
+      "summary": "Apple takes “monumental step forward” with first touchscreen MacBook Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ibVc3TXRSdTZWbWNaelZEVDFhNnAwWG1YNWFPQXBMYUdEWnJ3TzBqYkFzdThrd0JxWFZFX2loaEV6YnlDU1Azd1hxMWRPU3NKYmw1b3FOcXlVbWZ5Wkw4WVR5d25Ua3VJNGNlazd1ZFNrUQ?oc=5",
+      "source": "Dezeen",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T10:50:00+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple takes “monumental step forward” with first touchscreen MacBook - Dezeen",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e1af8e7b6e662971d046",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+      "category": "tech",
+      "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "source": "TechCrunch",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T07:01:00+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Waymo taps Toyota to supply robotaxis for Japan and the UK",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_d1b4c016eeeeae425d37",
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -724,6 +1166,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_e0631c1cf3564727be95",
+      "title": "Apple launches its new touchscreen MacBook Pro - TechCrunch",
+      "category": "tech",
+      "summary": "Apple launches its new touchscreen MacBook Pro TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnZKcjRneHNiZDhaZDhSZktMVUdNU0NlaHZNUTRtaUttbVJqOFBKN1BnR3Jsa29yYjNXZ2NHWkNOY1VtaDMtQUYtd3h5ZFpiRGRQaEREdkg3Ri1EamtWSm15REFVVVFIRWtwS1RHWC1LWkU2WHB4cWpxWEtsN21ocXk2bExuUE9T?oc=5",
+      "source": "TechCrunch",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:26:10+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple launches its new touchscreen MacBook Pro - TechCrunch",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_9fb930843acf39492e7b",
       "title": "The future of the firm - OpenAI",
       "category": "ai",
@@ -1082,6 +1544,26 @@
       ],
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_384826e550912d35276e",
+      "title": "Apple unveils new iMac with M6, delivering a major boost in performance and AI capabilities - Apple",
+      "category": "tech",
+      "summary": "Apple unveils new iMac with M6, delivering a major boost in performance and AI capabilities Apple",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLWZhYVBoalpWb25pS2s2LUVyRkVBVk91YndZaGJEMmswQVlUellOUjU5U19SOTB0V1lEaWY3eUE0VlJhbUozVC11YkpXRGFfbHdtUy1wQnJ3d0JnYTlHWkY0OEp3dm42VUh4VUc5OHp2WVY1azlDOUhn?oc=5",
+      "source": "Apple",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T00:21:25+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple unveils new iMac with M6, delivering a major boost in performance and AI capabilities - Apple",
       "priority": 1,
       "analysisType": "规则初筛"
     },
@@ -1884,6 +2366,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Apple Music unveils logo that was physically \"made by sound\" - Dezeen",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b9759234df832b7efe2a",
+      "title": "Notas de la versión y noticias de productos de Figma - Figma",
+      "category": "figma",
+      "summary": "Notas de la versión y noticias de productos de Figma Figma",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpc0JudDBEVlB2OVY5Q21HTlNUYWZZR3FORHVPaDZkbXZTSzF4cmtKVFc3dFduWm1mUEZFMFh2cUtYSW9PZVVvenVLbXhxWlczTzlvaQ?oc=5",
+      "source": "Figma",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T07:00:00+00:00",
+      "added": "2026-10-31",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Notas de la versión y noticias de productos de Figma - Figma",
+      "priority": 3,
       "analysisType": "规则初筛"
     },
     {
@@ -5723,7 +6225,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 23,
+  "newCount": 25,
   "sourcesChecked": 7,
-  "archivedDays": 12
+  "archivedDays": 13
 }
