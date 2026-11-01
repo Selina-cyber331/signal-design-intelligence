@@ -1,6 +1,186 @@
 {
-  "updatedAt": "2026-10-31T03:05:56.179707+00:00",
+  "updatedAt": "2026-11-01T03:00:30.377975+00:00",
   "articles": [
+    {
+      "id": "rss_de04664d0530c9d79f76",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "category": "tech",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "source": "TechCrunch",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T02:22:10+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Data centers are now a midterm issue, even in Brooklyn",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ae0768aad7c3bf05b088",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "category": "tech",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T21:41:00+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e685f8ee0aa788761f65",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "category": "tech",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T21:36:07+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cf1085528d3d8b3f00d4",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "category": "tech",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T21:17:03+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_11c1767e1d29d4bd0aee",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "category": "tech",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T16:12:55+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI reportedly lowers funding target for new round",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c19391d874d41b618904",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "category": "tech",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "source": "TechCrunch",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T15:41:57+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：From restaurant guides to payments, here’s how TikTok is building a super app",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e0936c7ab86fb63f0196",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "category": "tech",
+      "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "source": "TechCrunch",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T14:00:00+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：I took two iPhones on vacation. The Duo won me over.",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5f2bfdd77a8ce624e85a",
+      "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+      "category": "ux",
+      "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+      "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+      "source": "Smashing Magazine",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T08:00:00+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "UX方法"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_17ee2e71e93142baeb67",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "category": "tech",
+      "summary": "The money behind the money is thrilled, mostly.",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "source": "TechCrunch",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T04:16:50+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_697e69c1399335bd96fd",
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -164,6 +344,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_4ad4da9a27751fdef377",
+      "title": "Apple Plans to Launch iPhone 18 in Spring 2027 with A20 Processor and Increased RAM - The CSR Journal",
+      "category": "tech",
+      "summary": "Apple Plans to Launch iPhone 18 in Spring 2027 with A20 Processor and Increased RAM The CSR Journal",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX0NkaF9QZU5ReG9fSV9mWjFpQkRhMWlNVTZTd3V4SV85MEVpVkh0d2JOV1FfczVIZ0twWVhYUVI0dXN2QnFTLWF5cW1IRngxTXdpSFBCODFKQ0FrQm9QbTlmZlpaRDRvRVRNVU1uZUU2cnA0MnBQbHh5SUVFbWRyWjR3RGUwUmRQNHNOWFhiYmVhRFllNjVja0ctanQ3MlkxUXlaQ0JXVlVqLWxVUW5RZlhyZWt0QVo2SzVMazJlSUV5Q2k1aUt6N2ZNTzEzclRBZEE?oc=5",
+      "source": "The CSR Journal",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T21:07:40+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Plans to Launch iPhone 18 in Spring 2027 with A20 Processor and Increased RAM - The CSR Journa",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_020c0eebbf66f8fb3304",
       "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
       "category": "tech",
@@ -281,6 +481,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive peo",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_781b566853a528d967d2",
+      "title": "The Best New Gadgets and Hi-Fi Releases of 2026 (Updated) - Gear Patrol",
+      "category": "tech",
+      "summary": "The Best New Gadgets and Hi-Fi Releases of 2026 (Updated) Gear Patrol",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXdkNG45MEh5TXJ5S0d4SGJDV0NTLUhPQWIzTE14bGZDcW5ERGN3dkN4QktqZkdISVhkVmVheXV5eXpTRmc0aVJUQ1VkTThEWkpBSmdLb2UzN1ZYZ2dwN1BuV01NTndzb0JadURkZTVWZUFEZWZGcWNKNktpQ2RBNk1pUmN1Vy13Qm0yMg?oc=5",
+      "source": "Gear Patrol",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T15:35:51+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The Best New Gadgets and Hi-Fi Releases of 2026 (Updated) - Gear Patrol",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -1605,6 +1825,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：The data center boom has an upside: innovation for the US grid",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e7c2de7e56effb8b5d9d",
+      "title": "Marketing Technology & Operations Lead, APAC - OpenAI",
+      "category": "ai",
+      "summary": "Marketing Technology & Operations Lead, APAC OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOTlZM1JzLXJIUmRrbjNmN3U3NS1KVi1rS2NnQ2U4Nm5uOEFhRHV2MjhwWUVUamo2NjZGcmZVdnpiMGtfUUpzZ3JCZmh0Zi1ZdWRZQV8xYW5rdjZqSDZFSWVNTGVTdkRHYmtYcXpzUS05eUpkckRtYmtzZ01XVFpVT2p0V2kwbzdOQXlJ?oc=5",
+      "source": "OpenAI",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T22:45:39+00:00",
+      "added": "2026-11-01",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Marketing Technology & Operations Lead, APAC - OpenAI",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -6225,7 +6465,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 25,
+  "newCount": 12,
   "sourcesChecked": 7,
-  "archivedDays": 13
+  "archivedDays": 14
 }
