@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-01T03:00:30.377975+00:00",
+  "updatedAt": "2026-11-02T03:10:49.185944+00:00",
   "articles": [
+    {
+      "id": "rss_31edcd9529ca62328b81",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "category": "tech",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T21:55:23+00:00",
+      "added": "2026-11-02",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b2d1ceaee7264b97db70",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "category": "tech",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T20:57:58+00:00",
+      "added": "2026-11-02",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI can make tech CEOs’ lives easier. What about everyone else?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9e0e2c3c3e3428470b22",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "category": "tech",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "source": "TechCrunch",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T17:04:00+00:00",
+      "added": "2026-11-02",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TechCrunch Mobility: A new, bigger AV boom is here",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7b4b04de2ad2719b170e",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "category": "tech",
+      "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "source": "TechCrunch",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T16:20:10+00:00",
+      "added": "2026-11-02",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Binance resumes withdrawals following $6.3 billion breach",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d93c6bfc0d2860b677df",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "category": "tech",
+      "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "source": "TechCrunch",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T15:00:00+00:00",
+      "added": "2026-11-02",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_06e6893607a2f7787f37",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "category": "tech",
+      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "source": "TechCrunch",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T14:00:00+00:00",
+      "added": "2026-11-02",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_de04664d0530c9d79f76",
       "title": "Data centers are now a midterm issue, even in Brooklyn",
@@ -384,6 +504,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_84a016c17d82a4acbd83",
+      "title": "The TL;DR on Figma Weave: Make Your Creative Process Repeatable - Figma",
+      "category": "figma",
+      "summary": "The TL;DR on Figma Weave: Make Your Creative Process Repeatable Figma",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SZDYxV1pReWIzbDBwRzAxdzRKZ2hNcWxBYkI3QmlueVZQd044MWxmMlR1RUJpTkxURjhJVnVZNVc2ZW1MR19mN3g0Q3BHTlNNRXZvNWM4UmtHd1VFS3BpZw?oc=5",
+      "source": "Figma",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T19:06:04+00:00",
+      "added": "2026-11-02",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：The TL;DR on Figma Weave: Make Your Creative Process Repeatable - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_fbd920fe2259e3563bd5",
       "title": "Satlyt takes another step toward turning satellites into space data centers",
       "category": "tech",
@@ -640,6 +780,26 @@
       ],
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Apple takes “monumental step forward” with first touchscreen MacBook - Dezeen",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4776b39f65949563cf7c",
+      "title": "iPhone Air 2 Leak Roundup: Thinner Design, 2 Rear Cameras, And Everything Else We Know - ETV Bharat",
+      "category": "tech",
+      "summary": "iPhone Air 2 Leak Roundup: Thinner Design, 2 Rear Cameras, And Everything Else We Know ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTlo2S3lkYUN5WDcxSjZZdHllc0Jxc2VmUWpUZkJfbnRZRFJKOWQyejJkbkNEc2ZiOWlNM1F1SW5LU09xekcxbFc3R1dSVm5ZVmVOOHEwWEJQTnd0TTI4NDctMjZhUUV3Qk9qeERpYnV0NUFDX2N4a0VOaTRCb3VLUkg1VF9qMnRDUlpBaUtPbmMzV1lNYk1DZ0VvYXVReks3Mkdlb3NyamZVdUpIU0NRQ2hkRlRBZzFBR1dZUUNBWdIBxAFBVV95cUxQc2t2M3pEX1JtYmdVTDMyQlNVeGZHakFvTGVWVU9iTnhQOGxDUkliWkVKUDdFYXRtaGRNSV9kUTlJZF8xeU9xQVZXQTJCLWJBT0JMeEJNckUwckotNjhwTnJCeF9nTE9fYjVUcm1hV18zRVVQcjU5YWpZM0NSRGdGUHBqR19zcUgwZkY1UDdHMmpEd29JRG5Da21oZmhpX0lPQWdWTkgtSk5ER1k2Ukk3TGtZT1lVWFFWUEotQmdDUkk4Y2lK?oc=5",
+      "source": "ETV Bharat",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T09:04:16+00:00",
+      "added": "2026-11-02",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：iPhone Air 2 Leak Roundup: Thinner Design, 2 Rear Cameras, And Everything Else We Know - ETV Bharat",
       "priority": 1,
       "analysisType": "规则初筛"
     },
@@ -6465,7 +6625,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 12,
+  "newCount": 8,
   "sourcesChecked": 7,
-  "archivedDays": 14
+  "archivedDays": 15
 }
