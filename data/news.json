@@ -1,6 +1,469 @@
 {
-  "updatedAt": "2026-11-02T03:10:49.185944+00:00",
+  "updatedAt": "2026-11-03T04:26:35.350396+00:00",
   "articles": [
+    {
+      "id": "rss_6b4c2ee5c6e26cf8d5d9",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "category": "tech",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T03:30:00+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_af72fe16137a51d6df83",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "category": "tech",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T01:49:52+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple may try to increase revenue by doing…something with third-party AI apps",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_52328a9a0c440729b3fe",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "category": "tech",
+      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T01:12:55+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_88cde7918fc21216ca20",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "category": "tech",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T00:35:52+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8a3e6c039a9f165f79f0",
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "category": "tech",
+      "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T00:14:51+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_393cc8d56b853fd7fe29",
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "category": "tech",
+      "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T23:25:32+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_24edfdbbc985e47d1728",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "category": "tech",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T23:13:53+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_872d6d484ca21a2dcfb0",
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "category": "tech",
+      "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T23:04:57+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple’s inventory surges 154% as memory chip costs climb",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2c469dca95dda4908686",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "category": "tech",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T22:14:50+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8719b307a6cddd92f90f",
+      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "category": "tech",
+      "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T19:45:54+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4eca7eda8907d15cdc78",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "category": "tech",
+      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T19:25:59+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Web host Squarespace lays off 19% of its employees",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_fc3d643b98480414aa25",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "category": "tech",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T19:19:17+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "隐私安全"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ede209853da6fad258be",
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "category": "tech",
+      "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T19:11:49+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_902658e47f38316fafea",
+      "title": "The latest AI news we announced in October 2026 - blog.google",
+      "category": "ai",
+      "summary": "The latest AI news we announced in October 2026 blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzhIaGZmbzJ0NEFDSzlhcG93cXczNlNoTWtpYXFuWjR0MjBwRWppUGdKTjZSYUVrQXAyc0RQck1CQmZaMHg4XzNXRlpPOXlPYi04T2V5TllPYnFNQWc5b0w1UEhreGp1TGRZR05NWEVlX25sVzhsSEFUcVRjQzVQREhzRHVPVjlGTjl3?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T17:55:46+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：The latest AI news we announced in October 2026 - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5ea518aacbf08fcddbd3",
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "category": "tech",
+      "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T17:54:11+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4d90bb5d275c70e99eaa",
+      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+      "category": "tech",
+      "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T17:49:41+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4a76f851e188892b8c77",
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "category": "tech",
+      "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T16:44:48+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_65a785973cc3f4ee52d8",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "category": "tech",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T16:30:00+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_90f033d0835cdea2fd6d",
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "category": "tech",
+      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T16:23:21+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e2b2fbd367ca0e199023",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "category": "tech",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T15:00:00+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e9a1bcdde93a7746301d",
+      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+      "category": "tech",
+      "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+      "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+      "source": "TechCrunch",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T14:42:38+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8ee4c89bfce3d7b24a3c",
+      "title": "How We Brought Hello Kitty® And Friends to Figma - Figma",
+      "category": "figma",
+      "summary": "How We Brought Hello Kitty® And Friends to Figma Figma",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56QjM5ZEdmZnN0MFlnQlBJeHlsSmY3ZHE5SXlaenE5eld4Qnk3azgxSU9hcmZhT1hEOVU3T0IyZHAxdms3dlR3VWN0NWdobEkzSy1IVnAxZlJIWU94bmZ3WnZXdnZWZzctNEQ0OA?oc=5",
+      "source": "Figma",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T14:04:40+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：How We Brought Hello Kitty® And Friends to Figma - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_805af96439f1122996a3",
+      "title": "Apple Glass | Features, Specs, Rumors - AppleInsider",
+      "category": "tech",
+      "summary": "Apple Glass | Features, Specs, Rumors AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQ2p1VjRWSVUxbkUyNGFtb0NNenhYYXllYkFNWmhhamNtRFZtTXRLeDA2YWo0Y3pzOTI3bkc4YklPVUN5QzhuYW1mUzFmNTdRQUFkbTBR?oc=5",
+      "source": "AppleInsider",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T22:20:09+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Glass | Features, Specs, Rumors - AppleInsider",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_31edcd9529ca62328b81",
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -581,6 +1044,46 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Zest’s new AI agent finds restaurants and books reservations over text",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4c2e5ef2054611ab3e32",
+      "title": "Research Program Manager, Safety Systems - OpenAI",
+      "category": "ai",
+      "summary": "Research Program Manager, Safety Systems OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkxxT3N5RnhvN3JrVm9NSWY5STN2Z19sc2tZUmhFb29UOXh2MHNxN3FQZDJIQ1Y3M2l2RDcyTjI3Qm16UUR4Um9RQW5qeGlweFhidEhHaTI5eGZTSnk0T1g5Ymg0cW5NTDQwalJ3S1ZOaDlPeWNDVHAyMl9hOUhfR1VyVG0yNHNJ?oc=5",
+      "source": "OpenAI",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T17:16:33+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Research Program Manager, Safety Systems - OpenAI",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_03ff9a56a5ad30879969",
+      "title": "Experience Design: Dropping the “User” from “User Experience” - Nielsen Norman Group",
+      "category": "ux",
+      "summary": "Experience Design: Dropping the “User” from “User Experience” Nielsen Norman Group",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84N2VlcTBLT3gxN0ZqQ0s1elZCN3VTblFFUDZ2dlZIU3VEc3JUQ282azBUXzZYNURzRFpEVjhkdHhUNEVnRE40bVF2ajZvVEV0bnU3SUFBYjFmMGhrNEYxSE8wYU4xR01k?oc=5",
+      "source": "Nielsen Norman Group",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T17:12:33+00:00",
+      "added": "2026-11-03",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "UX方法"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：Experience Design: Dropping the “User” from “User Experience” - Nielsen Norman Group",
+      "priority": 3,
       "analysisType": "规则初筛"
     },
     {
@@ -6625,7 +7128,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 8,
+  "newCount": 25,
   "sourcesChecked": 7,
-  "archivedDays": 15
+  "archivedDays": 16
 }
