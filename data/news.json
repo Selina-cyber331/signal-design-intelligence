@@ -1,6 +1,466 @@
 {
-  "updatedAt": "2026-11-03T04:26:35.350396+00:00",
+  "updatedAt": "2026-11-04T03:45:25.330532+00:00",
   "articles": [
+    {
+      "id": "rss_19e7736d3fb94bcfa0bb",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "category": "tech",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T22:41:03+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic is working on a system to prove AI models’ identity",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_69270211dde1eee7eb33",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "category": "tech",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T22:19:53+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Data centers are turning to old jet engines as the wait for power grows",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c26ef6376ddb2e5fb932",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "category": "tech",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T21:43:08+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_41388c787ca3f724be46",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "category": "tech",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T21:05:55+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_270f201b7b5263e87e5b",
+      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
+      "category": "tech",
+      "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
+      "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T20:57:17+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_16d798009b0ddf080d7c",
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "category": "tech",
+      "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
+      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T19:45:48+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_094f521966a6ce6c6a74",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "category": "tech",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T19:34:43+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a25d47be90a434603cc1",
+      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "category": "tech",
+      "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
+      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T19:24:37+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ac49b4d8eaea1caf4ab9",
+      "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+      "category": "tech",
+      "summary": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
+      "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T19:04:52+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_490fe5903a64b33f5dde",
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+      "category": "tech",
+      "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
+      "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T18:51:33+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ferrari’s controversial Luce EV is sold out for 2027",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_74c8463f1d8be3b70850",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "category": "tech",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T18:42:16+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a3de9d1f99726825f89c",
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "category": "tech",
+      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T17:56:52+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents t",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9c2d0f46f0b4d34edc37",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "category": "tech",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T17:07:01+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic is still grappling with the economics of compute",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_03ec4cdcc99af1808b71",
+      "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+      "category": "tech",
+      "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
+      "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T16:49:09+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_829a1be3b0a1a305a509",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "category": "tech",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T16:30:34+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google will let schools disable its AI tools, but not without sacrificing Search",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_729c63c1179eff8ea319",
+      "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+      "category": "tech",
+      "summary": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
+      "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T16:04:55+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_50538e97d27bd970df4b",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "category": "tech",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T15:38:27+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple restricts dating apps and AI companions to users 18 and up",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b0fe72c1fb5f42a47b5a",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "category": "tech",
+      "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T14:30:00+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f5c92780750a30600058",
+      "title": "Expanding AI educator training to new countries - blog.google",
+      "category": "ai",
+      "summary": "Expanding AI educator training to new countries blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeWZobHFVb0RleXFWcURIS1docEkyekZqVk9IS0tLSmNTZk5WQ1RDZHg1TmhCeHVfQzdKaFJFamlocW82VEM5em85d0NMckI5alRNWEdweHNYOVVmUE42OTgtLW1wcHdyS1FRUkJ5bE9CemlUTkMzUUV2NFc1eGVERUF4Zk1LWE1fSTZLN29vTDZFd2U1bUVaLTFFSnBEa01IbUU4LUFwWC1HSkY0enBjSzRjcmRsNjVyeG5N?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T14:12:32+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Expanding AI educator training to new countries - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_fbac985d589fa3194926",
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "category": "tech",
+      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T14:00:00+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_50255bd2ad778fd0bf28",
+      "title": "Modern CSS Might Make Your Front-End More Complex",
+      "category": "ux",
+      "summary": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
+      "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+      "source": "Smashing Magazine",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T10:00:00+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "UX方法"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：Modern CSS Might Make Your Front-End More Complex",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b2c47b3b0e95244e0929",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "category": "tech",
+      "summary": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "source": "TechCrunch",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T08:01:00+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_964989277295c41d621e",
+      "title": "Working collaboratively to fight scams in Asia Pacific - blog.google",
+      "category": "ai",
+      "summary": "Working collaboratively to fight scams in Asia Pacific blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2N1aVAtckF4WEMyRkg1bTFSREZsSHBPNHJZajlUUWhDMUdZb0tRWm9RSVlmeTZqRHFhOTU3b1R2Qjg1bDM4eFRfZXd3bDdZVUxTRzZwY1prUER3Yzh5Q2R6TEk1cEI2anpvblktQ2xIdHdlUVU0WUdneGhCZ3J1eHY0M3I0bUZxaHplLXFQdGZwZUp1M2FudWFNd2g1QVVxQ2JB?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T04:37:21+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Working collaboratively to fight scams in Asia Pacific - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_6b4c2ee5c6e26cf8d5d9",
       "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
@@ -385,6 +845,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_15512f45b7a531197bbf",
+      "title": "Figma and Sanrio® Celebrate Hello Kitty® and the Joy of Making Things With Friends - Figma",
+      "category": "figma",
+      "summary": "Figma and Sanrio® Celebrate Hello Kitty® and the Joy of Making Things With Friends Figma",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHlCVE93OEdHV285U0tTbEpWRUxkOVJUa25UX2FvanlWYU1SSGM2aks5dHI4VFhoUFRla1BYMS1rN1VyY2M3UlVwSWpxWE0tYTZNTElSelVNaU5wSnFEQlNwNzZQRlVkdFM3ZHFWOWhlLVZZcUhYQVg3UEkxV3pGY2tGR3E?oc=5",
+      "source": "Figma",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T16:15:53+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Figma and Sanrio® Celebrate Hello Kitty® and the Joy of Making Things With Friends - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_e2b2fbd367ca0e199023",
       "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
       "category": "tech",
@@ -441,6 +921,26 @@
       ],
       "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
       "takeaway": "先阅读原文核对事实；重点关注：How We Brought Hello Kitty® And Friends to Figma - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_05926a10217e429e2941",
+      "title": "Figma x Hello Kitty® and Friends - Figma",
+      "category": "figma",
+      "summary": "Figma x Hello Kitty® and Friends Figma",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ReXVCQlRCQXlxVkVOd0ZObGE5MV8zSnJzOWMydGpoZWVUQlRiaGJYZ3hGVURRb0JvT2hkNzRESUJTTW9VTHNDTjA5akFIcWJjR25qUUxmQzE3Zw?oc=5",
+      "source": "Figma",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T14:04:40+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Figma x Hello Kitty® and Friends - Figma",
       "priority": 3,
       "analysisType": "规则初筛"
     },
@@ -2648,6 +3148,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Re:Build, which spun out Slate Auto, raises $2.1B",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5d98bc39566f8291d5a6",
+      "title": "Applied Data Scientist, Personalization & Machine Learning - OpenAI",
+      "category": "ai",
+      "summary": "Applied Data Scientist, Personalization & Machine Learning OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNVdiVWRERUo3bWV2RUVFSU81WlFvdTB1cHN1Z0V5Z3ZHcTZsbFJBSW53d3ltQnpkSFl1T2dYSlg4eFo2VEpJTVRDaG5WVnNQaVZzOXJWb3hEeWhQelg5dGtydXc3bFYwTUVFdXphQ3RTaTU0ZEJPb25pai1KRkhXdEZWdmpvV1pNc0dsZHVQZFlFajZTY2FTV1p5bC1lTFVjbEZN?oc=5",
+      "source": "OpenAI",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T19:51:13+00:00",
+      "added": "2026-11-04",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Applied Data Scientist, Personalization & Machine Learning - OpenAI",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -7128,7 +7648,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 25,
+  "newCount": 26,
   "sourcesChecked": 7,
-  "archivedDays": 16
+  "archivedDays": 17
 }
