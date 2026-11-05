@@ -1,6 +1,468 @@
 {
-  "updatedAt": "2026-11-04T03:45:25.330532+00:00",
+  "updatedAt": "2026-11-05T04:03:46.009608+00:00",
   "articles": [
+    {
+      "id": "rss_a3ded91f0f826b78ce46",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "category": "tech",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T01:26:22+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple is reportedly cutting budgets for its internal AI usage",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4c5fdbaa09a375154a2c",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "category": "tech",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T01:02:14+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：After the midterms, a bigger clash over data centers could be coming",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a1b94b8dee5f409b84b2",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "category": "tech",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T22:45:09+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5511ea97400a68fcf407",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "category": "tech",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T22:13:16+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cc40b9e4201a94c25f0d",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "category": "tech",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T21:56:01+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Almost no one uses AI agents to book their Uber, company says",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8f7c99e11486128c0a32",
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "category": "tech",
+      "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T21:49:29+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Snapchat surpasses 30M paid subscribers",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c85eee8f2c9062412283",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "category": "tech",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T21:25:44+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI is already trying to shape the 2028 election",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a04b01db061cc0fe2a8b",
+      "title": "Meta acquires AI coding startup Conductor",
+      "category": "tech",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T21:10:56+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta acquires AI coding startup Conductor",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e5ab807524782ebda1f9",
+      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+      "category": "tech",
+      "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T20:36:57+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Hackers stole DreamHost customer files and inboxes during months-long attack",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4f244fcc2cc14ead58fb",
+      "title": "iPhone 20 Pro: Everything we know about Apple’s rumored 2027 redesign - The Apple Post",
+      "category": "tech",
+      "summary": "iPhone 20 Pro: Everything we know about Apple’s rumored 2027 redesign The Apple Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDRjMmhGT3NRbnVFME9zVXBrR0NsNGlyTTk3OTREbUxwdVlaWkpRTUNqZVhpd09SU1cxSi1ZTk5tV3NnLUpmSGhtOEhlTW5KT1pSbzE2bU1Nd3U5bG0tM043eW90dWY4Sk02cjAyelFJUElDLWtadTlKb25jTFRpQk1EaWtjaXM3em80MThoY18xVGZXWVNTVlJpaGJTNFNMelZwaFd2amlOY1RYVlRTZ1NJWC3SAboBQVVfeXFMTXRfM0N5QWxZSmcxbFJhTDdtVnY2dnlLdU1QYmNsUXI5ME9lUGtkWnJfT2FXZ2UzRWVZUkNva3ZYTmN3b2ZGb2s1RWVtZjNwNVpCakJMaDR5RmdxRnAtN1k0R3FBRlNZdzAyQ2N4SFBHS1Q3cWN4Rjc1eGZfWnJEQVI4SXJiUDBNT3FiVVlya3ROdEtjQVV5UlV2bFNUT1ptMFRQekNuZ1R2THBhajBQeHBoVThUUmlGY1p3?oc=5",
+      "source": "The Apple Post",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T20:21:40+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：iPhone 20 Pro: Everything we know about Apple’s rumored 2027 redesign - The Apple Post",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cb74e046d773778ee84c",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "category": "tech",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T19:30:04+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Open source AI is booming. Hugging Face explains who profits.",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_159a57721326561c0eae",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "category": "tech",
+      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T19:29:52+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_63868cb95b11793bdf7f",
+      "title": "Watch Henry Cavill build a video game on his Googlebook - blog.google",
+      "category": "ai",
+      "summary": "Watch Henry Cavill build a video game on his Googlebook blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOW1Qak9BcmlzbFRkakpRWmFERS0tUldsUnpLemsyR1gySEhnaWJoQURkdU1vZ2NlT05mMnZLRUVNMGROVEdyeE15N0dqODNlYkNPYjdXWlc5UlhaZDI0b25mOVFPOFhGQVN2VjZqZWhQdl9fZHRQbzdzTWhrV2QyTmwzNjlFWXFraVBQbkFSMmdZT0JFNk9RWi12ZVhZSmVJcm9ybWcxYw?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T18:38:30+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Watch Henry Cavill build a video game on his Googlebook - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f059aba13e30d09fe9a9",
+      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+      "category": "tech",
+      "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T18:12:30+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Waymo confirms it’s shaking up its Uber relationship in January 2028",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_90dd6485304dc5f601bd",
+      "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+      "category": "tech",
+      "summary": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low Earth orbit than in London.",
+      "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T18:10:11+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7c89c44cc8029b07b2a8",
+      "title": "Sequoia hits rewind, undoing 20 years of expansion",
+      "category": "tech",
+      "summary": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T17:11:15+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Sequoia hits rewind, undoing 20 years of expansion",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a3d6618e5c6ce4feab0e",
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "category": "tech",
+      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T16:51:35+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "隐私安全",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_724f19454a5d4bd54dcc",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "category": "tech",
+      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T16:17:22+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e226d44166807e0e8638",
+      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+      "category": "tech",
+      "summary": "Titan OS has raised $110 million in funding to date.",
+      "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T15:00:00+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Titan OS raises $46 million to expand its smart TV OS internationally",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e1ac74b105301e733326",
+      "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+      "category": "tech",
+      "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+      "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T14:10:10+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8d64faa7c7748904c4cb",
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "category": "tech",
+      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T13:00:00+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_df388293e0ab9d44e4ef",
+      "title": "Canva lays off over 1,200 people amid slowing growth",
+      "category": "tech",
+      "summary": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
+      "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+      "source": "TechCrunch",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T11:59:00+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Canva lays off over 1,200 people amid slowing growth",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7efa5ef26409c03d2dce",
+      "title": "The Rumored iPhone Air 2 Upgrade That Changes Everything for Apple’s Slim Lineup - Geeky Gadgets",
+      "category": "tech",
+      "summary": "The Rumored iPhone Air 2 Upgrade That Changes Everything for Apple’s Slim Lineup Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QbXlNZXpuYzZla0x3NmZXT1NyM3ppeklVdmRkVk1LV0MwMDlWb2ZuZ25odU9DbUVBRVM0Q2JzdnRrMVlUSlRDcU8tX3JhQ0Z6RWRERmlBby1jT2l4S2JYeVhGWQ?oc=5",
+      "source": "Geeky Gadgets",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T09:16:16+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The Rumored iPhone Air 2 Upgrade That Changes Everything for Apple’s Slim Lineup - Geeky Gadgets",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_19e7736d3fb94bcfa0bb",
       "title": "Anthropic is working on a system to prove AI models’ identity",
@@ -905,6 +1367,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_f12d9de59e4070dbe9ce",
+      "title": "Introducing Adobe for Startups - Adobe",
+      "category": "tech",
+      "summary": "Introducing Adobe for Startups Adobe",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRGhISnQ4YURKN2NGQUtPMTBQNTdTTnFRZG9TejFlY1dYN1BGMkJNejNReVJuTkdMUWh0MTdDdnBpLWNwNzI1RUVjZmlBMTdGZThDbDBaWXdvaXlwR01TamRPRWVYbWZmZWtWbGZsT3Z1NlBvbVBaSndSTVBzNExyVA?oc=5",
+      "source": "Adobe",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T14:08:38+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing Adobe for Startups - Adobe",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_8ee4c89bfce3d7b24a3c",
       "title": "How We Brought Hello Kitty® And Friends to Figma - Figma",
       "category": "figma",
@@ -942,6 +1424,26 @@
       "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
       "takeaway": "先阅读原文核对事实；重点关注：Figma x Hello Kitty® and Friends - Figma",
       "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bac7c11b03f0a237ed0f",
+      "title": "Unlocking Africa’s AI potential: Introducing Skilling Africa with Google - blog.google",
+      "category": "ai",
+      "summary": "Unlocking Africa’s AI potential: Introducing Skilling Africa with Google blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXZLcXNhcm5qWjF3SXQ0NjNOeVBQUHFLTTBXM3J4Vmg0NUlHUTJUcWdzNVlZNm5jXzNYNENxUzg0TFRseGhTaE01cThLOHlnZjkzdE5wenZMZzFhNHN2Q1FreDd3RkItMTJnWkg3anZOSjdBOEExWHVGTXBNdWdidzRNSS01NjVpVVBNYVh6WkVKRVdxSDRNWHdOWXlxYlJSdGd1Q1NmdWRIUQ?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T11:21:38+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Unlocking Africa’s AI potential: Introducing Skilling Africa with Google - blog.google",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -2565,6 +3067,27 @@
       ],
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Apple launches its new touchscreen MacBook Pro - TechCrunch",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_631e363445a1f70d7dc6",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows - OpenAI",
+      "category": "ai",
+      "summary": "OpenAI and ServiceNow expand partnership across enterprise workflows OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXdEZ3OGhkclFyelppYjhRXzd3dW1mY05Va3hJQWZqWDBXeEJlOURCM2llMG5wV240bEo2bzJPdnNKbDh0a2dBQkRsU2ZCdG9MWHF0dC1YblduV0RKN1ZzY2pEQzdZZFhJdU91R0JUUXFKOUE?oc=5",
+      "source": "OpenAI",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:18:00+00:00",
+      "added": "2026-11-05",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "自动化流程",
+        "企业落地"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI and ServiceNow expand partnership across enterprise workflows - OpenAI",
       "priority": 2,
       "analysisType": "规则初筛"
     },
@@ -7650,5 +8173,5 @@
   "status": "ok",
   "newCount": 26,
   "sourcesChecked": 7,
-  "archivedDays": 17
+  "archivedDays": 18
 }
