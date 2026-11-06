@@ -1,6 +1,468 @@
 {
-  "updatedAt": "2026-11-05T04:03:46.009608+00:00",
+  "updatedAt": "2026-11-06T04:00:36.159798+00:00",
   "articles": [
+    {
+      "id": "rss_6dd883a42a8e45acea87",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "category": "tech",
+      "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T00:07:18+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8ca63d87a6e5b8f8ead6",
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "category": "tech",
+      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T00:01:38+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta, Google, and TikTok sue California AG over teen social media law",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3c228fa77c7cbb9f1179",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "category": "tech",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T22:40:55+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7f1bcd69666f5f9fd8e8",
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "category": "tech",
+      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T21:15:00+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Serve Robotics launches new business to become the AWS for robots",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4141eb71aaca83a590dd",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "category": "tech",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T19:48:28+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta says US users can now video chat with their Muse AI avatar",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8180d7f605f6995a34f1",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "category": "tech",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T19:12:39+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta warns that election backlash against data centers could make AI expansion harder",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0aca6464a345e71218e1",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "category": "tech",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T19:06:12+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI released a new cybersecurity model. Is that enough?",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a38e4e9843374d6e9d18",
+      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "category": "tech",
+      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T18:48:34+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military free",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_70eb3e5a88c54964b4cd",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "category": "tech",
+      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T18:02:27+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3abd8d96ae84e85d77eb",
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "category": "tech",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T18:00:00+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_51e48f2d61f0070d43f5",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "category": "tech",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T18:00:00+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Claude can now analyze your spending with its new Personal Finance tool",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_61d0f69e55a5719402c2",
+      "title": "Harbinger raises $240M after expanding into defense",
+      "category": "tech",
+      "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T17:52:44+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Harbinger raises $240M after expanding into defense",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4fc6a652f53643991280",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips - blog.google",
+      "category": "ai",
+      "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzdSQ1BzbGFWajh1Z0VvUHZvN215LXFXa25rRnNRakRIVW9WbkxQTk10N2tJUEZKODd6cXJBWlQ0VWdFd2JWYllfQlh3ZXAyYXRkclQ1M0NXdHNLaUhjSUpCSXFBMElKdDZBQWxGZEJKajhfY1RRbThUeVlJMUkwdlRoR09ZZF90Q1JEekZfN2RKeUVNak1lZmdPSW9hV2g1SGc?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T17:20:29+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_571d9074e3f37c207f8c",
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "category": "tech",
+      "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T17:11:48+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ee8974347c2a714aef2d",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "category": "tech",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T16:16:45+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Axiom Math wants to keep AI slop out of mathematics",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a4f8ad779ea4b7e6edc3",
+      "title": "Bluesky hit peak usage for the year on election night",
+      "category": "tech",
+      "summary": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+      "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T15:44:58+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Bluesky hit peak usage for the year on election night",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a282cb811b6f702dc934",
+      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "category": "tech",
+      "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T15:40:34+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_611f946ba0935e2890a1",
+      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "category": "tech",
+      "summary": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+      "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T15:33:58+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TikTok quietly launches a stand-alone TikTok Shop app",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5c3af2aa4759645358d7",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "category": "tech",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T15:19:05+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bd09b1bf2f24f0f25dcb",
+      "title": "Instagram brings Edits to desktop to take on CapCut",
+      "category": "tech",
+      "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+      "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T15:00:00+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Instagram brings Edits to desktop to take on CapCut",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4c9eeec84ef2e0536550",
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "category": "tech",
+      "summary": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
+      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+      "source": "TechCrunch",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T15:00:00+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0fc2d1218e72d2f3145b",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "category": "ux",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "source": "Smashing Magazine",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T13:00:00+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "UX方法"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：Making Immersive LLM Chat Experiences More Accessible",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c0a69cbcb77e82b11136",
+      "title": "Introducing Images 2.6 I n t r o d u c i n g I m a g e s 2 6 - OpenAI",
+      "category": "ai",
+      "summary": "Introducing Images 2.6 I n t r o d u c i n g I m a g e s 2 6 OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aRllmMHFwSmtFNVhMV0dnNXpZa0RkejJ2bDkzYUlTLXRBaHF5TXd0VldHSEZxbWEyQ25EdlM1azgxV2p5dGs0cnZ2dG56ekEzQTJDY1FFWjN5MzZh?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T02:29:04+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing Images 2.6 I n t r o d u c i n g I m a g e s 2 6 - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_a3ded91f0f826b78ce46",
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -444,6 +906,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_ac4f249e27875fed054b",
+      "title": "Take a closer look at art with the Courtauld - blog.google",
+      "category": "ai",
+      "summary": "Take a closer look at art with the Courtauld blog.google",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzVRdV9raGVIYXdSeUhZSTcxRmVOcGRCdE9iVlhRQ1Mtazdob2h3OHRBMy1va0ZJUW9aaFRaRmJCUE84OTlPejBobEk4WlJ1NEk0dEpkZzVEenIyc3NCcU13Yl84ZmpUMG5waGF2ekJtSFM3OGgtcFVhdFljOTJFQ1lCRGIyazlyUU90U2ozeHBYODNq?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T10:27:26+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Take a closer look at art with the Courtauld - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_7efa5ef26409c03d2dce",
       "title": "The Rumored iPhone Air 2 Upgrade That Changes Everything for Apple’s Slim Lineup - Geeky Gadgets",
       "category": "tech",
@@ -881,6 +1363,26 @@
       "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
       "takeaway": "先阅读原文核对事实；重点关注：Modern CSS Might Make Your Front-End More Complex",
       "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d5d3b521f5124aae7b06",
+      "title": "Microsoft and NVIDIA launch Frontier Launchpad to boost next wave of AI-focused software firms across UK & Ireland - Microsoft UK Stories",
+      "category": "tech",
+      "summary": "Microsoft and NVIDIA launch Frontier Launchpad to boost next wave of AI-focused software firms across UK & Ireland Microsoft UK Stories",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU29BNnZZV19UdXU2dlFtUElSc1F6cFQ0SWJrWHJmNWFia0FraVN3YlRjY255LVc0ejE3T2NfX2ZJazBjTXNqbmdJR05KN3Q5dEhJWl8tOG80MXpLQkNLYjdDaE85djd4RzYzdHgxLXFCSk5yTG5YeVdPTGlYdjRKdlJwcmxMX19rLTB4S0FNV2hmNlYtMHVQTE9wczJqbkdIUTJkYm5PcmdzUXlOTHJmaWRya1hKeHZxTHZ2MEFrdkREd0NTTE5pLW0yN1NGSUE5R1FvRmpKc1NlZmtyQmJiMGU2akhjbkhvSWc?oc=5",
+      "source": "Microsoft UK Stories",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T08:02:16+00:00",
+      "added": "2026-11-06",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Microsoft and NVIDIA launch Frontier Launchpad to boost next wave of AI-focused software firms acros",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -8171,7 +8673,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 26,
+  "newCount": 25,
   "sourcesChecked": 7,
-  "archivedDays": 18
+  "archivedDays": 19
 }
