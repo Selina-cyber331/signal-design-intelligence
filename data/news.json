@@ -1,6 +1,326 @@
 {
-  "updatedAt": "2026-11-06T04:00:36.159798+00:00",
+  "updatedAt": "2026-11-07T03:37:24.479986+00:00",
   "articles": [
+    {
+      "id": "rss_87c8e4f2ce1ddaaddb3e",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "category": "tech",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch",
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T01:40:28+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Crusoe sells troubled Wyoming data center project to Google",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0d5419e9de3a20771634",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "category": "tech",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T22:53:46+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_49814a36a06bad77370a",
+      "title": "The Duo apps are coming, says Apple",
+      "category": "tech",
+      "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:38:05+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The Duo apps are coming, says Apple",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6c3bac0eb30dba488e58",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "category": "tech",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:44:38+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_07bafc2087d7e4431640",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "category": "tech",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:44:20+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_84a437fd081a43ff9d44",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "category": "tech",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:23:52+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：After the midterms, is the AI industry in for a rough two years?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ce4d92df007bd62b9be0",
+      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+      "category": "tech",
+      "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T16:50:01+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Pentagon offers battery startup 6K $250M loan to build US factory",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_32c4a52716adf3c7b61e",
+      "title": "Fox completes its $22B acquisition of Roku",
+      "category": "tech",
+      "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T16:05:36+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Fox completes its $22B acquisition of Roku",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cb8eef83c00c2a14569b",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "category": "tech",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:54:47+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5970d8ff88e60630dc3c",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "category": "tech",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T14:10:00+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_44da15f6890e567e7fd1",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "category": "tech",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:02:16+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Underdog shows off a 32MB speech model in new demo",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_70cbfb8879ea4baa1e49",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "category": "tech",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:00:00+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Physicl raises $10M to make the digital world real enough for robots",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3aa0accda45455f2e5a0",
+      "title": "Tesla will stop making the Cybertruck in 2027",
+      "category": "tech",
+      "summary": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
+      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T11:50:10+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Tesla will stop making the Cybertruck in 2027",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_21d158cfdee5ddb72a93",
+      "title": "A New Community For In-House UX People",
+      "category": "ux",
+      "summary": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).",
+      "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+      "source": "Smashing Magazine",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "用户研究"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：A New Community For In-House UX People",
+      "priority": 4,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a284272b54fdd0c7a820",
+      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "category": "tech",
+      "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T07:18:44+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "隐私安全"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7f598d0402487b2a483d",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "category": "tech",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T06:28:32+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_6dd883a42a8e45acea87",
       "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
@@ -240,6 +560,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Harbinger raises $240M after expanding into defense",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_54552bc1ed969cb6ee62",
+      "title": "Applied AI Delivery Lead - NYC - OpenAI",
+      "category": "ai",
+      "summary": "Applied AI Delivery Lead - NYC OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4Ukw0Y2hhdDZJWkNaWkJtc2VRV3NuUi0yQUtsV0lJdDEzUG9TV0MtWGw3Z2w0dTJ4T2dEZHdmNk8za3JJZFhoZTJYQlJQbXpnU1dxcmFfVFpzVk9pUnNZenlYajR1N1VzUURsNXRIejd0eEE0bVF1RTBR?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T17:34:03+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Applied AI Delivery Lead - NYC - OpenAI",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -762,6 +1102,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
       "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9706f0cdcc73664c310d",
+      "title": "How Figma Manages Sandboxes at Scale - Figma",
+      "category": "figma",
+      "summary": "How Figma Manages Sandboxes at Scale Figma",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjQmVWdjd1Ri1aNjB2NFl6RDhkdWp3SHJPU3hHNGJleEs2S2tzazAtYUlnZzZXdEZWRFNXM3FQUFRiazNfM0FPV2cwZm54WXFQTm13SmxuTnozdHhkM2JhMkFXVmhKX2ExZ19SeWJfTmhVUQ?oc=5",
+      "source": "Figma",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T17:24:56+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：How Figma Manages Sandboxes at Scale - Figma",
+      "priority": 3,
       "analysisType": "规则初筛"
     },
     {
@@ -2928,6 +3288,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Elon Musk is ‘truly a genius,’ says Vladimir Putin",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6d45619972d2dc7af76d",
+      "title": "Trusted Access Lead, Critical Harm Operations - OpenAI",
+      "category": "ai",
+      "summary": "Trusted Access Lead, Critical Harm Operations OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZWdEb2NSenVSRHVmdGdyRGFjMExOSzEtejdsQWdkQnhnUWtNWk1sZGpxeW9Cd2trcXM1Yk92YkZrMXBRY2xaakN3Y0g1SGdkS0JCYkg0czF3WEwtNEhoV3gzaDhWcTRSV01SeGJkVmdjY0xpcC1WXzVJWWZYSm11cGZRQTJKcjhFTHpQaGtjbw?oc=5",
+      "source": "OpenAI",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T21:37:04+00:00",
+      "added": "2026-11-07",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Trusted Access Lead, Critical Harm Operations - OpenAI",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -8673,7 +9053,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 25,
+  "newCount": 19,
   "sourcesChecked": 7,
-  "archivedDays": 19
+  "archivedDays": 20
 }
