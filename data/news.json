@@ -1,6 +1,166 @@
 {
-  "updatedAt": "2026-11-07T03:37:24.479986+00:00",
+  "updatedAt": "2026-11-08T03:08:32.991699+00:00",
   "articles": [
+    {
+      "id": "rss_fd497bd72cf182a9d62e",
+      "title": "Figma Slides: section names no longer shown, and sections can't be renamed - Figma Forum",
+      "category": "figma",
+      "summary": "Figma Slides: section names no longer shown, and sections can't be renamed Figma Forum",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa1U1ZUNZeVpLT1hDa2JFM1RCMW5HZlhuZV94aXpXMWd1ci1KUlQ4Z3U1ZFB1SmpoLUFteDdPeXJNdVZNeTJNdTBvZjl5UGZDcmVwWlE5ckF3YTMyVkQ0VHJLOGxkRzhvcUVXOHJDaF90RWZDMlJ5SWpvRk1wampIUGd3ZzVVdU5URndRTkZQLXZKY2c4Vks5UzR2TTZTZjBFUWV2QTVlR3dzTlNtWGJFcVFPeTNiSFA4WUJJU2NR?oc=5",
+      "source": "Figma Forum",
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T22:27:12+00:00",
+      "added": "2026-11-08",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Figma Slides: section names no longer shown, and sections can't be renamed - Figma Forum",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d75b3c441ad8b2132e61",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "category": "tech",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T22:07:22+00:00",
+      "added": "2026-11-08",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：After the midterms, things are looking rocky for Elon Musk and data centers",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f1baa71d60d64be109bf",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "category": "tech",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T21:17:08+00:00",
+      "added": "2026-11-08",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_51590d1bd257f70f36a9",
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "category": "tech",
+      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "source": "TechCrunch",
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T19:00:00+00:00",
+      "added": "2026-11-08",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Parents want safer phones for kids. These companies are answering the call.",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_01eaf5f5b5730594380f",
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "category": "tech",
+      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "source": "TechCrunch",
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T17:24:07+00:00",
+      "added": "2026-11-08",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_32731b4c9b7c8f9656ef",
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "category": "tech",
+      "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "source": "TechCrunch",
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T17:18:00+00:00",
+      "added": "2026-11-08",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_261994a134b5d9e403e0",
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "category": "tech",
+      "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "source": "TechCrunch",
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T05:01:54+00:00",
+      "added": "2026-11-08",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Sequoia shutting down its Scouts program marks the end of an era",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d9f8cd6f3d55eab6a40b",
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "category": "tech",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "source": "TechCrunch",
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T04:16:43+00:00",
+      "added": "2026-11-08",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：From the front row to the hot seat — what the midterms mean for Big Tech",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_87c8e4f2ce1ddaaddb3e",
       "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -3191,6 +3351,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_ab1d729193fdfd4a5ae8",
+      "title": "AI outpainting tool - Figma",
+      "category": "figma",
+      "summary": "AI outpainting tool Figma",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51RG92dHJvNTB0WnNkTkxxbm05cDhoSHRIYzBiQ3FESF9ucEpDbjcwOEN6dExZdElNUzl6MzdUc0hWVGx2blVsVk1qbmRMZkJscWZueWRYeExhdHNZQWlyZDRB?oc=5",
+      "source": "Figma",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T07:00:00+00:00",
+      "added": "2026-11-08",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI outpainting tool - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_d1b4c016eeeeae425d37",
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "category": "tech",
@@ -3208,6 +3388,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：You don’t need to believe in a god to get a religious exemption from using AI at work",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b963b472f339d36b1e40",
+      "title": "Krea plugin for ChatGPT - OpenAI",
+      "category": "ai",
+      "summary": "Krea plugin for ChatGPT OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nWlhHMWNfRmE5aEUyZTBMVVh6TmxqWmN2aU95Z0prV1FCODJ5UUtNSm5MRl9oRWstSnlxUUpSQ2pPV1l1QWU5Z0t3R2FBcXRnWjBn?oc=5",
+      "source": "OpenAI",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T01:03:11+00:00",
+      "added": "2026-11-08",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Krea plugin for ChatGPT - OpenAI",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -9053,7 +9253,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 19,
+  "newCount": 10,
   "sourcesChecked": 7,
-  "archivedDays": 20
+  "archivedDays": 21
 }
