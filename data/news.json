@@ -1,6 +1,206 @@
 {
-  "updatedAt": "2026-11-08T03:08:32.991699+00:00",
+  "updatedAt": "2026-11-09T03:30:26.128966+00:00",
   "articles": [
+    {
+      "id": "rss_9780df0fc7e8d1c12a19",
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "category": "tech",
+      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "source": "TechCrunch",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-08T22:00:00+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apps to distract you from the endless cycle of doomscrolling",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_aef7b55ff8ce50a17b76",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "category": "tech",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-08T21:00:11+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0ee57554063aaf298781",
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "category": "tech",
+      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "source": "TechCrunch",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-08T21:00:00+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_72c02ce5984f70b82393",
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "category": "tech",
+      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "source": "TechCrunch",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-08T20:30:00+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_59345de1b72eae8b80e7",
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "category": "tech",
+      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "source": "TechCrunch",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-08T19:51:30+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bc395691988087cd60ab",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "category": "tech",
+      "summary": "SNL seems to have its knives out for tech executives.",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "source": "TechCrunch",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-08T18:00:04+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_37166103d36c55fa2d68",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "category": "tech",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-08T17:30:00+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7dc18eb4989bfc767d68",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "category": "tech",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "source": "TechCrunch",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-08T17:02:00+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TechCrunch Mobility: The Cybertruck experiment is over",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8cac69e0185c87a01058",
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "category": "tech",
+      "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "source": "TechCrunch",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-08T15:00:00+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d79fcb4640f1b2ea58db",
+      "title": "Plugin API: manualKeyframeTracks throws \"Unsupported base value type: 0\" on layers with visibility keyframes - Figma Forum",
+      "category": "figma",
+      "summary": "Plugin API: manualKeyframeTracks throws \"Unsupported base value type: 0\" on layers with visibility keyframes Figma Forum",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMWRuekNRd3pNMEdzbUFWYzhaWnA4bEtnZ19ibGFXTnNNYmxIZVFTeEVUd0IyYkhWQ1FaZVZ0cXdyQ2QtVjFQakd0WURPaUY0VFAtS0pxR3plaDJ0UXBJVWt1c3A3bUZiRGJQeFMwWGluM1k0X3h2S2hRTW9PaFNmQVVCTTgzN2s1R085emN1RnpFeU1Ic3NzN1FWTHZVT0ZtZnNMUVN3YUliZ3g5ekVCT013MU1RbjF4Z29vanFiZ1FfMWJaYkYzcG1rRDh6QUc1SUpQSHVGalFEYm82Z3BFeWdDMG1lc09V?oc=5",
+      "source": "Figma Forum",
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-08T14:14:25+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "插件生态"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Plugin API: manualKeyframeTracks throws \"Unsupported base value type: 0\" on layers with visibility k",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_fd497bd72cf182a9d62e",
       "title": "Figma Slides: section names no longer shown, and sections can't be renamed - Figma Forum",
@@ -964,6 +1164,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_ab1518298747ac44c061",
+      "title": "Empowering Educators and Learners in Sub-Saharan Africa - blog.google",
+      "category": "ai",
+      "summary": "Empowering Educators and Learners in Sub-Saharan Africa blog.google",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDBoNDhPMkpackc5RGRCWDJSbm14c0pGRWdVN2Q1UTZ0cTlxMmNRT3BpOEQ0SzlsZEg5SjRFTFRub2l6S0JNMy0xNWNBWFZ6Q1JqeXpvRVhtRmFRY2M2dHFTLXFPNWl3YUlxZ0NhRXJGdHNMUGVhU0Q3alBTRkJ6TV9iM0hNTjJPck00MnMyRFZFckhBR0V6UzA1RGd1dWJoel8tc3VMdUJMelFBX3hCeU1DOUZGdXpnWGZxRUd4NFY1aHM3REtEMU5YcV9WSUk?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T02:28:36+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Empowering Educators and Learners in Sub-Saharan Africa - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_a3ded91f0f826b78ce46",
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "category": "tech",
@@ -1001,6 +1221,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：After the midterms, a bigger clash over data centers could be coming",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_eccd737ef5390ab11847",
+      "title": "Workflow lab: Test ideas with code layers and the Figma agent - Figma",
+      "category": "figma",
+      "summary": "Workflow lab: Test ideas with code layers and the Figma agent Figma",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3RuR3hhSXhFZG9wTU5JRmhSY0g5Z09YMTZ2ZlNDbXVHaHgtUm4zcEVmNERNdUxOOTJGR1MtRUF5c05YRFVETzBvYldzNlV3bFF6aHByUWc1dmVFbEVtc25jN1hkeDd2QTlVdDY4WE11Rmp2M0IxLXhpdjVQZzAxcXY0Y29JOC04SERaX1FjUFh6MmZXczJTc2cwZkpTaWplaGlXRHFoZ0VWZWJX?oc=5",
+      "source": "Figma",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T22:48:47+00:00",
+      "added": "2026-11-09",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Workflow lab: Test ideas with code layers and the Figma agent - Figma",
+      "priority": 3,
       "analysisType": "规则初筛"
     },
     {
@@ -9253,7 +9493,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 10,
+  "newCount": 12,
   "sourcesChecked": 7,
-  "archivedDays": 21
+  "archivedDays": 22
 }
