@@ -1,6 +1,468 @@
 {
-  "updatedAt": "2026-11-09T03:30:26.128966+00:00",
+  "updatedAt": "2026-11-10T05:03:47.340600+00:00",
   "articles": [
+    {
+      "id": "rss_b76b64cb5423abaef4e3",
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "category": "tech",
+      "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T04:34:15+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_74c6a14cd47bf68acec0",
+      "title": "Founding Full Stack Software Engineer, Consulting - OpenAI",
+      "category": "ai",
+      "summary": "Founding Full Stack Software Engineer, Consulting OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0N2SVRUcjhfZnR6ejFQZ2hzTzZyUnpsZ0pfeVh3dWQwbjQ4WllpbFR3NnJBV1o5b3FremcyVVQ2Vm5aZW1xcHBNcF9iemlpdzhfM1luMXBhYXppZjdBTkw1ejhpSXVTMUNpb2pwWUJZbEVFLWhmaF9xNU5NMGhUNUhsdnFFNVdjX2dIZkd5NnFtRkhv?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T03:37:15+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Founding Full Stack Software Engineer, Consulting - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_868c4786a8cfa32f363a",
+      "title": "6 Easy Ways to Use the Figma Agent Right Now - Figma",
+      "category": "figma",
+      "summary": "6 Easy Ways to Use the Figma Agent Right Now Figma",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00bWpCdnNEZDFlUC12bmt1QnBndHpEN3FfNFRSY0RnTU5PaFAwZk1laWt0YUxrQXdqYVcyZmx1Mm1uX01vT1h2VUkzXzVJOXRkQ3dHT3Jva1JONWdyUkNMQjJHU2lBdmR4aXFCXzg4UU5wRUpaa3NzR1ZhWkI?oc=5",
+      "source": "Figma",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T02:08:20+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：6 Easy Ways to Use the Figma Agent Right Now - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2c6967e50e54da760123",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "category": "tech",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T01:27:12+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic reportedly plans to move forward with IPO plans",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3b3f595951de042b199f",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "category": "tech",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T23:28:37+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a yea",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_95326683d4e79922f8dd",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "category": "tech",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T23:03:46+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Hotel giant Wyndham exposed customer data after app security lapse",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6c9e6e16b1bfe3c6b293",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "category": "tech",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T22:46:09+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0de157163539f675190d",
+      "title": "The race is on to sue Nvidia",
+      "category": "tech",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T22:23:42+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The race is on to sue Nvidia",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8636981fc5cb68492031",
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "category": "tech",
+      "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T20:55:34+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Fervo now has $12B in orders for its geothermal power tech",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_03266679dabdf0121c25",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "category": "tech",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T20:09:06+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_aee9432239c651266415",
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "category": "tech",
+      "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T19:39:41+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bc0570156cfbefb32141",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "category": "tech",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T19:24:51+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ba66f823fe8572942c18",
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "category": "tech",
+      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T19:21:46+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a30a38f27d168b178a8b",
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "category": "tech",
+      "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T19:19:24+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_20c7301168d40e30544e",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "category": "tech",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T18:09:52+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_70438d3c39466c405f81",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "category": "tech",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T18:00:00+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta releases Muse Ember, a new lightweight model for agent execution",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9590a8cfc92e9e593dc5",
+      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "category": "tech",
+      "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+      "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T17:00:00+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_800b01fbf7ff758afbfe",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "category": "tech",
+      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T16:56:54+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_fe9de3ac2d526f0755ce",
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "category": "tech",
+      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T16:12:28+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Medium’s new TK app brings AI assistance directly into the writing process",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b646f3d2fc20b2902533",
+      "title": "Meta expands Instagram’s AI age-guessing tech globally",
+      "category": "tech",
+      "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
+      "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T15:32:27+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta expands Instagram’s AI age-guessing tech globally",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_38a4f67095c4d2051530",
+      "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+      "category": "tech",
+      "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+      "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T15:24:59+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_51e4ca864792947ca0b4",
+      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+      "category": "tech",
+      "summary": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
+      "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+      "source": "TechCrunch",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T14:00:00+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7bcdce74fd49660a1a10",
+      "title": "iPhone 20 Pro leak casts doubt on Apple's all-glass design ambitions - Báo VietNamNet",
+      "category": "tech",
+      "summary": "iPhone 20 Pro leak casts doubt on Apple's all-glass design ambitions Báo VietNamNet",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOWs3dl9xbzhQRzVDNXJMdVZwMHFDb1ZFU3dXMllpN1BNaERlSFluemVfSVpEbGFNMzBmOFVZYWFSa0JzLW8tMm1JRWhVckttUnpoWm1Ua3VZTGtNdTZLaU95a2RzOWIyMFlsajNVRENnQUw2bGtDbWpHTGlWMWtYNGp5VHpTdnd3X2RZRmlGMDRWWEJyNzVxaXlIbjRiM0Nqb05lR3ZzZDFiQQ?oc=5",
+      "source": "Báo VietNamNet",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T03:32:00+00:00",
+      "added": "2026-11-10",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：iPhone 20 Pro leak casts doubt on Apple's all-glass design ambitions - Báo VietNamNet",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_9780df0fc7e8d1c12a19",
       "title": "Apps to distract you from the endless cycle of doomscrolling",
@@ -9493,7 +9955,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 12,
+  "newCount": 23,
   "sourcesChecked": 7,
-  "archivedDays": 22
+  "archivedDays": 23
 }
