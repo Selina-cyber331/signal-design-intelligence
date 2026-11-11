@@ -1,6 +1,628 @@
 {
-  "updatedAt": "2026-11-10T05:03:47.340600+00:00",
+  "updatedAt": "2026-11-11T03:37:55.007602+00:00",
   "articles": [
+    {
+      "id": "rss_2da266820ce3ba2291d0",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "category": "tech",
+      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T01:02:13+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：X launches its own clipping feature to spur influencer engagement",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_438543777fca47f6f0a0",
+      "title": "IBM, Microsoft Launch Imagine Enterprise Agentic AI Platform for Businesses - The Fast Mode",
+      "category": "tech",
+      "summary": "IBM, Microsoft Launch Imagine Enterprise Agentic AI Platform for Businesses The Fast Mode",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUFdhTlAtVlo3UG91QmpFSnhsSHJoWDJUVXFJT09telZFX3NFTDdnaEFBUUFUTWNCYmVKUXNLc3BiWFV5YWNHZlhkRTdKMXB0emxhbkw1U3FBVzdoTHA2aXlFTUZ5X2pzcXdRTWoyTnRUcC1Rc3Q3TjVwU2RQeEVGWm1JWFpYN0ItcGhMZHFOcDFnSk5sYWxXOG85QTBvbGFjSXN0WFpieEhhOU96UmRQcGlPcXpINVo3VmJITW5CSVVSZy1mQ1VaWVlGS3JJQQ?oc=5",
+      "source": "The Fast Mode",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T23:02:56+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：IBM, Microsoft Launch Imagine Enterprise Agentic AI Platform for Businesses - The Fast Mode",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cec46cecf6dd15c5001d",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "category": "tech",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T21:08:52+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_dfa8b7db629b9079419d",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "category": "tech",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T20:52:13+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bb480e96320bd4de7dfb",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "category": "tech",
+      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T20:47:05+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_fed17585cb98ec706851",
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "category": "tech",
+      "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T20:43:55+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：X-energy gets green light to build its first small modular nuclear reactors",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_52380b9f1a95315ca3fe",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "category": "tech",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T19:57:52+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：All 7 Anthropic founders will each cash out about $250M in IPO",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f024ddd5c5e1ab3c52c2",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "category": "tech",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T19:23:34+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_750a71bdc22432f75cbc",
+      "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop - blog.google",
+      "category": "ai",
+      "summary": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQWJrU3pEaGk5RWNyVjVzdXZ6eGg1VEp0T3pBSHMxTHhwQlFrNm8tVm5ndFEzR0JBR3RKaUpiTWhTY2g5UmhFR01TdmVFZk1nRDctOTBBbFpnYXZCUFFGNkdGTHZBcEQzUnQ4Y1o2eWJsU296Q044Z3YxdjM3NHItMjRqWmZPcnVVTmc?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T19:09:32+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_51ad52d91b21b1cc1580",
+      "title": "Get step-by-step workout guidance on your Pixel Watch. - blog.google",
+      "category": "ai",
+      "summary": "Get step-by-step workout guidance on your Pixel Watch. blog.google",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYUhwYWZTcGprYzRZZWQ3Rnk2alE1a1hFbS1kbXZRc0pMMDlWX05TemJRczlER2Jsa0N4aXNQOGhVeks0NVZNT1NSbXZXRTdVX1VvaTV0NUk2bG1WUVZhekJNXzRQaEk0Rjh0STRKdVVCM1ZMY1RzY2U2bGhwanZSV1lveUN2WXpZemNjS1ln?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T19:09:32+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Get step-by-step workout guidance on your Pixel Watch. - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_db786a6d25dad5125b32",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "category": "tech",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T19:03:52+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：PSI is trying to make a business out of AI-driven scientific discovery",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_fcfaa8e59d5f29f27964",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "category": "tech",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T18:49:52+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ccde2671be0814fc1cd9",
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "category": "tech",
+      "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T18:49:19+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_dc44711f28a066aec50d",
+      "title": "Businesses in ChatGPT: Claim Your Business - OpenAI",
+      "category": "ai",
+      "summary": "Businesses in ChatGPT: Claim Your Business OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWWmx6WE8wMXBOX05BMDBmdEhwYkNiMXoyYlJNM0o1TmpHTFJUMjVsVjk3V2hQOXVjQXV1VnF5c1htLXp6bnViN0MtRzBMay0yUnBzbmd5U2phNGdvUUNz?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T18:34:06+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Businesses in ChatGPT: Claim Your Business - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ae1c2777fc51e1022def",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "category": "tech",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T17:30:00+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e884a370bdb07540d9f3",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "category": "tech",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T17:04:19+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_52bc5ee3a6a2751a3852",
+      "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+      "category": "tech",
+      "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
+      "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T16:50:38+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_480901a89cf102e1049b",
+      "title": "Gemini 4 Carbon is now available - blog.google",
+      "category": "ai",
+      "summary": "Gemini 4 Carbon is now available blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFFDTTNsamEzRWp6RmVZemczQjAwQTlCMGhneldpY0gwUnpsS1JQY3o4NnZiSDd3bm56ZkZfM1lEZ1Y1WFN1MUNoTjV3cGNMOHdPc1NfcEhtbVNyMVlTdVpFYjlEZjczN29BUzdOdl9rUDhkNVZHY3ZIUjd1b0lOSEVhN3dMcWgxaVprSDAySnpIZWItVjhRcUg4c3NhbjBmRmh1dw?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T16:05:31+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Gemini 4 Carbon is now available - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_41990d0850534cf7476f",
+      "title": "Gemini 4 Carbon is now available for developers. - blog.google",
+      "category": "ai",
+      "summary": "Gemini 4 Carbon is now available for developers. blog.google",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaFN1RnYyNFNkSFlxekV2ajRVckpYRXZsNmN2eDZkNFNZTk1mOUh3TnJVZlVsQnV4dEp2TUlkQ04tQ1duLWE4R0V4UWswUkdURnVmRk5mbDdvRjVVWGgtblh2Ti0zTk5KSU9pbUpEdEV6Y0p6WnRWbGE3cmxseEU1MDFGWmpHOU5QT1VPdko4UnRDeUdfSmExRg?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T16:05:31+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Gemini 4 Carbon is now available for developers. - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_74f92a6187120caed630",
+      "title": "Introducing 3 new domains: .eat, .fly, and .here - blog.google",
+      "category": "ai",
+      "summary": "Introducing 3 new domains: .eat, .fly, and .here blog.google",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGRoVVhqZE1KVVViZnVXcUo4R0Z4LWtaTENhR3BjVlI0SmVmRFNUUTZSekY3R09FNTBTZ210RGxkNEVkanJMRkhaaUhwQXY3dWI3UnVJSWlEaFU5SVR0Q1JzTzlCWFQ2bWdsTjlpV3dReGNxT21zLWgwY1Nnd2kyRUM3cFdjbVhYZjhJYTVkSEp2X0ZBVnZvOA?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T16:05:31+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing 3 new domains: .eat, .fly, and .here - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_82a4d485c6dbe75255fa",
+      "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+      "category": "tech",
+      "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
+      "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T16:00:00+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple TV makes sign language interpretation a built-in accessibility feature",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_045ad2f900ac38894901",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "category": "tech",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T15:54:08+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google broadens its AI hardware portfolio with two new specialized chips",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_383b3c85a9c8fb7f9169",
+      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+      "category": "tech",
+      "summary": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T15:45:27+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_45bb77da0af29f12d5ba",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "category": "tech",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T15:29:30+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a354e92c31c4d929c7d6",
+      "title": "Reddit is turning user conversations into AI-powered product reviews",
+      "category": "tech",
+      "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
+      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T15:00:00+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Reddit is turning user conversations into AI-powered product reviews",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a1549c71de44d95dad3f",
+      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "category": "tech",
+      "summary": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\"",
+      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T15:00:00+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0972a2c0f42e5db3f471",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps. - blog.google",
+      "category": "ai",
+      "summary": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps. blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLThBVHowQXFOMEFqNUpJV08xLUdkMF9pVnB4dXo1VTVpSGE0SlB3M0ZBZjkyVHlIckNHN2RMQkR0R21GZG9SY3BUVlNxOVVrcmhIcEFOU3ZYUC1XOUJERzdqdTNLQkd1VE04NklTSHFIenZCdktpQTl3NTVZM01KNjZRTjN3UkVOQm5hVndBNTRha0RmRkpObzM4M2FVSlpjTmxtd3EtWWJwZw?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T14:06:19+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps. - blog.g",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_38e49e9c03ba90179c33",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "category": "tech",
+      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T14:05:10+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_1edd4d81a06240b30304",
+      "title": "Apple's iPhone 20 Projected to Feature Major Redesign and Cutting-Edge Technology for 2027 Launch - SSBCrack",
+      "category": "tech",
+      "summary": "Apple's iPhone 20 Projected to Feature Major Redesign and Cutting-Edge Technology for 2027 Launch SSBCrack",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmVscVVOdEN1eVM1TnhoSDFHWGV1ZTZwNUlKZlpMUzBWTk5xaW1BSElyMTRIcFBGSkJLSnhYcWRlVi1GMnl6ZVBSVGlSUzZmQUpzSWFIMFJZT2F2bW9lVlN6UzZ3czJxX3ZGZC1aOHMyaFVNSUtRWkdFM1l6MWpBVURldE1Dd2F6VnpMNFoxclYwdk1ldzE3d2dnVnY5LV9BTHVsZXpFUS0yLXZtbl9CeXpDc19DNFNPVml3UGZPOTQ?oc=5",
+      "source": "SSBCrack",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T14:01:21+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple's iPhone 20 Projected to Feature Major Redesign and Cutting-Edge Technology for 2027 Launch - ",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3c3bbb081b0431192ff2",
+      "title": "Anthropic launches roadshow for proposed initial public offering - Anthropic",
+      "category": "ai",
+      "summary": "Anthropic launches roadshow for proposed initial public offering Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ?oc=5",
+      "source": "Anthropic",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T11:44:40+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic launches roadshow for proposed initial public offering - Anthropic",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2304c11a0cc2a0883734",
+      "title": "Will Apple’s Rumored Smart Glasses Crush Meta’s Dominance? - Geeky Gadgets",
+      "category": "tech",
+      "summary": "Will Apple’s Rumored Smart Glasses Crush Meta’s Dominance? Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJVk94Z01LSDNod0NNREhNZ1RZb25OcUlyMzVTcFJCSElVWm10SjhGQW1sczBBMlJQbW1SczJuRW02ZkNCLWZFeG5mWFBOZmE0Y1FNSEVSRVpaalRkWUx4U1N3dmZOYU1tQUUw?oc=5",
+      "source": "Geeky Gadgets",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T09:04:16+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Will Apple’s Rumored Smart Glasses Crush Meta’s Dominance? - Geeky Gadgets",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_b76b64cb5423abaef4e3",
       "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
@@ -142,6 +764,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_a69f7961931e07105c59",
+      "title": "Introducing Businesses in ChatGPT - OpenAI",
+      "category": "ai",
+      "summary": "Introducing Businesses in ChatGPT OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWl94aW1pbWMtLVFmMnN6d3NRdk5zOGFhNUNYVUJ4dkZtaG14dnpwQ1F3blgzN2hvTm5DeHV4cXV3dVdfS3JxbDVVb21MMG9sWG0tS2NYNUJTREIyYTVGNmFFdTZEdzQ?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T22:38:57+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing Businesses in ChatGPT - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_0de157163539f675190d",
       "title": "The race is on to sue Nvidia",
       "category": "tech",
@@ -159,6 +801,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：The race is on to sue Nvidia",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8844680c74dbc6765602",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 - Anthropic",
+      "category": "ai",
+      "summary": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5",
+      "source": "Anthropic",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T21:04:35+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing Claude Fable 5.2 and Claude Mythos 5.2 - Anthropic",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -441,6 +1103,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Meet Drops, the new music app bringing back the fun of sharing songs with friends",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_add31ea5acc21840d60f",
+      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era - blog.google",
+      "category": "ai",
+      "summary": "Our newest TPUs: 8tx and 8i Max, built for the agentic era blog.google",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzhzVy1pOUJQbUNIemtyRkJQSTVyNG5yOVl6N2NFQ3FNRlhCRnBZNXBVekUzOGlhMVVvRWwtcko3RlBWa0xyZm5TZGJOR3hhTFo4NUJWaUtaRWRaQ1JtdGh0UjMtWVZHSE9YRDhWODgwdjJjVExtVnFxeDdJN05xY1k1UlRjRVBKUktqQmE5bVpyQUdLalZzMFVBUmxldw?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T13:13:40+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI Agent"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Our newest TPUs: 8tx and 8i Max, built for the agentic era - blog.google",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -1421,6 +2103,26 @@
       ],
       "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
       "takeaway": "先阅读原文核对事实；重点关注：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b487cf115ccfe4cf81b7",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents - OpenAI",
+      "category": "ai",
+      "summary": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tRzhtYk1MeTljUjdBLW5pMUJCVWJYZ0RzUXB3a0VnVlVtTEtCRHhDR1ZGeEZwOXNvdUp3N2hOMklObzBQbHRsV3lna0xiLXNlSHBOS3RyS0M3dFRZMFE?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T17:18:03+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI Agent"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents - OpenAI",
       "priority": 2,
       "analysisType": "规则初筛"
     },
@@ -3167,6 +3869,26 @@
       ],
       "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
       "takeaway": "先阅读原文核对事实；重点关注：Unlocking Africa’s AI potential: Introducing Skilling Africa with Google - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_62a1e964d8b299c3a675",
+      "title": "Introducing the Grid Protectors Program - OpenAI",
+      "category": "ai",
+      "summary": "Introducing the Grid Protectors Program OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR3oxdk1UcmphMkNDb1JRZFBCV0xJY1lmc3NGWkp6WlFTbXNKTzFRcGVWYXpLZk9MQkVEdXp0RWdiOEtYY0ZEdkIxc01DVFpyUXJ1bWl4WG01Z2hSY3c?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T08:00:00+00:00",
+      "added": "2026-11-11",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing the Grid Protectors Program - OpenAI",
       "priority": 2,
       "analysisType": "规则初筛"
     },
@@ -9955,7 +10677,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 23,
+  "newCount": 36,
   "sourcesChecked": 7,
-  "archivedDays": 23
+  "archivedDays": 24
 }
