@@ -1,6 +1,428 @@
 {
-  "updatedAt": "2026-11-11T03:37:55.007602+00:00",
+  "updatedAt": "2026-11-12T04:45:24.799402+00:00",
   "articles": [
+    {
+      "id": "rss_7a59d7a71d3b713da600",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "category": "tech",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T03:13:10+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7ad70dd84414397632b4",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "category": "tech",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T23:50:00+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The unfolding Jensen Huang scandal: a timeline",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_744e1fffb6fb134e1c3d",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "category": "tech",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T23:28:45+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_276fe6cbefcb1b519c1d",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "category": "tech",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T23:17:05+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang accused of having another affair — with an Nvidia exec",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0362a073574a13dfdbc1",
+      "title": "Why the data center you dread might never even be built",
+      "category": "tech",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T20:15:15+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Why the data center you dread might never even be built",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c641c6770aae136555a3",
+      "title": "Meta is losing its longtime head of infrastructure",
+      "category": "tech",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T20:12:01+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta is losing its longtime head of infrastructure",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ab2f6978b8cbeef9d0a8",
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "category": "tech",
+      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T20:04:28+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_14c5fe41431c96fcd996",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "category": "tech",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T19:54:00+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e2f03b1f39e3ac1b52df",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "category": "tech",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T19:34:55+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a5839839ea19243c0932",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "category": "tech",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T19:22:22+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_eb6422561ebc5d1f1973",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions - blog.google",
+      "category": "ai",
+      "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions blog.google",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGVFa0w0cmk4aTZOc0dVWnc5bm5lSzRZOE9aQldlcTZZUGc4MGNNWGlTbDFJYUlibHJoQ2xpOEdrUFpPODBQOGluNUhVQWxvY2ZuWE84TVN3NVJza04xVXlBcW1kVkl1WjZMM2RxREktM2Z3bVVqbTBkUnJuTy0tRl9KSkxuT2pzY0Zib1dKV24?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T18:22:43+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "API集成"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Gemini Decisions API: Fast, calibrated multimodal decisions - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f6990415f6a06a310a9d",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "category": "tech",
+      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T16:16:07+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_21314f710a2f42edba55",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "category": "tech",
+      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T16:14:44+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_98ce3f7ee02af4d827b1",
+      "title": "IBM and Microsoft Launch Agentic AI Platform for Enterprise Deployments - Petri IT Knowledgebase",
+      "category": "tech",
+      "summary": "IBM and Microsoft Launch Agentic AI Platform for Enterprise Deployments Petri IT Knowledgebase",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZW9GUmhqTldzVVVjR0hWV0JqaURoeWtqZU5HVzJzNklkazZ6dHM0d2FVVHJCalhHTF81ZjBBdk5hWGk0X0dnM0JLVFJpSEIxV2tCN25IMjk0Yjl6RmNyR05rc3ZzSW5zLUF1UnBB?oc=5",
+      "source": "Petri IT Knowledgebase",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T16:08:48+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：IBM and Microsoft Launch Agentic AI Platform for Enterprise Deployments - Petri IT Knowledgebase",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_acde80fdaea18c34b83e",
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "category": "tech",
+      "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T15:02:47+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Siri co-founder backs Helix for its voice ID tech",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_99d59ec93d4e64798b62",
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "category": "tech",
+      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T15:00:00+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0c6aecaa99b6a2f8b653",
+      "title": "February 2027 Microsoft Entra MFA Deadline Pushes Soprano Design (MSFT +2.74%) To Launch SMS And Voice Authentication Bridge - Foreign Policy Journal",
+      "category": "tech",
+      "summary": "February 2027 Microsoft Entra MFA Deadline Pushes Soprano Design (MSFT +2.74%) To Launch SMS And Voice Authentication Bridge Foreign Policy Journal",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRzZmMUhSeGEtWGlBS0ZwaFJDdHdaRUFWWTNMRUdFOEs4SmVoM0xYRkVOS3lrMmtzXzBtRXJDTEMyNmNrb0ctSGNQaWItVWh1X0ZmcW9LbzllSmR4Zkx6NnNnRk9PTWpkRlNRTUQtVVZSRkN5dzlpRG5ZZUVjY2dRTkJ2Sm1GTXBjU2I1SnE4NW1IV2V6WGd4bDZMR2VoTEhiTmx2c2ItZ3I1Ri0yQ2lNa3lfd3NvUWY3ZWdkeTRzbVFmRFpkeHVHODJXdHVkOTJ1SC1ZT1k4c3VsbmZUNFpVOVdlRmhoanJiVTEyZ0pHaVg2bDA3UUlJSkJHQks1QQ?oc=5",
+      "source": "Foreign Policy Journal",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T14:15:00+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：February 2027 Microsoft Entra MFA Deadline Pushes Soprano Design (MSFT +2.74%) To Launch SMS And Voi",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_699b7a31b57cac9fc5da",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "category": "tech",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T14:00:00+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Plurai wants to help AI agents work better using the same approach that helped get self-driving cars",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ac0201b886fbe708b3ee",
+      "title": "IBM And Microsoft Launch Imagine Enterprise AI Agent Platform - Dataconomy",
+      "category": "tech",
+      "summary": "IBM And Microsoft Launch Imagine Enterprise AI Agent Platform Dataconomy",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjJrRmxCTXdIVkpzOW96RzNndmlaWVJMTVpaaXQ4SGc0RU1vMmhxVGluVExLSFlpdUVnSXJobW90V1lUZDBRdGs4ZkJhM0JfYUxxN1ltdzdwdWdBZjd5WTZsT2lwcUNPUXVSaEJrN2tSTmtqUjRPZ2J1ME9HZ1lXLTV2aTFha2pJVWVfUlpZOC0?oc=5",
+      "source": "Dataconomy",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T08:38:58+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：IBM And Microsoft Launch Imagine Enterprise AI Agent Platform - Dataconomy",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9848a3311459d5070175",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "category": "tech",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "source": "TechCrunch",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T07:30:51+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_392f7478eb9964fa70e6",
+      "title": "Apple iPhone 20 Launch 2027 - Major Overhaul and Tech Upgrades - RS Web Solutions",
+      "category": "tech",
+      "summary": "Apple iPhone 20 Launch 2027 - Major Overhaul and Tech Upgrades RS Web Solutions",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUTRaeGpybEZHTU5TRERXV3hQSzZlUGY0Y0czVUhpczFtUzVZNWktMVhpY0tMbG90Zm1USjk1eTNlSlV0MVBaaTlKemNzN1BVdlRXMUkyVDFBWHpLa3BrRVR4VF8tWjY1UXI5WHVHSzduRVVHYWZzcG1PYUFyRTMzaU5nSWprVVFxcHhiZG9RVTFMVENwOEJ1RksxOVBQMVdGNmNLV0d1a2JXd0JmS0JuZGpoOXBPR0JDYi1QYjRMV1g0OFB3X3MtOXkwN3l2Mkk?oc=5",
+      "source": "RS Web Solutions",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T05:00:00+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple iPhone 20 Launch 2027 - Major Overhaul and Tech Upgrades - RS Web Solutions",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_2da266820ce3ba2291d0",
       "title": "X launches its own clipping feature to spur influencer engagement",
@@ -203,6 +625,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_b9bc6be2d076b902ae5b",
+      "title": "Gemini Intelligence: New features, on more devices - blog.google",
+      "category": "ai",
+      "summary": "Gemini Intelligence: New features, on more devices blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1ZMSTJRS0ZrU3dOQVhHN2diRXRiRURIaTF4SEdVYmZxc3hadzEwa0M3dXFMR1pNZ0lYWHh2UTBvR1g1QXc3N1lLbGpSRk15X3RJTncyd3VUODM2UVczNEwtTkZaY0dZcC1UNlB5eFd1Nk1jUTlMQTZ0Qlo0bm51WlJFdnZmcVVmaXI3UzBPZU1SNmdGbk44ZEthb0N3YW91bktoVEp5ZFp0dzg?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T19:09:32+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Gemini Intelligence: New features, on more devices - blog.google",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_db786a6d25dad5125b32",
       "title": "PSI is trying to make a business out of AI-driven scientific discovery",
       "category": "tech",
@@ -399,6 +841,26 @@
       ],
       "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
       "takeaway": "先阅读原文核对事实；重点关注：Introducing 3 new domains: .eat, .fly, and .here - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_230f3f86681b44eaf20d",
+      "title": "Introducing the Multimodal Knowledge Agent benchmark - blog.google",
+      "category": "ai",
+      "summary": "Introducing the Multimodal Knowledge Agent benchmark blog.google",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcTdpRWY2RkREWVcxeENhcFlvS3ZRVEhhYy1iLTJZdUJkM1ZicGlqUmlTeFdHd0FhSF9sN2NOdWZFMjI1NWs4TVVNd3phOVFiRFBqTWhaS3RmbVJRUUIxbE5GRk9MZGc5Sm9Ca0VKeGltRmtEMDY1Vm1tU2pNdm5paDk4b3BTeE4zTWZ0aXlNcFBBTzhaRE9JdTA5eS1TNXBTSG1CdzBTNmoySVRDd2c?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T16:05:31+00:00",
+      "added": "2026-11-12",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI Agent"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing the Multimodal Knowledge Agent benchmark - blog.google",
       "priority": 2,
       "analysisType": "规则初筛"
     },
@@ -10677,7 +11139,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 36,
+  "newCount": 23,
   "sourcesChecked": 7,
-  "archivedDays": 24
+  "archivedDays": 25
 }
