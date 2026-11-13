@@ -1,6 +1,507 @@
 {
-  "updatedAt": "2026-11-12T04:45:24.799402+00:00",
+  "updatedAt": "2026-11-13T03:57:13.942882+00:00",
   "articles": [
+    {
+      "id": "rss_162b51f8a286cf819f9a",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "category": "tech",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T22:42:51+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_32cde960f9398f388ff7",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "category": "tech",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T22:22:28+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Muse can now place calls to US businesses — if you pay",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_357307ece2cf5822c943",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "category": "tech",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T21:27:10+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5d6aee9da40b181b5e24",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "category": "tech",
+      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T20:26:47+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang was having a third affair, Reuters reports",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_35710edee4ed3c968961",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "category": "tech",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T19:27:45+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cc09da11445fdd21599d",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "category": "tech",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T19:11:00+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_73fee8150f740524ca14",
+      "title": "Microsoft’s Outlook email hit by new outage",
+      "category": "tech",
+      "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T19:03:39+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Microsoft’s Outlook email hit by new outage",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4b3121f202cb28d44f20",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "category": "tech",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T18:39:23+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6408d3222a90e0409b18",
+      "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
+      "category": "ai",
+      "summary": "Introducing Gemini 4 Hydrogen for Agentic Workflows blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T18:04:04+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI Agent",
+        "自动化流程"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8148ffdc2619a9dd7dfd",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "category": "tech",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:36:40+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6c8f9469c580f62a1aec",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "category": "tech",
+      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:17:58+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_23232c2509e32bbf7552",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "category": "tech",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:00:52+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ffc90891f107cad96a17",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "category": "tech",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:00:00+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0d8f1d3b98b12395b08c",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "category": "tech",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T16:36:37+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang agrees to testify before Congress",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_687a99869ca54345b66c",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "category": "tech",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T16:32:33+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e1fe765313f17ba94614",
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "category": "tech",
+      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T16:12:44+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9a4ebb2da2873a2778e6",
+      "title": "Whoop just launched a social network",
+      "category": "tech",
+      "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
+      "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T16:00:00+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Whoop just launched a social network",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9fb9c52c7f72ab39d119",
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "category": "tech",
+      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T15:37:29+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f1068fe7641b870a8d0d",
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "category": "tech",
+      "summary": "This is the investment firm's largest fund to date.",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T15:18:14+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Norwest pushes deeper into AI with new $4B fund",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4736b57c2b3d247284a0",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "category": "tech",
+      "summary": "This is Fireworks' second data breach in as many months.",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T15:02:28+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cbbd22cecf0a6d689874",
+      "title": "See our intelligent eyewear lineup and pre-order your pair - blog.google",
+      "category": "ai",
+      "summary": "See our intelligent eyewear lineup and pre-order your pair blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY3NlTEd1VnUzRldnbENXZmtUTGVCeDZraHoyTmItaDBBcV9tRTNZZDNLS2RBLUdvN0ktT3Q1c0tUS3N3bjEzVURJVldMNm9JenhaZDhTdlpfZFpvM0QxUXd4aGtIRkVOZ1JxNERzR2JYZWZUd0J4bTRMeVhXODhhbUZKTzliTmhUUGhEUTRFbUxhTVlyMHF5bmpEYmtOQXVid3ZELXlpZw?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T14:05:22+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：See our intelligent eyewear lineup and pre-order your pair - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9656369429615d16283d",
+      "title": "How 3D Transforms and Figma’s Agent Brought a Launch Video to Life - Figma",
+      "category": "figma",
+      "summary": "How 3D Transforms and Figma’s Agent Brought a Launch Video to Life Figma",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYU9PQzFGd083Nzd0NEJydmg5SWYyUVdfdWFWZUhXX3FuVVdBTzZTWXNRNGJNaVNsTmpxd21QckRzMXdSTmhSZjFfbEFnOGVIN3RIMWJreUdCSGtRLUlFQmlES1dNSmd2ODhGZnZZOElXYVJ0Nzc2dzB5STIzVEdGNGVaM3kzY0QzRTg3Y1JQZTdRdzlxQUN0NA?oc=5",
+      "source": "Figma",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T14:04:19+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：How 3D Transforms and Figma’s Agent Brought a Launch Video to Life - Figma",
+      "priority": 4,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_73dafef8a8c70040baf9",
+      "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+      "category": "ux",
+      "summary": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+      "source": "Smashing Magazine",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T10:00:00+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "UX方法"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b2d40ab308534ff2f0ca",
+      "title": "Holiday Extras is rethinking what it can build with Codex - OpenAI",
+      "category": "ai",
+      "summary": "Holiday Extras is rethinking what it can build with Codex OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rU0xFcEtSZzVFa2dqY0ZpNmxycDE3UnI1ZEJ4QmJ1bzVWNlNPaGJtMHRodnl6bl92ZWowdzF4UEJfXzlZeTdmRy00RF85a3VKMFdFbWpSWm9yQll4RWZEM0ZVOUlhTnM3TTJDZTFYRU83WjBvM3c?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T09:40:02+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Holiday Extras is rethinking what it can build with Codex - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_09bd18af8f8c70ef5e0e",
+      "title": "Improve Auto Layout and Prototype Inspection in Dev Mode - Figma Forum",
+      "category": "figma",
+      "summary": "Improve Auto Layout and Prototype Inspection in Dev Mode Figma Forum",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1hTenlSRm4tckxmTmVvMWVRSW5LeGxqcmRrenVqQ1FTVjJfOHliOVRkcVB5TlJLTjktdzAwZTVXUHJoNXRRZUNKemxtbmZ1cThGTTBRR1FpeER3b1R2RExZUVNNNDZTNGRFNzlfcTJHeVFHSF9Sel8wWlU4WV9SRmxhVGV4V1l6dFAxTVlZVmd5UmtkTi1zMV9rT0FlZ2ZNeDdqOWZRcjBpakU?oc=5",
+      "source": "Figma Forum",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T03:25:58+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "设计开发交付"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Improve Auto Layout and Prototype Inspection in Dev Mode - Figma Forum",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_7a59d7a71d3b713da600",
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
@@ -218,6 +719,26 @@
       ],
       "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
       "takeaway": "先阅读原文核对事实；重点关注：Gemini Decisions API: Fast, calibrated multimodal decisions - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7d21eb041f00535ea337",
+      "title": "Talk it through with Gemini, now on Apple CarPlay - blog.google",
+      "category": "ai",
+      "summary": "Talk it through with Gemini, now on Apple CarPlay blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXRXYXFrSTNsUnNkbUtwV09hNmI2bFVPcHluaGMwTGM0UlBPbXJKUndlSVdJMDBud2pNVWFtVjR5VTROZUI2N2RXSnpGTVlQUlpvOHlBcUstaFdaYVhacnZRejJVQ2I4b2loeC0wMnQ3MjVwVERYVVVxT3ZIeVF1cEJYNl92XzN1QWc?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T17:12:41+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Talk it through with Gemini, now on Apple CarPlay - blog.google",
       "priority": 2,
       "analysisType": "规则初筛"
     },
@@ -725,6 +1246,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_1c711fe31ab0442c2052",
+      "title": "[New Spec Feature] Suggestions to bring product and design closer: design system styles, navigation, diagrams and Figma integrations - Figma Forum",
+      "category": "figma",
+      "summary": "[New Spec Feature] Suggestions to bring product and design closer: design system styles, navigation, diagrams and Figma integrations Figma Forum",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcWFxTm1iWjRManlic3lNOHg0TUZlY0Y5Q1dna19yNlRiSllrNmczeU5tQXdvVEd3QlFXUEUzQmo3V3dXNVVobTYwTUlpTWFWV1c0dXJuOVVDX0N5ZndMbWI3ZzE0LWVNcnVtZk1ia1pHQkhRWVk3eDZSc3Zfb3ZJeEdWWl9pNlpKemt5eTBLem1fTkcxTHlNbEJ5YUJpQldTT1F2LXljVlZ4S2s3dzNhWWk5Umt4N1d4aUwxd28wQ3RBTXdZWlZSa2VxS2xuLUo1N3g3U2FtSzVsZmF2cGVTdXZlS1I2STA4Y2VEZUZqYmxkbG8tMC15bWViNkVoejJTN2czZUpDNTlWUQ?oc=5",
+      "source": "Figma Forum",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T18:14:31+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：[New Spec Feature] Suggestions to bring product and design closer: design system styles, navigation,",
+      "priority": 4,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_ae1c2777fc51e1022def",
       "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
       "category": "tech",
@@ -782,6 +1323,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_705795dbcb79323c4123",
+      "title": "Learning & Instruction Lead, Academy - OpenAI",
+      "category": "ai",
+      "summary": "Learning & Instruction Lead, Academy OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZERqenQ4aE5CUHhZbDBGd2pJQVZMMGZwT0U1TkVoYkpXa0VLQkVram1HczVhanVDTFVVTWk4QUhQNDJ4X252U0lMdVBhU2ROZzF5b1lnNkJhcmIwd2J5RFk0dUtPbEF6eHNXNXBKdV9Rd1ZTY3hNdTg1RjNiQUFyZ0lWVHB0dw?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T16:21:37+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Learning & Instruction Lead, Academy - OpenAI",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -1043,6 +1604,47 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Apple's iPhone 20 Projected to Feature Major Redesign and Cutting-Edge Technology for 2027 Launch - ",
       "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_37706e5b6976bc23175d",
+      "title": "IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation - IBM Newsroom",
+      "category": "tech",
+      "summary": "IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation IBM Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmlzcVoyeUhXT1RZT3l6WFh6S0d0TnY2aDdwTU16S3dRUk4xbE9HaVphcHduV3ZObGE3R3JpNTRTaVFINjdJeXdQUnExdDRmZmpMckYySnlwQjVqX2UxODRfVUlVRXJIaVVrMnRfTDdzTkZ4eUFHa185RTlEcktaM0tTTUw3SEU3NTFDM3EwV2x1d1YzQTh5bXJGa2dZcGZ6dzFSNDRUTnUxRllELW9ZejJsMEE3dGQ2UHBpcFNvc0xTeFJMdXhlSkNtMXU?oc=5",
+      "source": "IBM Newsroom",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T13:05:23+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation - I",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6afb1431f3e85fc3a390",
+      "title": "Google Cloud launches Gemini for healthcare. - blog.google",
+      "category": "ai",
+      "summary": "Google Cloud launches Gemini for healthcare. blog.google",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2JmdktkU3I5SjBrYk4yaEVyZHkwM0YybmR3Yldzd1BqdzEyWVlSR2xuNVhUUkE2MjdDQUdxWlgzeTVoanF0U2tfY0p4TGYyWFgwQ0l1UEVPeVBMNHpOODNyLVNKQ0N3Z3JROVlMNUZKNWgzQjFFaDdwZlUyamZ6cDRhTDRZYnVwMl9LS1AySUdJelFYeEZtUFhmV25PTkk?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T13:02:27+00:00",
+      "added": "2026-11-13",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google Cloud launches Gemini for healthcare. - blog.google",
+      "priority": 3,
       "analysisType": "规则初筛"
     },
     {
@@ -11139,7 +11741,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 23,
+  "newCount": 30,
   "sourcesChecked": 7,
-  "archivedDays": 25
+  "archivedDays": 26
 }
