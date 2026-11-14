@@ -1,6 +1,307 @@
 {
-  "updatedAt": "2026-11-13T03:57:13.942882+00:00",
+  "updatedAt": "2026-11-14T03:55:42.281200+00:00",
   "articles": [
+    {
+      "id": "rss_d620f563c5e64e3ddba4",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "category": "tech",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T23:00:00+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7f321a4fa339d06bd8ad",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "category": "tech",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T22:43:00+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_1a3bbc96a843555955da",
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "category": "tech",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T21:44:38+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_643393158678319b339d",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "category": "tech",
+      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T20:07:24+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：This young startup wants to power floating data centers with the ocean’s heat, and investors are alr",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a9773866eecbc460e251",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "category": "tech",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T19:37:57+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI agent startup LangChain hits $3B valuation",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_11beda725f140e71b819",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "category": "tech",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T18:40:30+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_26eb5d2ef1ed5c027a0d",
+      "title": "Building strong safety evaluations - Anthropic",
+      "category": "ai",
+      "summary": "Building strong safety evaluations Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
+      "source": "Anthropic",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T18:06:18+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Building strong safety evaluations - Anthropic",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d56b35d20d8c0fdcf26a",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "category": "tech",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T16:00:12+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2a1ba8a4554df7775a9d",
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "category": "tech",
+      "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T14:57:55+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0af78c4ad0e3eb993df4",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "category": "tech",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T14:44:48+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_35f372f5ad9b4ac2f26e",
+      "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+      "category": "tech",
+      "summary": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T13:15:20+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f5bb83a7e9ea17053f05",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "category": "tech",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T12:52:19+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_cf759cc7599d9668ceb3",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "category": "tech",
+      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "source": "TechCrunch",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T12:28:23+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang didn’t show confidence in his successor, report says",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c088f2b9bf4677361df1",
+      "title": "Samsung and Google team up to launch AI smart glasses in 30 designs, check price - India Today",
+      "category": "tech",
+      "summary": "Samsung and Google team up to launch AI smart glasses in 30 designs, check price India Today",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOWNTbE1FbHpNRThYbURURGx1dTJMNXZ6ekVBbC1QUEU2SThCaml0ekF2aXNSeUtpZm4yWXpvVUV0WlBqMTJNc0QyeldsaF9QX3dUa3lmNG9EeE9yRTNybDFYMTg4MXUxa2MwUjVNQUl5cTZtQmZ4VGdLcm90VFJRQktMOGJyT3dyRjVDXzlIMVBCcHNUSzFXS3hER0RqVWlkR3ZoRnlENVhUbDFfbXdoTWNIOG1kZkFhUWpsbXhFVlRYVGVUYzNvSElTTDZSRElsX09jR3BNcl9WOURuM1FJ0gHkAUFVX3lxTE5XN1NHSzJYeFUwUm5NS0ZHcjE0MU9CenZwZUxSNnJ0cC10d2ZQZklGV2pvWXVnMzRuejhPY1F4SzcwWE8zaE9PU3RaczdPTDF2QmhqQUMzOVI2dFhsa01OYjAySi1ZeXdrOERldnBJQWFEYUxpUGtjMXZyNGxpbGlyMjhHa29lazdRWmVxbTVYVXJBS3Z5a3JIVkpNVXJ1ZFk2M3JXelNzNml3S05iaU96WmtmeUNGNDVDb04wd2NyazV0LWJHeVBvS3MxM2lSQWdyVmlYZ0VKRS1IWlhjOUptV25BWg?oc=5",
+      "source": "India Today",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T07:58:55+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Samsung and Google team up to launch AI smart glasses in 30 designs, check price - India Today",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2c2fbd22f5878964ee4e",
+      "title": "3D transforms playground - Figma",
+      "category": "figma",
+      "summary": "3D transforms playground Figma",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWN6VTcwOTdhMkpfb0hDQ2J5RmpEdnh4QjV4UVV4M2htaDlKQk9iY0RRclh2VVIxeTlfd18xVVdoM3YxbDkzMW9YQ2dXUWIxcklQQ0RTMUdpdDhDdUk1c3JFZ0tlU2xGRkxTeUU0SnJ2cVpyTHp2REJXdXlDNmoyeHRaUnJrUGxm?oc=5",
+      "source": "Figma",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T06:19:41+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：3D transforms playground - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_162b51f8a286cf819f9a",
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -623,6 +924,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_c6ddf6dad24959a2a0f4",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale - OpenAI",
+      "category": "ai",
+      "summary": "JioStar’s chief architect on AI discovery at 500M-user scale OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ucFZmNFh3OWpGRXNoVUFXRlQ0aHVFa0pRNVJqUFo1eGx1RGZQMW94eXBXd3plYmtKSnI5SDFUUjVyUTdHb2xzUTZ3cVpFNGRweW5xd2N5Y0xya0VU?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T20:11:41+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：JioStar’s chief architect on AI discovery at 500M-user scale - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_ab2f6978b8cbeef9d0a8",
       "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
       "category": "tech",
@@ -1203,6 +1524,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
       "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_77741cf7323c1b10ba00",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google - TechCrunch",
+      "category": "tech",
+      "summary": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZG5mYzRQckViZTVZNlNFSFpVZVh3eXpHQkNkaHd4M3NPd3JSZkZjWEQxa0lqNm8yVEhZVUxlSXFqTEZ1T0ZfckZ4OUY0RVpxV3FoaGVDUnZweW9vMEZZa2N4Um5GWEYyR1hDMUlNVHgyMGJWeGx4TUlodFFiRFB6SlNTYW5qLWNBcnhtUEl0WWYzSTY5OFNhdlVRS0pEZENZNGZrQ29za2xnbzZxLXIzSXA4Z1FyRkZEbFA4MVRhY18?oc=5",
+      "source": "TechCrunch",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T18:49:52+00:00",
+      "added": "2026-11-14",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google - TechCrun",
+      "priority": 1,
       "analysisType": "规则初筛"
     },
     {
@@ -11741,7 +12082,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 30,
+  "newCount": 17,
   "sourcesChecked": 7,
-  "archivedDays": 26
+  "archivedDays": 27
 }
