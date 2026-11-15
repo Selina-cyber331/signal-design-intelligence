@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-14T03:55:42.281200+00:00",
+  "updatedAt": "2026-11-15T03:39:09.538332+00:00",
   "articles": [
+    {
+      "id": "rss_0edb4eee17d3bf414ae2",
+      "title": "Where was Nvidia’s security team?",
+      "category": "tech",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T00:08:07+00:00",
+      "added": "2026-11-15",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Where was Nvidia’s security team?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_997f2f6a137b5922b347",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "category": "tech",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T21:41:22+00:00",
+      "added": "2026-11-15",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7dca8026a1cb6e40080f",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "category": "tech",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "source": "TechCrunch",
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T20:04:44+00:00",
+      "added": "2026-11-15",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4f7ec8e69b0fd8add174",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "category": "tech",
+      "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "source": "TechCrunch",
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T18:00:00+00:00",
+      "added": "2026-11-15",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Got an iPhone Duo? These 9 settings make it easier to use",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_1feeaf29b43189f216da",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "category": "tech",
+      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "source": "TechCrunch",
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T17:45:04+00:00",
+      "added": "2026-11-15",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_32e69255e4cf9af275ea",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "category": "tech",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T16:34:15+00:00",
+      "added": "2026-11-15",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_d620f563c5e64e3ddba4",
       "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
@@ -460,6 +580,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang’s exit puts Nvidia’s support for open source in question",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_88d1514ea901f3bb7da1",
+      "title": "Create 3D effects in Figma Design - Figma Learn",
+      "category": "figma",
+      "summary": "Create 3D effects in Figma Design Figma Learn",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUV4Ym0ycFRNUGxVeTZlWlF3a2hKZjcwWkVBS3dWa0ZReVUxWklIb1dzNU82MnJXOF9UQ2xWR3Z2ZW1DOVNzSWVOUktjdlFCZ01palNHM1NNM2dud3Vuam0yR0lwdGkySG9lMzhFRFBvXzF6QjdhNlVzcmRPM1V5THpnYVJxQUdYUkYyZnlJR3puXzQ?oc=5",
+      "source": "Figma Learn",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T18:23:34+00:00",
+      "added": "2026-11-15",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Create 3D effects in Figma Design - Figma Learn",
+      "priority": 3,
       "analysisType": "规则初筛"
     },
     {
@@ -1948,6 +2088,27 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_370adad8d3b99177d5a3",
+      "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation - Microsoft Source",
+      "category": "tech",
+      "summary": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlNLbW92WmpoLXJQU1EtWWRfZ1RwTlpfNU5BNmtyUmpSNzZWYXgwdFphU2VaWGVXcnJaSFpoODVnZ3lZeTktNk5QZmNyMmlEOFhjc0pEM3RZaU1nS3ZER0Jsc2R3Sk96c1pmc3VGMzFlTVlZMVNxWmtWdlluWGpKQWN0OGlqTV9MWC1oRzJBYldSSER6RjRRT2lFZ3lQVkJRSDV6ZWJhY3QtYUZMZ2d3M0IxUFpURWFMWHV6c0ZOUU41T2lxVzg3azVWSVRHeGpXelNSTFlhakQyQQ?oc=5",
+      "source": "Microsoft Source",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T13:09:26+00:00",
+      "added": "2026-11-15",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation - M",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_37706e5b6976bc23175d",
       "title": "IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation - IBM Newsroom",
       "category": "tech",
@@ -2009,6 +2170,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_941092cd883a4139e066",
+      "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create - Adobe Newsroom",
+      "category": "tech",
+      "summary": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create Adobe Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JWjNRbUVlbFd4SF9zLWIyZGtfd1hGcUFsNF9BdkpMQm5JeUJLMUtOREowZFU1UmNYWmdYeWdRckkxeVRGOWM0amF1MFU5SFl6SzNLRV82MWdQYVJfUTFQZGtZRkFKZzluUUwzWHpTa3dfNEpOZjNRcm1R?oc=5",
+      "source": "Adobe Newsroom",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T10:05:48+00:00",
+      "added": "2026-11-15",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However Th",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_2304c11a0cc2a0883734",
       "title": "Will Apple’s Rumored Smart Glasses Crush Meta’s Dominance? - Geeky Gadgets",
       "category": "tech",
@@ -2026,6 +2207,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Will Apple’s Rumored Smart Glasses Crush Meta’s Dominance? - Geeky Gadgets",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f7199260519dba69104a",
+      "title": "The Briefing: Work at the Frontier Livestream - Anthropic",
+      "category": "ai",
+      "summary": "The Briefing: Work at the Frontier Livestream Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fMGF2ME1UdVVESHBBdTVhMV94M204WXBRMjN1VHJXTVpwb0ozelMwRFJQdHR3eXpEdDBiLV9LSXl0NlRfOW1WZmVvWmpkanBJaEFHYjZVOHZaOE1IMzVkcUhaTTlsVTdJUF9wbTNPYVZ4R0RJMU0yUw?oc=5",
+      "source": "Anthropic",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "added": "2026-11-15",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：The Briefing: Work at the Frontier Livestream - Anthropic",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -12082,7 +12283,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 17,
+  "newCount": 10,
   "sourcesChecked": 7,
-  "archivedDays": 27
+  "archivedDays": 28
 }
