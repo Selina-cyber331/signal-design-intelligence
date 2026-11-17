@@ -1,6 +1,488 @@
 {
-  "updatedAt": "2026-11-15T03:39:09.538332+00:00",
+  "updatedAt": "2026-11-17T05:35:46.009439+00:00",
   "articles": [
+    {
+      "id": "rss_abb24ea358c65c3662b8",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "category": "tech",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T23:32:32+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e738ed73b0233499258d",
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "category": "tech",
+      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T22:12:31+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4b4b7a05c09e7878908d",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "category": "tech",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T22:03:02+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9954a66fba437ed8bba2",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "category": "tech",
+      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T21:01:02+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "隐私安全",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b2a8a7541a2c55775954",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "category": "tech",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T20:07:13+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：California state AG sues OpenAI over rogue agent incidents",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7243556b1bfa5c9d2d52",
+      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+      "category": "tech",
+      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T19:53:00+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3c4609caf6d2a06d1f08",
+      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+      "category": "tech",
+      "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+      "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T19:26:55+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_09b51ea1998e53da3904",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "category": "tech",
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T19:12:02+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_33630e61ec8b430e2fc4",
+      "title": "Island is a new screen-time app that turns staying off your phone into a game",
+      "category": "tech",
+      "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
+      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T18:54:18+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Island is a new screen-time app that turns staying off your phone into a game",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_669dd6ff0695255d9764",
+      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
+      "category": "tech",
+      "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
+      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T18:21:14+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c51026f2f0acb9d96cfa",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "category": "tech",
+      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T18:11:10+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_04c7bf15f5e06986e5e0",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "category": "tech",
+      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T17:36:43+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2366b9d8c67db3962e66",
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "category": "tech",
+      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T17:10:00+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ad50eb0d2ddac32eeaf8",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "category": "tech",
+      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T17:02:43+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI will embed safety researchers to investigate AI subversion",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7a1085d6b31bdb774b35",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "category": "tech",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T17:00:00+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ab76ec20130fadd678ea",
+      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+      "category": "tech",
+      "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
+      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T17:00:00+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_37e7c3a72202c5c72d67",
+      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+      "category": "tech",
+      "summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
+      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T16:06:30+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_454a3f3f496a62cffe93",
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "category": "tech",
+      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T15:52:19+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Audible turns to AI to help users discover audiobooks",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_9c3582c3c0f62524b126",
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "category": "tech",
+      "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T15:02:34+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_dadc41e83eb7999b3125",
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "category": "tech",
+      "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "source": "TechCrunch",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T14:48:13+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google Maps can now build trip itineraries with real-time details about each stop",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a7caf384b8550bc6b671",
+      "title": "Apple Targets 2027 Launch for Smart Glasses with Siri Integration - rswebsols",
+      "category": "tech",
+      "summary": "Apple Targets 2027 Launch for Smart Glasses with Siri Integration rswebsols",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVFJubjhiY0NaQXdiTnoyTEtyRjZ2R1NOX25Jd0FwUUJERDBNWWVDTXBscUM0UWZfODhwMkFEQ3VxTjhHQm9nRWkyNE9hd0wzeWlnMlFwSU1Gb05KdnB2bW9TZnN3MFRMaDRsSEI1TWp5MmxPUnRzRXdHWjJEWGt4eTNXdFRfUkVvM3hoQ2ktdWJRS0l6UjJ5N213WDdoMTJTYzZ0Uy1jYmNyNXFnQ2phMWVfUloxSTNUSGc?oc=5",
+      "source": "rswebsols",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T14:00:00+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Targets 2027 Launch for Smart Glasses with Siri Integration - rswebsols",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_24227a9102f2a5f887c1",
+      "title": "Apple to launch AI smart glasses with improved Siri AI next year - Deccan Herald",
+      "category": "tech",
+      "summary": "Apple to launch AI smart glasses with improved Siri AI next year Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX0dDb1IwcFQtSHpCb0hTaU9YdVpCQ0JCRXlsTVROSzlTU29Lb2VENGd4cFlnNzlWc3NIVGIzOU82Z2ZSSGQtSFMtZVVGRWllZVZGMDB5Rkx0bElGRjcxR1A3Y2g1aFRrUzM5UzFZNTYzcFZMZ25Ycl8yYmM0aGIxQ0dYZi1xTzlTeFJrdjY1VU5HaWNuNG9pOEJUdkNCT3NoZXVRbVFrSDU2ck1QMWZ1OVBzY2VaYlNfRWRCaWNrV2pHMm5oaDBwMGJXOFg5UHQzRHc?oc=5",
+      "source": "Deccan Herald",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T13:12:07+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple to launch AI smart glasses with improved Siri AI next year - Deccan Herald",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ab74e1e7d5d3e4997258",
+      "title": "Apple Smart Glasses Launch Set for 2027 at WWDC, Software Delays - rswebsols",
+      "category": "tech",
+      "summary": "Apple Smart Glasses Launch Set for 2027 at WWDC, Software Delays rswebsols",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjJPaXdLUGlodjc4VFJOcURTSGxnZ2dtR3dmeGRUMllYMFZLTWczNzdEZDNIVm9EMFZERkpRQzFOdnM4Z0Ryb2VpbVo4SVBDbWQyRW9UY0Z3YzFCUWppMU5QbTIxMW5Fa1pDNnVlSXNTRGJkNndSR2Z6U0pEaVRzOXhZRmNNMHByZ3FRTkRVMEpPcElQR05rd2JzLVc1dHJhdHNwYXZUTWFmbDU0Q2lUQl9JRFAyQQ?oc=5",
+      "source": "rswebsols",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T13:00:00+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Smart Glasses Launch Set for 2027 at WWDC, Software Delays - rswebsols",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_90541808e1e305214f7c",
+      "title": "Apple Rumoured To Launch iPhone Air 2 Next Year With Thinner Design, Better Battery - Deccan Chronicle",
+      "category": "tech",
+      "summary": "Apple Rumoured To Launch iPhone Air 2 Next Year With Thinner Design, Better Battery Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQm1kUDhQYlBPdGlZQUV0YzNveFpuTzRNUDVFdktBNFRIMFp4a3otblgwM0VGaktQRThXSnh6c0I5R2lyWjlUQ2kwbGFQbzAyck5sM0lHN245bGduekUzWVpkZVJuR3JYVlg2SGVEVHpENi0yNDNtTHAtQUpWVld5T3ZxZXJjRjdVX1ZveG0tRFVEenpOZE13QWJfM2drSnFPWTlKbGx3WjRQUlVHc0lmbXNINWRrMVloWWRCX05SS3RUVW1haFphazYtRThoQdIB0wFBVV95cUxQdjR0ajY1RUdhd19vb05EZ1ZYUHVYYzlQMDk2SnU2UkR3dHlWYkUxNWFkS2hoYmJJNFZIazlBa1duSExJMzRnWXlDX0ZtQ0hKTHpMSExtR1ZrM2JDZmdkVEROOUFCdF9pVkZqUGtHU2xiRFZIRUZZYUFkWFlKZmNYYmN3QnZlMWJ3LXJKSUQ1ek5YYnYwbzhyUEYybFlhMnNaRWNGWmNUSDNoaXdyWk1oYmFhMTZqMG50VnlsdjRGcVNjS1ZBX2dMak1VelZPSTdtOGZv?oc=5",
+      "source": "Deccan Chronicle",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T07:38:41+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Rumoured To Launch iPhone Air 2 Next Year With Thinner Design, Better Battery - Deccan Chronic",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_0edb4eee17d3bf414ae2",
       "title": "Where was Nvidia’s security team?",
@@ -119,6 +601,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Asian governments react to Nvidia CEO Jensen Huang’s exit",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bdea987f996129731e25",
+      "title": "AI’s Role in the Creative Process - Figma",
+      "category": "figma",
+      "summary": "AI’s Role in the Creative Process Figma",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RdXEzX3A0c3dHTkdLeDlUOERGamg5MDh0TzRxSHB2OTlBWHNIVko5NGlaaGwwdUNna0Y4cWtuYzNCcTRHb1NtNl9QNDI0dFB3WDNmWVVkQXdPY3JaVTdxb2VfSVZGWnN5R2pZ?oc=5",
+      "source": "Figma",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T23:17:56+00:00",
+      "added": "2026-11-17",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI’s Role in the Creative Process - Figma",
+      "priority": 3,
       "analysisType": "规则初筛"
     },
     {
@@ -12283,7 +12785,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 10,
+  "newCount": 25,
   "sourcesChecked": 7,
-  "archivedDays": 28
+  "archivedDays": 29
 }
