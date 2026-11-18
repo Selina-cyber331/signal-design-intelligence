@@ -1,6 +1,548 @@
 {
-  "updatedAt": "2026-11-17T05:35:46.009439+00:00",
+  "updatedAt": "2026-11-18T04:59:18.429543+00:00",
   "articles": [
+    {
+      "id": "rss_ce7be362d8750dbe5b27",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "category": "tech",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch",
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T01:44:21+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_16ae74dacb0bcd2bc059",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "category": "tech",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch",
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T00:16:50+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia promises that revenue will keep soaring — for now",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4c6147076bfe5ac0c894",
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "category": "tech",
+      "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "source": "TechCrunch",
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T00:01:00+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Stripe backer Atomico calls for Europe to own its success stories",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4f6d7d27ac20b1ef1f4b",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "category": "tech",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T23:37:48+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia is abandoning China after Jensen Huang’s ouster",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_96a8ef778b20bde89f5e",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "category": "tech",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T23:04:35+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b9d9e1d69817a8e7dbc7",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "category": "tech",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T22:42:27+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a9bddeb0c63e448f39bf",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "category": "tech",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T22:29:05+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2d0b9f3dfb403c79f91a",
+      "title": "Introducing ChatGPT for Sales - OpenAI",
+      "category": "ai",
+      "summary": "Introducing ChatGPT for Sales OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93NzFPZGpUeU84ai1xMjR0SVYxbC1MZ3Q0S1BNeU10VnoteVM2Y01ES18wWTR1cERpU2dfN2RZUFdRcXgtVkx3d1c2SEVGU0x3SEc5cGVhUThaUFBqakhid2pYR2wtZw?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T22:26:04+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing ChatGPT for Sales - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6608b0999a16938d50db",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "category": "tech",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T21:48:07+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：SEC reportedly investigating Nvidia amid Huang exit",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c8ffe24380ac2469be6b",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "category": "tech",
+      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T21:34:50+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google joins the tech outage trend by announcing it’s not having one",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_bbd16ba6aa90424bab35",
+      "title": "AI Agent Integration: How It Works + 8 Tools to Try - Figma",
+      "category": "figma",
+      "summary": "AI Agent Integration: How It Works + 8 Tools to Try Figma",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tZVYtWEFYQjl6NERJZVA0SVdwVWc5NHFGa09iT0M0Z045TlBfa1loZlk4Z1UzNk1xNDRxYXo4bmp6a044ZU1vc1U0VHdLNTdZdndGOGxNNkU5Z3FWUFd0VGFPVXFjWk96SGNwSg?oc=5",
+      "source": "Figma",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T20:45:36+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI Agent Integration: How It Works + 8 Tools to Try - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_95cb1d6bea7ef2a1e9f1",
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "category": "tech",
+      "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T19:49:41+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Waymo suspends freeway rides nationwide after California DMV order",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_14f6e993d04483965bb3",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "category": "tech",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T19:32:11+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Model ML raises $250M to automate investment banking grunt work",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d95f31127e79287baa6b",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "category": "tech",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T19:02:20+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_859bf3209b77a58e6b49",
+      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "category": "tech",
+      "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T18:55:40+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_fedac4cea03e0da5a4f7",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "category": "tech",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T18:48:23+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f295e679911ad54bbdc0",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "category": "tech",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T18:10:00+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：As decision model use skyrockets, is customization the next frontier?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8a62d7f7b0c8666a168f",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "category": "tech",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T18:04:16+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Pedestal AI raises $4.7 million to agentify the supply chain",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_59a3ec015342b4cdfe75",
+      "title": "Google Cloud launches Gemini factory for software partners - IT Brief UK",
+      "category": "tech",
+      "summary": "Google Cloud launches Gemini factory for software partners IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRmp5aGdlY3ZhVUkyTEZyLTFpMHhVTE0tV1ZlNVNITjBOeVYxZWJfMjlNdDhSeFJiUnFMTElzMGV4WUZBcThsV09QaHFHcl9LVXpZTDVId3FHdHdlTmhXQlZDQV91clc5NGpZVFh6YnZPZ3ozdGpQdDdrNjJCbFM5Ym0wRTBJSDN1aFBXSnB4SQ?oc=5",
+      "source": "IT Brief UK",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T17:51:36+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google Cloud launches Gemini factory for software partners - IT Brief UK",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b835272ff66a08ccb11b",
+      "title": "Introducing GPT-6.2 Astra and Sol - OpenAI",
+      "category": "ai",
+      "summary": "Introducing GPT-6.2 Astra and Sol OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uaG9wYm5WLWZad2xnSC12anhNVVhCQ0d2aWJUY0l5V1JFNlE3SkhjdE5JSk0zRjVhZk5Da3NzVkp5bDkwcnFnbVZ0RjV1TjFQSVZoSVNUdm5jYW13ZDZ5TTU2eVRBZw?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T17:47:15+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing GPT-6.2 Astra and Sol - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8adf45889d3088177f49",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "category": "tech",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T17:32:25+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "隐私安全",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ac557b856dfe9af00f7b",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "category": "tech",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T17:20:41+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_82d7ce85ff6aec496e05",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "category": "tech",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T16:44:15+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_134e067dda70d4272b20",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "category": "tech",
+      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "source": "TechCrunch",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T16:32:55+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3e92d4f42729688b2769",
+      "title": "Meet AI 2027 Conference (Dec 1)",
+      "category": "ux",
+      "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
+      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "source": "Smashing Magazine",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T12:00:00+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "设计系统"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meet AI 2027 Conference (Dec 1)",
+      "priority": 4,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_548b2244437de1de4b81",
+      "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+      "category": "ux",
+      "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
+      "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+      "source": "Smashing Magazine",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "用户研究",
+        "无障碍设计"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+      "priority": 4,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4bd89a8b12be16ec13a5",
+      "title": "How Revolut raises ambition without lowering the bar - OpenAI",
+      "category": "ai",
+      "summary": "How Revolut raises ambition without lowering the bar OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wcVlNSERLbE1OOGd2ZmhIUzd4QnhUOUQ5Qmh5WWJZQXpBR0NvUHJzbDYwWEtqQzZ5d3NMM1VxSWR2MHd3VjdqaFNwS0RCZk44OUh1dGtPWU5BdUMxT29ndHU4QQ?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T06:01:56+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：How Revolut raises ambition without lowering the bar - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_abb24ea358c65c3662b8",
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -241,6 +783,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8bceb02e587400f20198",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support - OpenAI",
+      "category": "ai",
+      "summary": "Strengthening the fight against online child sexual abuse with new tools and support OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0ZC1UYUtkd0JZU043eUgyaDZuV0UxTzdCRFZqX281andjdGtXTl9IN1g5dTgxSmpDRlJ2b2FFN1M1dHVfTjEzVWVMeEpERjI0RktYNzZNUzUzRW1XSDExY0psTTJ2Z1pOQ0cw?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T17:19:12+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Strengthening the fight against online child sexual abuse with new tools and support - OpenAI",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -684,6 +1246,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_ad70473289713ad8f284",
+      "title": "Full Stack Software Engineer, Travel - OpenAI",
+      "category": "ai",
+      "summary": "Full Stack Software Engineer, Travel OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbDdsdlJXYXNrcndsaFg0Nm0tcjNVdl9tQVpieXY3LW1jMFhpVGFqcEdoMTdJc29Pall3YUc1TnVUd3BEZ2FQeUFHTXpYWVFqV1dBRG5ZLXZpUVJIWWItblZ0U1FJU2tvSV8wU2l0bm1mZ19sOGJFekduLTVCeWw5VTBFaw?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T21:00:40+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Full Stack Software Engineer, Travel - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_643393158678319b339d",
       "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
       "category": "tech",
@@ -825,6 +1407,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_3dc0c3d51b83b23abac2",
+      "title": "Submit product feeds – Agentic Commerce - OpenAI Developers",
+      "category": "ai",
+      "summary": "Submit product feeds – Agentic Commerce OpenAI Developers",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxR2VOcF93U1F1UjlLMWZqZmNIRGFFRGxVWXFsTlFzVkN6UXM4UkdIUDJOUzhzWUIyMEJjVU55Q2k4Q0ZKWkFtNV82S2FhdzJ3U3FkT2pEUGc3SUJCNUh1bTZTcHdnZ19NQnVILXh4Nnpuemgy?oc=5",
+      "source": "OpenAI Developers",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T14:41:15+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI Agent"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Submit product feeds – Agentic Commerce - OpenAI Developers",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_35f372f5ad9b4ac2f26e",
       "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
       "category": "tech",
@@ -882,6 +1484,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang didn’t show confidence in his successor, report says",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f290285c2e0a26732564",
+      "title": "Journey Mapping 101 - Nielsen Norman Group",
+      "category": "ux",
+      "summary": "Journey Mapping 101 Nielsen Norman Group",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NaEswR3JxR2NZazhfU25FSnNKd3diM2VPeDlLNm4xYU1lU0dwVE83MzB1WGk3TmlmZkpTUzFGOTE3ZjY4QktHVnVNR2VKS2g4QUt5aHllQzdJSzlJYUpYbGV5SQ?oc=5",
+      "source": "Nielsen Norman Group",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "added": "2026-11-18",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "用户旅程"
+      ],
+      "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
+      "takeaway": "先阅读原文核对事实；重点关注：Journey Mapping 101 - Nielsen Norman Group",
+      "priority": 3,
       "analysisType": "规则初筛"
     },
     {
@@ -12785,7 +13407,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 25,
+  "newCount": 31,
   "sourcesChecked": 7,
-  "archivedDays": 29
+  "archivedDays": 30
 }
