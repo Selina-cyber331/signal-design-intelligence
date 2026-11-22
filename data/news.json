@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-11-21T04:39:48.890623+00:00",
+  "updatedAt": "2026-11-22T03:54:01.886683+00:00",
   "articles": [
+    {
+      "id": "rss_273e29c85872bd3fb73b",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "category": "tech",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "date": "2026-11-21",
+      "publishedAt": "2026-11-21T21:37:10+00:00",
+      "added": "2026-11-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f4dd91f99ecc730a8202",
+      "title": "A tale of two Nvidias",
+      "category": "tech",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch",
+      "date": "2026-11-21",
+      "publishedAt": "2026-11-21T21:07:42+00:00",
+      "added": "2026-11-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：A tale of two Nvidias",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f8cfbb2d2e3492f9bcce",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "category": "tech",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "source": "TechCrunch",
+      "date": "2026-11-21",
+      "publishedAt": "2026-11-21T18:44:53+00:00",
+      "added": "2026-11-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Trump says reported FBI database hack is ‘not good’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_359fe5e7e4eff2a2b769",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "category": "tech",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "date": "2026-11-21",
+      "publishedAt": "2026-11-21T16:00:00+00:00",
+      "added": "2026-11-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_696b207e40b021e23054",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "category": "tech",
+      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "source": "TechCrunch",
+      "date": "2026-11-21",
+      "publishedAt": "2026-11-21T15:18:29+00:00",
+      "added": "2026-11-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Alaska, your next governor is a Wikipedia nerd",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_21a19713210b55aa9aae",
       "title": "Startup sues Apple in India over tap-to-share contacts feature",
@@ -19,6 +119,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Startup sues Apple in India over tap-to-share contacts feature",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e1fc2e16e3eab135a792",
+      "title": "Workflow Lab: Turning Context Into a Plan With Specs and the Figma Agent - Figma",
+      "category": "figma",
+      "summary": "Workflow Lab: Turning Context Into a Plan With Specs and the Figma Agent Figma",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LWU9GNUdmWFY3VHY1Uk1mdHk3QlpKcEc5TExJRnN6Uy0zaFdidFBUUzcxUEFKOEFmQWdfZkl2MDlaYXJwQXgzRUlHdDJiOFVGWFFyN0g5Q0NZSDV2bXp5WWRybE51QTdoX1RmTWlwc1FWRFNQ?oc=5",
+      "source": "Figma",
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T22:10:21+00:00",
+      "added": "2026-11-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Workflow Lab: Turning Context Into a Plan With Specs and the Figma Agent - Figma",
+      "priority": 3,
       "analysisType": "规则初筛"
     },
     {
@@ -282,6 +402,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_8b8edbcb7acfa9d27cf7",
+      "title": "iPhone Duo: why Apple's foldable phone took so long - DesignWanted",
+      "category": "tech",
+      "summary": "iPhone Duo: why Apple's foldable phone took so long DesignWanted",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11T1FYVV9RcXlSMDF0a2pSR1lTcHZDbjhSa194WjkyNkZWR3ZpQktja1JjcUxSQWp4NnEyQ0V5czdjN3Vmc21HWnFfblQtcGN4STQzbG41ak1EaU5Fd2w3Yw?oc=5",
+      "source": "DesignWanted",
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T06:00:00+00:00",
+      "added": "2026-11-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：iPhone Duo: why Apple's foldable phone took so long - DesignWanted",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_58e50d15874a1f1510da",
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "category": "tech",
@@ -480,6 +620,26 @@
       ],
       "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
       "takeaway": "先阅读原文核对事实；重点关注：GTM Strategy & Operations, Sales Programs - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d32996224abd470c5710",
+      "title": "Designer, OpenAI.com - OpenAI",
+      "category": "ai",
+      "summary": "Designer, OpenAI.com OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSYzlqVl9rTE1jdWszTGpuMGRYYVJZNm55RHlFdUpvQmtQT0V6WFVHUk9ja1BBOFRkUGtFeUJTOEpYTXFHX0pFWF9uRGpZYk50dUZpS29SVVdUb0lGdWJnSl91UThYUTQ?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T19:55:09+00:00",
+      "added": "2026-11-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Designer, OpenAI.com - OpenAI",
       "priority": 2,
       "analysisType": "规则初筛"
     },
@@ -1085,6 +1245,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Spend management platform Payhawk announces $280M raise, 2B valuation",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_03a3cc79afe735b7562d",
+      "title": "Applied AI Delivery Lead - OpenAI",
+      "category": "ai",
+      "summary": "Applied AI Delivery Lead OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xYTNfbjhCcmlTTmdHa1M3SXEzcjN0SFYyT0R3ellfUWtuVTJnYWJ2N2dYdFFsWURnZUp6eHA4VC1iazliQWNRblJaMUh1dUdpbE4yMlpuamJXOVpfai11TVdXOEtFajk0SFBSNkFmdw?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T19:13:01+00:00",
+      "added": "2026-11-22",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Applied AI Delivery Lead - OpenAI",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -14953,7 +15133,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 19,
+  "newCount": 9,
   "sourcesChecked": 7,
-  "archivedDays": 33
+  "archivedDays": 34
 }
