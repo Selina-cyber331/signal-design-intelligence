@@ -1,6 +1,166 @@
 {
-  "updatedAt": "2026-11-22T03:54:01.886683+00:00",
+  "updatedAt": "2026-11-23T04:34:14.098953+00:00",
   "articles": [
+    {
+      "id": "rss_14f24fe3cd9bd0089dcc",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "category": "tech",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T01:25:53+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_8eb7eddbd2977973eede",
+      "title": "iPhone 18 Major Updates: Launch Next Spring, Apple’s Post-Release Challenges Just Beginning - eu.36kr.com",
+      "category": "tech",
+      "summary": "iPhone 18 Major Updates: Launch Next Spring, Apple’s Post-Release Challenges Just Beginning eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYSTc0SnQ5b0RabnVWZEhoT2xVVC1jSEhaLUU5aFRNNVo0VnZJUHZhMTYzRDEtNl9iS1FGN2V5TTl4eUZvdFNaU3UyVEZGLVBvU1o4?oc=5",
+      "source": "eu.36kr.com",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T00:22:53+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：iPhone 18 Major Updates: Launch Next Spring, Apple’s Post-Release Challenges Just Beginning - eu.36k",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c576af48dfad1ddb07fc",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "category": "tech",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "source": "TechCrunch",
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T21:42:48+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：‘You Can See Everything’ has made more than $100M worldwide",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a907604a5b5f415db818",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "category": "tech",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T21:14:07+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2ce1358d2f4d27dc6b69",
+      "title": "The best apps to make new friends right now",
+      "category": "tech",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "source": "TechCrunch",
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T21:00:00+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The best apps to make new friends right now",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_53e861c145e4619884fe",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "category": "tech",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "source": "TechCrunch",
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T18:08:43+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Why data centers are at the center of the Big Tech backlash",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_52a9ed82c081f42e7080",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "category": "tech",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "source": "TechCrunch",
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T17:06:00+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：TechCrunch Mobility: A/B testing robots vs. humans",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_1bdff1fbd2d2f1703aeb",
+      "title": "Can a TV be too large? An investigation",
+      "category": "tech",
+      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "source": "TechCrunch",
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T15:00:00+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Can a TV be too large? An investigation",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_273e29c85872bd3fb73b",
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -99,6 +259,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Alaska, your next governor is a Wikipedia nerd",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c1abc7741cb17fe0abd1",
+      "title": "iPhone 18 launch, India price and expected specs - News Karnataka",
+      "category": "tech",
+      "summary": "iPhone 18 launch, India price and expected specs News Karnataka",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLW5hc1dJUU94RzZJWFB6QWhEOG90QjljaTVkczMzUjY2S3loVXBZV1kwYjh0YXUxeVpsNThTRy1RMWoxXzFEU0RxSm5JenpfZlQzU1RSTzV6Q0M5ekJTb2pBbnZ5b2xtTWdlQXhNbElxd0t3eWp6SnpIMXdsMWp4MzNJZkc3RGxOWEpIVGhMVTVrSjk5U0RxdXdB?oc=5",
+      "source": "News Karnataka",
+      "date": "2026-11-21",
+      "publishedAt": "2026-11-21T04:57:20+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：iPhone 18 launch, India price and expected specs - News Karnataka",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -1728,6 +1908,26 @@
       "analysisType": "规则初筛"
     },
     {
+      "id": "rss_ecd2cfd47a6716521a36",
+      "title": "What Is Motion Design? Definition and Examples - Figma",
+      "category": "figma",
+      "summary": "What Is Motion Design? Definition and Examples Figma",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCV2daWDg1LXYySzRBb2hYYW9oMWt2eVJQOFd4M1AtYnlBSU1OU01namdoR09waHkyZHpBeHdDZTdJUTBDQXBONFdRZEtqNTgzS0l5OEdEcV91d2UtTVhIZ1lFWDlpVGt3MnhubUlR?oc=5",
+      "source": "Figma",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T20:45:35+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：What Is Motion Design? Definition and Examples - Figma",
+      "priority": 3,
+      "analysisType": "规则初筛"
+    },
+    {
       "id": "rss_95cb1d6bea7ef2a1e9f1",
       "title": "Waymo suspends freeway rides nationwide after California DMV order",
       "category": "tech",
@@ -1825,6 +2025,26 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
       "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6606c5a56ba0428f063b",
+      "title": "Brazil’s Internet Civil Rights Framework (Marco Civil da Internet) 2014 - Figma",
+      "category": "figma",
+      "summary": "Brazil’s Internet Civil Rights Framework (Marco Civil da Internet) 2014 Figma",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2ljbklMdUNpWlpHcGpwR3hFbVUydUkydFRBcFZGbzViR0tneVF2ZF9PX0ltMmc0X2Rlck5rekVSVGRHalR0ZGEwUDk0dk9ncFVFZ3ZSSEVPQXZNYXRsX2g1MHdaQm1mMERfOWYxRERPSl9TSkNBYmo2V2ZjSGxGTXR6bmNYdXUtdDl1MkEyZDRxZw?oc=5",
+      "source": "Figma",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T18:39:28+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "Figma工作流"
+      ],
+      "learning": "评估是否能优化组件、原型或设计交付的日常步骤。",
+      "takeaway": "先阅读原文核对事实；重点关注：Brazil’s Internet Civil Rights Framework (Marco Civil da Internet) 2014 - Figma",
+      "priority": 3,
       "analysisType": "规则初筛"
     },
     {
@@ -1985,6 +2205,26 @@
       ],
       "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
       "takeaway": "先阅读原文核对事实；重点关注：Google Wallet is now available on iOS in the U.S. - blog.google",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b64a39bb68b1f2bd76a9",
+      "title": "Temporary threads are now available in AI Mode in Search. - blog.google",
+      "category": "ai",
+      "summary": "Temporary threads are now available in AI Mode in Search. blog.google",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2h4a3RBSWR6SVVORWlYejRYdExrVG5pMDB0MDgtc2YtcTU5MGE0SUJGVVpZQlRrZUJqQmZnQjR5dGlnaFJyckxfWnlHS1VuTl9veHh2ZGpUQ1NMSklsZURyWGo3MWd2TENxMHRHV1lsUVd6Ym9sNWZzM3Yya05uQWt3cEdZQkdDaFJTS1BR?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T17:03:31+00:00",
+      "added": "2026-11-23",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Temporary threads are now available in AI Mode in Search. - blog.google",
       "priority": 2,
       "analysisType": "规则初筛"
     },
@@ -15133,7 +15373,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 9,
+  "newCount": 12,
   "sourcesChecked": 7,
-  "archivedDays": 34
+  "archivedDays": 35
 }
