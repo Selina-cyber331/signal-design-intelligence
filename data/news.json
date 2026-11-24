@@ -1,6 +1,508 @@
 {
-  "updatedAt": "2026-11-23T04:34:14.098953+00:00",
+  "updatedAt": "2026-11-24T07:28:03.217388+00:00",
   "articles": [
+    {
+      "id": "rss_149b6f9fc7b333788e43",
+      "title": "Getting started with your dot | OpenAI Help Center - OpenAI Help Center",
+      "category": "ai",
+      "summary": "Getting started with your dot | OpenAI Help Center OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13di0yRW0tMF9iS1NfZlFCUmVSNEZ6WEVka2U2TkVrMUI5Q0ROdUlrS0tER3NVa0d2eFBUTGdPVERXMXRlMmJET3FVaUxHWFhYOVZJamtBV1JqMGx0MzFKSUdrZmdZNmZPTF8weUdmNmFHdFNVTGNCdTY4QTVjOVE?oc=5",
+      "source": "OpenAI Help Center",
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T03:05:51+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Getting started with your dot | OpenAI Help Center - OpenAI Help Center",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6b62c693d9521d9b3e05",
+      "title": "GPT-6.2 in ChatGPT System Card - OpenAI",
+      "category": "ai",
+      "summary": "GPT-6.2 in ChatGPT System Card OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81dDliQmI0UlpOd25rTjhrSnZmR2Zid200X2p5bG15eVJuT05BYU1JdnZzOC1rT1c1OVNLeDFUd1ZpZXVLWTgtTmstb1FvTE82bnVsdnFTc0M0cGFSSTZiYg?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T01:00:20+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：GPT-6.2 in ChatGPT System Card - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ed03593d9df3d86fdf54",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "category": "tech",
+      "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T23:07:49+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Figma employee sues, alleging company forced her to confront harassers",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_a21769a3e0022d542bc4",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "category": "tech",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T22:05:50+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_b93bb076acd5aff65851",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "category": "tech",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T22:02:05+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6c998f4477eb56968bc2",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "category": "tech",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T21:47:41+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_81efd89787806d1da82d",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "category": "tech",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T21:25:42+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_52b77fef62734112e265",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "category": "tech",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T20:38:53+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_217e81673a98f571b56a",
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "category": "tech",
+      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T19:31:41+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to N",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_358078a1cbe2543526f7",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "category": "tech",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T19:14:46+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_042714a4bd9635a3c0e0",
+      "title": "Introducing OpenWorks - OpenAI",
+      "category": "ai",
+      "summary": "Introducing OpenWorks OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB3dnpudUxOQ0JOd0pNZ1Q3Qm5qM1plZTBTQ1pwZkg4NFVxUlViTmZRd25PVTkwSEdtNmF0dnFUUUxNalk?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T18:15:12+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Introducing OpenWorks - OpenAI",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4ae44739900019895030",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "category": "tech",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T18:12:22+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_e7a4c70a196b2ade3cd2",
+      "title": "Apple’s THESE exciting products expected to launch in 2027 - The News International",
+      "category": "tech",
+      "summary": "Apple’s THESE exciting products expected to launch in 2027 The News International",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQlgyVEN6YXZTU0l6TmtHSDdfLTV4Ri1tQXJHTU92WDFfS09vNWw3VjY3alE3QnV0Y0pjMXFJRW1JdFdVdEdsV3JLdjYyeXVCcTVRS1A0bnlpRmtRcjhKRnBsTTJPQXdOVXhvNzlORV9pZG1JT244MHJUVUptWE5vb19mcXVTeDRSTlNJa01RSU9iaFNpbTAwa2tlU2hjOWlx0gGcAUFVX3lxTFBPcGc2alVUeXIydGI5ZzROcjVMNVRiYUJ3U19hMV9PYXZKLWJWZkZnY2RoX0FfaGFGWjI3Tk8yNlpBVk1vSFlBb1lueUUwYnVTS3NTT2RlY2FEUkxEMzExZkkzTDd4VF9pTlVMM2o3QUljVmJwZmlZUFo4QVB5azNHX21ha2k4dUFTZDd6cy1NYjdvb1Y1MDlQbjJHdg?oc=5",
+      "source": "The News International",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T17:49:00+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple’s THESE exciting products expected to launch in 2027 - The News International",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_48bbcc59f9dc697935f3",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "category": "tech",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T17:14:23+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7ab140e62fd1333aedda",
+      "title": "Meta throws out its net-zero goal — its competitors should be furious",
+      "category": "tech",
+      "summary": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T17:13:45+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Meta throws out its net-zero goal — its competitors should be furious",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_c6a297e4dda15e926c64",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "category": "tech",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T16:57:40+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang isn’t out of the woods yet",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_da0a8528e1ee19366bb6",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "category": "tech",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T16:39:10+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7bc5a04f0f23925902aa",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "category": "tech",
+      "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T16:20:11+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：CrowdStrike to acquire Zscaler for $44 billion",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2958fec2ca3484116d07",
+      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "category": "tech",
+      "summary": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T15:29:49+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "隐私安全",
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_aef1222cec8a4ec24843",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "category": "tech",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T15:04:01+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_d5485d0928ea273e623f",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "category": "tech",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T14:43:03+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_85a0946ec7405f7eb643",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "category": "tech",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T14:21:59+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia reverses course and brings Jensen Huang back as CEO",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_1a0538be9fb55cff2d3f",
+      "title": "Uber now lets you book rides that record the drive by default",
+      "category": "tech",
+      "summary": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
+      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T14:00:00+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Uber now lets you book rides that record the drive by default",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_4ed97e58b35e312a2d1e",
+      "title": "Apple to Launch iPhone 18, New MacBook Neo and More Products in Early 2027 - Deccan Chronicle",
+      "category": "tech",
+      "summary": "Apple to Launch iPhone 18, New MacBook Neo and More Products in Early 2027 Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbEE1Y29CZU54RXEzVW1lY3BFckt6dnVPLWdKUFkyYW1NbGNKV3JmVEpuRU1LUDNiQzVhVkRadjAwOGdGamZ3RW01Qkk4UEZCRk5OYm5uQUxseDc2RUd4Q3pDMVFLUVVqVlNZOGxrZGZMckFWdjZNeUFLTWFnWlR3Z0VnWTZrMGVKQi0tMExuVDhPeFpMNjFnaURMeXF3QmtYNjcxVUREOUZoUXM3QXBKZ0pkV3ljUlowNnFUb2lBLWlKZ9IBxwFBVV95cUxNa1Mwd2xHQ1B0Y0IybjBVenN3V3QzemZWeUdOY2hBQUY4X0dGYklXSUVsWEpoQmlNYmh3S1U4RWhMbnVhZFZqWWlkZzVsRGJBWEFEWDVkMk05aXhyZkxIaVRHSmIzZlhtV2hjbzZOeWdkMHZ6MUh0M1o4aUpUei1lNUJaVURnVEhEc0lXSkk0VzB5Si1walA5VXpNSms3cXFtempYVklIZW8zMVpjd1YydDVmeDJINVRoMHZ6SC0wenJINGpzdkNv?oc=5",
+      "source": "Deccan Chronicle",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T12:56:08+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple to Launch iPhone 18, New MacBook Neo and More Products in Early 2027 - Deccan Chronicle",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_05b0ff9b8535b96271ad",
+      "title": "iPhone 18 new models launch in 2027: Expected date - Gulf Business",
+      "category": "tech",
+      "summary": "iPhone 18 new models launch in 2027: Expected date Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOW5LN1JBd0lIcndkeHVKWTJVNGNIOG9FaXZoa2JHNGVXMUFEWlhrdHB1R0FxeTktaUE5bVp2NlY4Z2FHS0x6cXZ0ajRqU0w4X2xHakkya29iWmw4XzJyeHMxSm5mTUlfSnVoOVQ5VUNzTnZkYzdsNi1uYmpnaUQ2eC0xM1U5TE5DcmF0akt2dC1TdDRCMHc?oc=5",
+      "source": "Gulf Business",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T06:55:13+00:00",
+      "added": "2026-11-24",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：iPhone 18 new models launch in 2027: Expected date - Gulf Business",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_14f24fe3cd9bd0089dcc",
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -15373,7 +15875,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 12,
+  "newCount": 25,
   "sourcesChecked": 7,
-  "archivedDays": 35
+  "archivedDays": 36
 }
