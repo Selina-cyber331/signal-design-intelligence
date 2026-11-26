@@ -1,6 +1,388 @@
 {
-  "updatedAt": "2026-11-25T05:57:14.593393+00:00",
+  "updatedAt": "2026-11-26T05:49:42.844375+00:00",
   "articles": [
+    {
+      "id": "rss_564661fc02c97c002368",
+      "title": "Apple Plans Budget Device Launch for Early 2027 - Udaipur Kiran",
+      "category": "tech",
+      "summary": "Apple Plans Budget Device Launch for Early 2027 Udaipur Kiran",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wVWZXeUpQckRwc21LZkV0alhhSU1RYkRSbUJ3NnZJSmFCdGw4Zi16SEk3OUtqVFZKY3dRMFNqUVdmdjFQMnJQQzJWcTAxZ2dEQzZZMHZpdWpJMDlXV0RTRFdsZ1JxMkhFX0lqMEpiSUpSMFgzZTRoU0wyaHdzdw?oc=5",
+      "source": "Udaipur Kiran",
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T02:07:21+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Plans Budget Device Launch for Early 2027 - Udaipur Kiran",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_481f08329ff9304bc9d1",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "category": "tech",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T22:44:32+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_eb4cd251378a16ca3bd9",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "category": "tech",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T20:56:44+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：FCC approves SpaceX plan to put AI data centers in space",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_04ac9164a2f516001366",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "category": "tech",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T20:03:27+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_637b5ffd6d74d0859f71",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "category": "tech",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T19:54:57+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_29b55f7f4c6a9369e320",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "category": "tech",
+      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T19:54:32+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2319a981b4ca4aa31b5e",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "category": "tech",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T19:44:24+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ff00b862020a58f9b7dd",
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "category": "tech",
+      "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T18:49:52+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_da2dfc68af2d5683664f",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "category": "tech",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T18:11:46+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Want to buy your kid an AI toy this Christmas? Not in New York",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_6e4eed314c2a27fc8458",
+      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+      "category": "tech",
+      "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T17:36:51+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_0c8a154428c86b4d57ab",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "category": "tech",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T17:35:58+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2f99d4b090e7c2b8dffa",
+      "title": "X’s latest update for creators focuses on vertical video",
+      "category": "tech",
+      "summary": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
+      "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T17:28:29+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：X’s latest update for creators focuses on vertical video",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_2c9e2efb751805964ba5",
+      "title": "Migrating our Messages API to Rust - Anthropic",
+      "category": "ai",
+      "summary": "Migrating our Messages API to Rust Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91blh2eENvd0hsR25fTlhrSkktUlc3djUxb3NYdGo2dm1maGJfZlhvU3NhSS1rWk45WDczZnpiUzVrOEFWVVA1aDRfSXo3YkpfY0RuSzdESDVlU1FqN1VBV1N3Mm5ZdTQ?oc=5",
+      "source": "Anthropic",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T17:15:45+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "API集成"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Migrating our Messages API to Rust - Anthropic",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_42a31c149ecc25fcbc69",
+      "title": "WhatsApp now lets you schedule messages in group and individual chats",
+      "category": "tech",
+      "summary": "Users can schedule messages from 10 minutes later to after 14 days.",
+      "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T16:57:51+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：WhatsApp now lets you schedule messages in group and individual chats",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_13fd49e66fb58cd8cf29",
+      "title": "Allstate suffers multiday tech outage ahead of Thanksgiving",
+      "category": "tech",
+      "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+      "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T15:08:37+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Allstate suffers multiday tech outage ahead of Thanksgiving",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5e0068cd9bac2f276223",
+      "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+      "category": "tech",
+      "summary": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+      "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T14:20:28+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Todoist confirms 6% of customers’ details were stolen in data breach",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_91b15579996264a2910b",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "category": "tech",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T14:10:18+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_f12d81bfd869bc9a6464",
+      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "category": "tech",
+      "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
+      "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T13:08:19+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品",
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_86f473250fbc2112a478",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "category": "tech",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T13:00:00+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_a3851e905c4b26544269",
       "title": "Google Pixel 12 Expected G7 Chip, Android 18: Launch Date, Price, Specifications - Times Bull",
@@ -279,6 +661,26 @@
       ],
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Meta brings its Muse AI assistant directly into Instagram DMs",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_ae21f00e866aac5c19f7",
+      "title": "Apple Glass - AppleInsider",
+      "category": "tech",
+      "summary": "Apple Glass AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQ2p1VjRWSVUxbkUyNGFtb0NNenhYYXllYkFNWmhhamNtRFZtTXRLeDA2YWo0Y3pzOTI3bkc4YklPVUN5QzhuYW1mUzFmNTdRQUFkbTBR?oc=5",
+      "source": "AppleInsider",
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T16:51:29+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品趋势"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Apple Glass - AppleInsider",
       "priority": 1,
       "analysisType": "规则初筛"
     },
@@ -741,6 +1143,27 @@
       "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
       "takeaway": "先阅读原文核对事实；重点关注：Meta throws out its net-zero goal — its competitors should be furious",
       "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_35a8178b25b14a3b87df",
+      "title": "How iFood scales coding agents across 15,000 repositories - OpenAI",
+      "category": "ai",
+      "summary": "How iFood scales coding agents across 15,000 repositories OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZU0wc3hudzhzNVA5NEd5ZnZ2LXg0U2ZrLWhUbktMQmY1M1h2N0lkSUltVVluR0ppTmJodUh6S29oaVNuNzNTQmQxbTZKbS1HSWxNQzB3ZE1FbHRfTUh2eg?oc=5",
+      "source": "OpenAI",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T17:11:09+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI Agent",
+        "AI编程"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：How iFood scales coding agents across 15,000 repositories - OpenAI",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -3291,6 +3714,26 @@
       "learning": "对照当前项目，思考如何把相关方法用于调研、验证或设计决策。",
       "takeaway": "先阅读原文核对事实；重点关注：AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
       "priority": 4,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_70a5c65ee6149cad61a3",
+      "title": "Google Play: Best Apps and Games in India in 2026 - blog.google",
+      "category": "ai",
+      "summary": "Google Play: Best Apps and Games in India in 2026 blog.google",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV3IyUk9jeXRfNXo0TGNETWxiUGFzbERTN0Zfc1BzZnBrMXE0QUliQkJ4Q1EtdDBqQmZQNzhBZjBKckl3dGhtTmRNdk05d01VNUF5RHdJYWdEMS1QaWZUZTFqWWU1U05ZNEt5YUZLX19ZSG01MnljSnMwOHZVQkg5YnNVcjJ6R2lvcjdnX05QMnZ5dDRMTTZzRjlLbnBwNEVp?oc=5",
+      "source": "blog.google",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "added": "2026-11-26",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI应用"
+      ],
+      "learning": "辨别新能力适合解决什么真实设计问题，并安排一次小规模试用。",
+      "takeaway": "先阅读原文核对事实；重点关注：Google Play: Best Apps and Games in India in 2026 - blog.google",
+      "priority": 2,
       "analysisType": "规则初筛"
     },
     {
@@ -16357,7 +16800,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 24,
+  "newCount": 22,
   "sourcesChecked": 7,
-  "archivedDays": 37
+  "archivedDays": 38
 }
