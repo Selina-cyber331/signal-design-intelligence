@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-11-26T05:49:42.844375+00:00",
+  "updatedAt": "2026-11-27T05:43:41.294170+00:00",
   "articles": [
+    {
+      "id": "rss_6d6de309e5d8b357ce38",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "category": "tech",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T20:03:54+00:00",
+      "added": "2026-11-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Nvidia hits pause on chip shipments to Southeast Asia",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_5885dbe6171c66eff37f",
+      "title": "Is Alice Huang a spy or not?",
+      "category": "tech",
+      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "source": "TechCrunch",
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T20:00:00+00:00",
+      "added": "2026-11-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Is Alice Huang a spy or not?",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_7c4e925628656afff04b",
+      "title": "X finally gets parental controls after 20 years",
+      "category": "tech",
+      "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "source": "TechCrunch",
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T19:31:50+00:00",
+      "added": "2026-11-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "平台生态"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：X finally gets parental controls after 20 years",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_15e496f0b2267bb3febf",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "category": "tech",
+      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "source": "TechCrunch",
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T17:00:00+00:00",
+      "added": "2026-11-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：A month with the iPhone Duo has changed how I use my phone",
+      "priority": 1,
+      "analysisType": "规则初筛"
+    },
+    {
+      "id": "rss_3d9a1c5e992e8bbbc490",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "category": "tech",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch",
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T16:00:00+00:00",
+      "added": "2026-11-27",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "AI产品"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_564661fc02c97c002368",
       "title": "Apple Plans Budget Device Launch for Early 2027 - Udaipur Kiran",
@@ -16800,7 +16900,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 22,
+  "newCount": 5,
   "sourcesChecked": 7,
-  "archivedDays": 38
+  "archivedDays": 39
 }
