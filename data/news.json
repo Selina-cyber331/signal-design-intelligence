@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-27T05:43:41.294170+00:00",
+  "updatedAt": "2026-11-28T05:23:23.025311+00:00",
   "articles": [
+    {
+      "id": "rss_2cd63b12fbc02eb98e13",
+      "title": "IPhone 20 Pro Leak Hints at Ceramic Design and Limited Production for Apple's 2027 Launch - Mashable India",
+      "category": "tech",
+      "summary": "IPhone 20 Pro Leak Hints at Ceramic Design and Limited Production for Apple's 2027 Launch Mashable India",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0pQQUVuamh6Y0NTLUpFZlBycDE4Q0hQXy1TTUJlRmRaS1ktUzd0YlBjLXplcUd1ZWF0MW9LamdBRHZ1Ui1kY3lYR1dTN0dlQmllNFVDa3hydHlZQVZCTnJQa00zcEFPb0tyUk13ckpFZUQ2SHpad3NDb0lxOHpkcnluYU0tRUc2OUlhV0czaE1uVms4dEFHZzg4ekNoRXRTbmh2c084bWJGak53eW1RUk1lOGhqckdYX1ZWNnhjclVaQQ?oc=5",
+      "source": "Mashable India",
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T09:33:19+00:00",
+      "added": "2026-11-28",
+      "saved": false,
+      "automatic": true,
+      "keywords": [
+        "产品策略"
+      ],
+      "learning": "观察产品定位、交互决策和用户价值能否迁移到你的项目。",
+      "takeaway": "先阅读原文核对事实；重点关注：IPhone 20 Pro Leak Hints at Ceramic Design and Limited Production for Apple's 2027 Launch - Mashable",
+      "priority": 2,
+      "analysisType": "规则初筛"
+    },
     {
       "id": "rss_6d6de309e5d8b357ce38",
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -16900,7 +16920,7 @@
     }
   ],
   "status": "ok",
-  "newCount": 5,
+  "newCount": 1,
   "sourcesChecked": 7,
-  "archivedDays": 39
+  "archivedDays": 40
 }
